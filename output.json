@@ -1,6939 +1,3886 @@
 [
   {
-    "_id": {
-      "quarter": "2022-12-08 00:00:00"
-    },
-    "totalRemainingNominal": 657800,
-    "countFlows": 263
+    "_id": "commercial",
+    "totalRemainingNominal": 3392079
   },
   {
-    "_id": {
-      "quarter": "2022-12-09 00:00:00"
-    },
-    "totalRemainingNominal": 1322367,
-    "countFlows": 520
+    "_id": "forget",
+    "totalRemainingNominal": 2845376
   },
   {
-    "_id": {
-      "quarter": "2022-12-10 00:00:00"
-    },
-    "totalRemainingNominal": 1325007,
-    "countFlows": 542
+    "_id": "each",
+    "totalRemainingNominal": 3104400
   },
   {
-    "_id": {
-      "quarter": "2022-12-11 00:00:00"
-    },
-    "totalRemainingNominal": 1388811,
-    "countFlows": 561
+    "_id": "painting",
+    "totalRemainingNominal": 3108504
   },
   {
-    "_id": {
-      "quarter": "2022-12-12 00:00:00"
-    },
-    "totalRemainingNominal": 1353591,
-    "countFlows": 545
+    "_id": "especially",
+    "totalRemainingNominal": 2743465
   },
   {
-    "_id": {
-      "quarter": "2022-12-13 00:00:00"
-    },
-    "totalRemainingNominal": 1419992,
-    "countFlows": 547
+    "_id": "real",
+    "totalRemainingNominal": 3094800
   },
   {
-    "_id": {
-      "quarter": "2022-12-14 00:00:00"
-    },
-    "totalRemainingNominal": 1449471,
-    "countFlows": 561
+    "_id": "direction",
+    "totalRemainingNominal": 2946157
   },
   {
-    "_id": {
-      "quarter": "2022-12-15 00:00:00"
-    },
-    "totalRemainingNominal": 1355090,
-    "countFlows": 530
+    "_id": "career",
+    "totalRemainingNominal": 2830196
   },
   {
-    "_id": {
-      "quarter": "2022-12-16 00:00:00"
-    },
-    "totalRemainingNominal": 1392410,
-    "countFlows": 547
+    "_id": "they",
+    "totalRemainingNominal": 2828211
   },
   {
-    "_id": {
-      "quarter": "2022-12-17 00:00:00"
-    },
-    "totalRemainingNominal": 1383410,
-    "countFlows": 535
+    "_id": "bed",
+    "totalRemainingNominal": 3222266
   },
   {
-    "_id": {
-      "quarter": "2022-12-18 00:00:00"
-    },
-    "totalRemainingNominal": 1424415,
-    "countFlows": 545
+    "_id": "he",
+    "totalRemainingNominal": 2542071
   },
   {
-    "_id": {
-      "quarter": "2022-12-19 00:00:00"
-    },
-    "totalRemainingNominal": 1281329,
-    "countFlows": 521
+    "_id": "begin",
+    "totalRemainingNominal": 2764644
   },
   {
-    "_id": {
-      "quarter": "2022-12-20 00:00:00"
-    },
-    "totalRemainingNominal": 1477412,
-    "countFlows": 574
+    "_id": "sometimes",
+    "totalRemainingNominal": 2667952
   },
   {
-    "_id": {
-      "quarter": "2022-12-21 00:00:00"
-    },
-    "totalRemainingNominal": 1394733,
-    "countFlows": 547
+    "_id": "describe",
+    "totalRemainingNominal": 2870438
   },
   {
-    "_id": {
-      "quarter": "2022-12-22 00:00:00"
-    },
-    "totalRemainingNominal": 1424678,
-    "countFlows": 551
+    "_id": "serious",
+    "totalRemainingNominal": 2967026
   },
   {
-    "_id": {
-      "quarter": "2022-12-23 00:00:00"
-    },
-    "totalRemainingNominal": 1417544,
-    "countFlows": 568
+    "_id": "reflect",
+    "totalRemainingNominal": 3299689
   },
   {
-    "_id": {
-      "quarter": "2022-12-24 00:00:00"
-    },
-    "totalRemainingNominal": 1377368,
-    "countFlows": 525
+    "_id": "after",
+    "totalRemainingNominal": 2824933
   },
   {
-    "_id": {
-      "quarter": "2022-12-25 00:00:00"
-    },
-    "totalRemainingNominal": 1390565,
-    "countFlows": 566
+    "_id": "environment",
+    "totalRemainingNominal": 2951956
   },
   {
-    "_id": {
-      "quarter": "2022-12-26 00:00:00"
-    },
-    "totalRemainingNominal": 1425361,
-    "countFlows": 563
+    "_id": "trial",
+    "totalRemainingNominal": 3165082
   },
   {
-    "_id": {
-      "quarter": "2022-12-27 00:00:00"
-    },
-    "totalRemainingNominal": 1385562,
-    "countFlows": 554
+    "_id": "practice",
+    "totalRemainingNominal": 3080549
   },
   {
-    "_id": {
-      "quarter": "2022-12-28 00:00:00"
-    },
-    "totalRemainingNominal": 1456684,
-    "countFlows": 556
+    "_id": "century",
+    "totalRemainingNominal": 2943441
   },
   {
-    "_id": {
-      "quarter": "2022-12-29 00:00:00"
-    },
-    "totalRemainingNominal": 1384883,
-    "countFlows": 541
+    "_id": "network",
+    "totalRemainingNominal": 2928635
   },
   {
-    "_id": {
-      "quarter": "2022-12-30 00:00:00"
-    },
-    "totalRemainingNominal": 1519421,
-    "countFlows": 592
+    "_id": "view",
+    "totalRemainingNominal": 3098502
   },
   {
-    "_id": {
-      "quarter": "2022-12-31 00:00:00"
-    },
-    "totalRemainingNominal": 1339793,
-    "countFlows": 534
+    "_id": "plan",
+    "totalRemainingNominal": 2888437
   },
   {
-    "_id": {
-      "quarter": "2023-01-01 00:00:00"
-    },
-    "totalRemainingNominal": 1466292,
-    "countFlows": 560
+    "_id": "better",
+    "totalRemainingNominal": 3047689
   },
   {
-    "_id": {
-      "quarter": "2023-01-02 00:00:00"
-    },
-    "totalRemainingNominal": 1416464,
-    "countFlows": 550
+    "_id": "build",
+    "totalRemainingNominal": 3240748
   },
   {
-    "_id": {
-      "quarter": "2023-01-03 00:00:00"
-    },
-    "totalRemainingNominal": 1424767,
-    "countFlows": 570
+    "_id": "bit",
+    "totalRemainingNominal": 3089127
   },
   {
-    "_id": {
-      "quarter": "2023-01-04 00:00:00"
-    },
-    "totalRemainingNominal": 1214824,
-    "countFlows": 482
+    "_id": "child",
+    "totalRemainingNominal": 3216214
   },
   {
-    "_id": {
-      "quarter": "2023-01-05 00:00:00"
-    },
-    "totalRemainingNominal": 1487723,
-    "countFlows": 570
+    "_id": "phone",
+    "totalRemainingNominal": 3057137
   },
   {
-    "_id": {
-      "quarter": "2023-01-06 00:00:00"
-    },
-    "totalRemainingNominal": 1347565,
-    "countFlows": 536
+    "_id": "surface",
+    "totalRemainingNominal": 2856524
   },
   {
-    "_id": {
-      "quarter": "2023-01-07 00:00:00"
-    },
-    "totalRemainingNominal": 1319193,
-    "countFlows": 520
+    "_id": "data",
+    "totalRemainingNominal": 3226643
   },
   {
-    "_id": {
-      "quarter": "2023-01-08 00:00:00"
-    },
-    "totalRemainingNominal": 1289361,
-    "countFlows": 513
+    "_id": "break",
+    "totalRemainingNominal": 3275949
   },
   {
-    "_id": {
-      "quarter": "2023-01-09 00:00:00"
-    },
-    "totalRemainingNominal": 1263789,
-    "countFlows": 509
+    "_id": "theory",
+    "totalRemainingNominal": 3053923
   },
   {
-    "_id": {
-      "quarter": "2023-01-10 00:00:00"
-    },
-    "totalRemainingNominal": 1410350,
-    "countFlows": 544
+    "_id": "should",
+    "totalRemainingNominal": 3348048
   },
   {
-    "_id": {
-      "quarter": "2023-01-11 00:00:00"
-    },
-    "totalRemainingNominal": 1413762,
-    "countFlows": 548
+    "_id": "sister",
+    "totalRemainingNominal": 2557019
   },
   {
-    "_id": {
-      "quarter": "2023-01-12 00:00:00"
-    },
-    "totalRemainingNominal": 1507391,
-    "countFlows": 569
+    "_id": "think",
+    "totalRemainingNominal": 3090271
   },
   {
-    "_id": {
-      "quarter": "2023-01-13 00:00:00"
-    },
-    "totalRemainingNominal": 1468789,
-    "countFlows": 558
+    "_id": "different",
+    "totalRemainingNominal": 2738430
   },
   {
-    "_id": {
-      "quarter": "2023-01-14 00:00:00"
-    },
-    "totalRemainingNominal": 1303451,
-    "countFlows": 502
+    "_id": "evidence",
+    "totalRemainingNominal": 3020275
   },
   {
-    "_id": {
-      "quarter": "2023-01-15 00:00:00"
-    },
-    "totalRemainingNominal": 1430066,
-    "countFlows": 561
+    "_id": "station",
+    "totalRemainingNominal": 2867148
   },
   {
-    "_id": {
-      "quarter": "2023-01-16 00:00:00"
-    },
-    "totalRemainingNominal": 1473554,
-    "countFlows": 549
+    "_id": "national",
+    "totalRemainingNominal": 2892015
   },
   {
-    "_id": {
-      "quarter": "2023-01-17 00:00:00"
-    },
-    "totalRemainingNominal": 1371026,
-    "countFlows": 526
+    "_id": "investment",
+    "totalRemainingNominal": 3305749
   },
   {
-    "_id": {
-      "quarter": "2023-01-18 00:00:00"
-    },
-    "totalRemainingNominal": 1317872,
-    "countFlows": 517
+    "_id": "military",
+    "totalRemainingNominal": 3052096
   },
   {
-    "_id": {
-      "quarter": "2023-01-19 00:00:00"
-    },
-    "totalRemainingNominal": 1468248,
-    "countFlows": 558
+    "_id": "song",
+    "totalRemainingNominal": 2732663
   },
   {
-    "_id": {
-      "quarter": "2023-01-20 00:00:00"
-    },
-    "totalRemainingNominal": 1454867,
-    "countFlows": 558
+    "_id": "key",
+    "totalRemainingNominal": 2939374
   },
   {
-    "_id": {
-      "quarter": "2023-01-21 00:00:00"
-    },
-    "totalRemainingNominal": 1522401,
-    "countFlows": 575
+    "_id": "interview",
+    "totalRemainingNominal": 3052758
   },
   {
-    "_id": {
-      "quarter": "2023-01-22 00:00:00"
-    },
-    "totalRemainingNominal": 1377945,
-    "countFlows": 539
+    "_id": "game",
+    "totalRemainingNominal": 2949520
   },
   {
-    "_id": {
-      "quarter": "2023-01-23 00:00:00"
-    },
-    "totalRemainingNominal": 1367791,
-    "countFlows": 539
+    "_id": "positive",
+    "totalRemainingNominal": 2774459
   },
   {
-    "_id": {
-      "quarter": "2023-01-24 00:00:00"
-    },
-    "totalRemainingNominal": 1434358,
-    "countFlows": 553
+    "_id": "event",
+    "totalRemainingNominal": 3342359
   },
   {
-    "_id": {
-      "quarter": "2023-01-25 00:00:00"
-    },
-    "totalRemainingNominal": 1472692,
-    "countFlows": 562
+    "_id": "base",
+    "totalRemainingNominal": 2972042
   },
   {
-    "_id": {
-      "quarter": "2023-01-26 00:00:00"
-    },
-    "totalRemainingNominal": 1453127,
-    "countFlows": 580
+    "_id": "term",
+    "totalRemainingNominal": 3203654
   },
   {
-    "_id": {
-      "quarter": "2023-01-27 00:00:00"
-    },
-    "totalRemainingNominal": 1458715,
-    "countFlows": 577
+    "_id": "recent",
+    "totalRemainingNominal": 3071301
   },
   {
-    "_id": {
-      "quarter": "2023-01-28 00:00:00"
-    },
-    "totalRemainingNominal": 1437614,
-    "countFlows": 584
+    "_id": "speak",
+    "totalRemainingNominal": 3324473
   },
   {
-    "_id": {
-      "quarter": "2023-01-29 00:00:00"
-    },
-    "totalRemainingNominal": 1312949,
-    "countFlows": 520
+    "_id": "budget",
+    "totalRemainingNominal": 2619058
   },
   {
-    "_id": {
-      "quarter": "2023-01-30 00:00:00"
-    },
-    "totalRemainingNominal": 1434377,
-    "countFlows": 542
+    "_id": "say",
+    "totalRemainingNominal": 2827567
   },
   {
-    "_id": {
-      "quarter": "2023-01-31 00:00:00"
-    },
-    "totalRemainingNominal": 1377815,
-    "countFlows": 539
+    "_id": "population",
+    "totalRemainingNominal": 2858399
   },
   {
-    "_id": {
-      "quarter": "2023-02-01 00:00:00"
-    },
-    "totalRemainingNominal": 1403664,
-    "countFlows": 534
+    "_id": "community",
+    "totalRemainingNominal": 3184486
   },
   {
-    "_id": {
-      "quarter": "2023-02-02 00:00:00"
-    },
-    "totalRemainingNominal": 1369790,
-    "countFlows": 557
+    "_id": "shoulder",
+    "totalRemainingNominal": 3257801
   },
   {
-    "_id": {
-      "quarter": "2023-02-03 00:00:00"
-    },
-    "totalRemainingNominal": 1542654,
-    "countFlows": 601
+    "_id": "baby",
+    "totalRemainingNominal": 2761074
   },
   {
-    "_id": {
-      "quarter": "2023-02-04 00:00:00"
-    },
-    "totalRemainingNominal": 1408746,
-    "countFlows": 549
+    "_id": "spend",
+    "totalRemainingNominal": 3188929
   },
   {
-    "_id": {
-      "quarter": "2023-02-05 00:00:00"
-    },
-    "totalRemainingNominal": 1402056,
-    "countFlows": 547
+    "_id": "point",
+    "totalRemainingNominal": 2891687
   },
   {
-    "_id": {
-      "quarter": "2023-02-06 00:00:00"
-    },
-    "totalRemainingNominal": 1334952,
-    "countFlows": 498
+    "_id": "people",
+    "totalRemainingNominal": 3270733
   },
   {
-    "_id": {
-      "quarter": "2023-02-07 00:00:00"
-    },
-    "totalRemainingNominal": 1364170,
-    "countFlows": 548
+    "_id": "tend",
+    "totalRemainingNominal": 3181371
   },
   {
-    "_id": {
-      "quarter": "2023-02-08 00:00:00"
-    },
-    "totalRemainingNominal": 1352958,
-    "countFlows": 533
+    "_id": "there",
+    "totalRemainingNominal": 3302209
   },
   {
-    "_id": {
-      "quarter": "2023-02-09 00:00:00"
-    },
-    "totalRemainingNominal": 1394087,
-    "countFlows": 548
+    "_id": "mention",
+    "totalRemainingNominal": 3142423
   },
   {
-    "_id": {
-      "quarter": "2023-02-10 00:00:00"
-    },
-    "totalRemainingNominal": 1561641,
-    "countFlows": 598
+    "_id": "tell",
+    "totalRemainingNominal": 2737201
   },
   {
-    "_id": {
-      "quarter": "2023-02-11 00:00:00"
-    },
-    "totalRemainingNominal": 1365868,
-    "countFlows": 528
+    "_id": "enjoy",
+    "totalRemainingNominal": 3217089
   },
   {
-    "_id": {
-      "quarter": "2023-02-12 00:00:00"
-    },
-    "totalRemainingNominal": 1392881,
-    "countFlows": 539
+    "_id": "yourself",
+    "totalRemainingNominal": 3049470
   },
   {
-    "_id": {
-      "quarter": "2023-02-13 00:00:00"
-    },
-    "totalRemainingNominal": 1415452,
-    "countFlows": 544
+    "_id": "decision",
+    "totalRemainingNominal": 2761622
   },
   {
-    "_id": {
-      "quarter": "2023-02-14 00:00:00"
-    },
-    "totalRemainingNominal": 1298833,
-    "countFlows": 526
+    "_id": "dream",
+    "totalRemainingNominal": 2687726
   },
   {
-    "_id": {
-      "quarter": "2023-02-15 00:00:00"
-    },
-    "totalRemainingNominal": 1472827,
-    "countFlows": 574
+    "_id": "produce",
+    "totalRemainingNominal": 2674920
   },
   {
-    "_id": {
-      "quarter": "2023-02-16 00:00:00"
-    },
-    "totalRemainingNominal": 1438992,
-    "countFlows": 543
+    "_id": "growth",
+    "totalRemainingNominal": 3208403
   },
   {
-    "_id": {
-      "quarter": "2023-02-17 00:00:00"
-    },
-    "totalRemainingNominal": 1440536,
-    "countFlows": 581
+    "_id": "wind",
+    "totalRemainingNominal": 3303849
   },
   {
-    "_id": {
-      "quarter": "2023-02-18 00:00:00"
-    },
-    "totalRemainingNominal": 1458511,
-    "countFlows": 570
+    "_id": "officer",
+    "totalRemainingNominal": 3021131
   },
   {
-    "_id": {
-      "quarter": "2023-02-19 00:00:00"
-    },
-    "totalRemainingNominal": 1433466,
-    "countFlows": 554
+    "_id": "far",
+    "totalRemainingNominal": 2967308
   },
   {
-    "_id": {
-      "quarter": "2023-02-20 00:00:00"
-    },
-    "totalRemainingNominal": 1410555,
-    "countFlows": 547
+    "_id": "face",
+    "totalRemainingNominal": 2986185
   },
   {
-    "_id": {
-      "quarter": "2023-02-21 00:00:00"
-    },
-    "totalRemainingNominal": 1359935,
-    "countFlows": 545
+    "_id": "approach",
+    "totalRemainingNominal": 2769347
   },
   {
-    "_id": {
-      "quarter": "2023-02-22 00:00:00"
-    },
-    "totalRemainingNominal": 1381607,
-    "countFlows": 530
+    "_id": "represent",
+    "totalRemainingNominal": 2901153
   },
   {
-    "_id": {
-      "quarter": "2023-02-23 00:00:00"
-    },
-    "totalRemainingNominal": 1452212,
-    "countFlows": 554
+    "_id": "stuff",
+    "totalRemainingNominal": 3060502
   },
   {
-    "_id": {
-      "quarter": "2023-02-24 00:00:00"
-    },
-    "totalRemainingNominal": 1450022,
-    "countFlows": 537
+    "_id": "attention",
+    "totalRemainingNominal": 2980891
   },
   {
-    "_id": {
-      "quarter": "2023-02-25 00:00:00"
-    },
-    "totalRemainingNominal": 1444966,
-    "countFlows": 557
+    "_id": "teacher",
+    "totalRemainingNominal": 2917251
   },
   {
-    "_id": {
-      "quarter": "2023-02-26 00:00:00"
-    },
-    "totalRemainingNominal": 1389086,
-    "countFlows": 528
+    "_id": "subject",
+    "totalRemainingNominal": 3215961
   },
   {
-    "_id": {
-      "quarter": "2023-02-27 00:00:00"
-    },
-    "totalRemainingNominal": 1463438,
-    "countFlows": 579
+    "_id": "factor",
+    "totalRemainingNominal": 2702385
   },
   {
-    "_id": {
-      "quarter": "2023-02-28 00:00:00"
-    },
-    "totalRemainingNominal": 1420640,
-    "countFlows": 563
+    "_id": "side",
+    "totalRemainingNominal": 3287948
   },
   {
-    "_id": {
-      "quarter": "2023-03-01 00:00:00"
-    },
-    "totalRemainingNominal": 1283304,
-    "countFlows": 522
+    "_id": "perhaps",
+    "totalRemainingNominal": 2976700
   },
   {
-    "_id": {
-      "quarter": "2023-03-02 00:00:00"
-    },
-    "totalRemainingNominal": 1397152,
-    "countFlows": 553
+    "_id": "hot",
+    "totalRemainingNominal": 3270594
   },
   {
-    "_id": {
-      "quarter": "2023-03-03 00:00:00"
-    },
-    "totalRemainingNominal": 1374872,
-    "countFlows": 533
+    "_id": "in",
+    "totalRemainingNominal": 3382748
   },
   {
-    "_id": {
-      "quarter": "2023-03-04 00:00:00"
-    },
-    "totalRemainingNominal": 1376249,
-    "countFlows": 551
+    "_id": "end",
+    "totalRemainingNominal": 3237878
   },
   {
-    "_id": {
-      "quarter": "2023-03-05 00:00:00"
-    },
-    "totalRemainingNominal": 1481711,
-    "countFlows": 567
+    "_id": "throw",
+    "totalRemainingNominal": 3629179
   },
   {
-    "_id": {
-      "quarter": "2023-03-06 00:00:00"
-    },
-    "totalRemainingNominal": 1420166,
-    "countFlows": 581
+    "_id": "green",
+    "totalRemainingNominal": 3215850
   },
   {
-    "_id": {
-      "quarter": "2023-03-07 00:00:00"
-    },
-    "totalRemainingNominal": 1495109,
-    "countFlows": 574
+    "_id": "mouth",
+    "totalRemainingNominal": 2980007
   },
   {
-    "_id": {
-      "quarter": "2023-03-08 00:00:00"
-    },
-    "totalRemainingNominal": 1404595,
-    "countFlows": 547
+    "_id": "drug",
+    "totalRemainingNominal": 2806260
   },
   {
-    "_id": {
-      "quarter": "2023-03-09 00:00:00"
-    },
-    "totalRemainingNominal": 1416357,
-    "countFlows": 546
+    "_id": "happy",
+    "totalRemainingNominal": 3143059
   },
   {
-    "_id": {
-      "quarter": "2023-03-10 00:00:00"
-    },
-    "totalRemainingNominal": 1364472,
-    "countFlows": 561
+    "_id": "conference",
+    "totalRemainingNominal": 2783082
   },
   {
-    "_id": {
-      "quarter": "2023-03-11 00:00:00"
-    },
-    "totalRemainingNominal": 1390021,
-    "countFlows": 538
+    "_id": "father",
+    "totalRemainingNominal": 2953622
   },
   {
-    "_id": {
-      "quarter": "2023-03-12 00:00:00"
-    },
-    "totalRemainingNominal": 1365714,
-    "countFlows": 551
+    "_id": "address",
+    "totalRemainingNominal": 2742224
   },
   {
-    "_id": {
-      "quarter": "2023-03-13 00:00:00"
-    },
-    "totalRemainingNominal": 1427507,
-    "countFlows": 539
+    "_id": "level",
+    "totalRemainingNominal": 2972529
   },
   {
-    "_id": {
-      "quarter": "2023-03-14 00:00:00"
-    },
-    "totalRemainingNominal": 1308158,
-    "countFlows": 524
+    "_id": "knowledge",
+    "totalRemainingNominal": 2846612
   },
   {
-    "_id": {
-      "quarter": "2023-03-15 00:00:00"
-    },
-    "totalRemainingNominal": 1440805,
-    "countFlows": 566
+    "_id": "wide",
+    "totalRemainingNominal": 2950099
   },
   {
-    "_id": {
-      "quarter": "2023-03-16 00:00:00"
-    },
-    "totalRemainingNominal": 1372984,
-    "countFlows": 549
+    "_id": "president",
+    "totalRemainingNominal": 2435646
   },
   {
-    "_id": {
-      "quarter": "2023-03-17 00:00:00"
-    },
-    "totalRemainingNominal": 1314478,
-    "countFlows": 526
+    "_id": "again",
+    "totalRemainingNominal": 3022742
   },
   {
-    "_id": {
-      "quarter": "2023-03-18 00:00:00"
-    },
-    "totalRemainingNominal": 1465329,
-    "countFlows": 580
+    "_id": "understand",
+    "totalRemainingNominal": 2933924
   },
   {
-    "_id": {
-      "quarter": "2023-03-19 00:00:00"
-    },
-    "totalRemainingNominal": 1482131,
-    "countFlows": 587
+    "_id": "management",
+    "totalRemainingNominal": 3280601
   },
   {
-    "_id": {
-      "quarter": "2023-03-20 00:00:00"
-    },
-    "totalRemainingNominal": 1455655,
-    "countFlows": 552
+    "_id": "state",
+    "totalRemainingNominal": 3292040
   },
   {
-    "_id": {
-      "quarter": "2023-03-21 00:00:00"
-    },
-    "totalRemainingNominal": 1366522,
-    "countFlows": 544
+    "_id": "boy",
+    "totalRemainingNominal": 2907945
   },
   {
-    "_id": {
-      "quarter": "2023-03-22 00:00:00"
-    },
-    "totalRemainingNominal": 2728347,
-    "countFlows": 812
+    "_id": "college",
+    "totalRemainingNominal": 3093853
   },
   {
-    "_id": {
-      "quarter": "2023-03-23 00:00:00"
-    },
-    "totalRemainingNominal": 3995351,
-    "countFlows": 1044
+    "_id": "situation",
+    "totalRemainingNominal": 2944597
   },
   {
-    "_id": {
-      "quarter": "2023-03-24 00:00:00"
-    },
-    "totalRemainingNominal": 4076023,
-    "countFlows": 1091
+    "_id": "with",
+    "totalRemainingNominal": 3144981
   },
   {
-    "_id": {
-      "quarter": "2023-03-25 00:00:00"
-    },
-    "totalRemainingNominal": 4254999,
-    "countFlows": 1118
+    "_id": "deep",
+    "totalRemainingNominal": 3266928
   },
   {
-    "_id": {
-      "quarter": "2023-03-26 00:00:00"
-    },
-    "totalRemainingNominal": 4250808,
-    "countFlows": 1109
+    "_id": "upon",
+    "totalRemainingNominal": 2791150
   },
   {
-    "_id": {
-      "quarter": "2023-03-27 00:00:00"
-    },
-    "totalRemainingNominal": 4201857,
-    "countFlows": 1087
+    "_id": "everybody",
+    "totalRemainingNominal": 3410437
   },
   {
-    "_id": {
-      "quarter": "2023-03-28 00:00:00"
-    },
-    "totalRemainingNominal": 4251001,
-    "countFlows": 1090
+    "_id": "near",
+    "totalRemainingNominal": 3135943
   },
   {
-    "_id": {
-      "quarter": "2023-03-29 00:00:00"
-    },
-    "totalRemainingNominal": 4063728,
-    "countFlows": 1089
+    "_id": "week",
+    "totalRemainingNominal": 3246476
   },
   {
-    "_id": {
-      "quarter": "2023-03-30 00:00:00"
-    },
-    "totalRemainingNominal": 4215334,
-    "countFlows": 1118
+    "_id": "mean",
+    "totalRemainingNominal": 3046479
   },
   {
-    "_id": {
-      "quarter": "2023-03-31 00:00:00"
-    },
-    "totalRemainingNominal": 4206590,
-    "countFlows": 1101
+    "_id": "only",
+    "totalRemainingNominal": 3118513
   },
   {
-    "_id": {
-      "quarter": "2023-04-01 00:00:00"
-    },
-    "totalRemainingNominal": 4240910,
-    "countFlows": 1075
+    "_id": "news",
+    "totalRemainingNominal": 3014870
   },
   {
-    "_id": {
-      "quarter": "2023-04-02 00:00:00"
-    },
-    "totalRemainingNominal": 4041678,
-    "countFlows": 1066
+    "_id": "candidate",
+    "totalRemainingNominal": 2614392
   },
   {
-    "_id": {
-      "quarter": "2023-04-03 00:00:00"
-    },
-    "totalRemainingNominal": 4279490,
-    "countFlows": 1109
+    "_id": "school",
+    "totalRemainingNominal": 2918014
   },
   {
-    "_id": {
-      "quarter": "2023-04-04 00:00:00"
-    },
-    "totalRemainingNominal": 4165492,
-    "countFlows": 1063
+    "_id": "letter",
+    "totalRemainingNominal": 2760536
   },
   {
-    "_id": {
-      "quarter": "2023-04-05 00:00:00"
-    },
-    "totalRemainingNominal": 4343225,
-    "countFlows": 1126
+    "_id": "design",
+    "totalRemainingNominal": 3620929
   },
   {
-    "_id": {
-      "quarter": "2023-04-06 00:00:00"
-    },
-    "totalRemainingNominal": 4267648,
-    "countFlows": 1114
+    "_id": "finally",
+    "totalRemainingNominal": 2944013
   },
   {
-    "_id": {
-      "quarter": "2023-04-07 00:00:00"
-    },
-    "totalRemainingNominal": 4099772,
-    "countFlows": 1076
+    "_id": "structure",
+    "totalRemainingNominal": 3449355
   },
   {
-    "_id": {
-      "quarter": "2023-04-08 00:00:00"
-    },
-    "totalRemainingNominal": 4182460,
-    "countFlows": 1106
+    "_id": "message",
+    "totalRemainingNominal": 2579743
   },
   {
-    "_id": {
-      "quarter": "2023-04-09 00:00:00"
-    },
-    "totalRemainingNominal": 4504260,
-    "countFlows": 1160
+    "_id": "gas",
+    "totalRemainingNominal": 2724085
   },
   {
-    "_id": {
-      "quarter": "2023-04-10 00:00:00"
-    },
-    "totalRemainingNominal": 4148484,
-    "countFlows": 1116
+    "_id": "student",
+    "totalRemainingNominal": 3001985
   },
   {
-    "_id": {
-      "quarter": "2023-04-11 00:00:00"
-    },
-    "totalRemainingNominal": 4214139,
-    "countFlows": 1085
+    "_id": "man",
+    "totalRemainingNominal": 2884707
   },
   {
-    "_id": {
-      "quarter": "2023-04-12 00:00:00"
-    },
-    "totalRemainingNominal": 4124884,
-    "countFlows": 1087
+    "_id": "scientist",
+    "totalRemainingNominal": 2947722
   },
   {
-    "_id": {
-      "quarter": "2023-04-13 00:00:00"
-    },
-    "totalRemainingNominal": 4276018,
-    "countFlows": 1103
+    "_id": "first",
+    "totalRemainingNominal": 2682090
   },
   {
-    "_id": {
-      "quarter": "2023-04-14 00:00:00"
-    },
-    "totalRemainingNominal": 3997311,
-    "countFlows": 1047
+    "_id": "manage",
+    "totalRemainingNominal": 2841217
   },
   {
-    "_id": {
-      "quarter": "2023-04-15 00:00:00"
-    },
-    "totalRemainingNominal": 4350226,
-    "countFlows": 1111
+    "_id": "water",
+    "totalRemainingNominal": 3064183
   },
   {
-    "_id": {
-      "quarter": "2023-04-16 00:00:00"
-    },
-    "totalRemainingNominal": 4270026,
-    "countFlows": 1123
+    "_id": "always",
+    "totalRemainingNominal": 2940229
   },
   {
-    "_id": {
-      "quarter": "2023-04-17 00:00:00"
-    },
-    "totalRemainingNominal": 4366430,
-    "countFlows": 1140
+    "_id": "medical",
+    "totalRemainingNominal": 2791485
   },
   {
-    "_id": {
-      "quarter": "2023-04-18 00:00:00"
-    },
-    "totalRemainingNominal": 3779938,
-    "countFlows": 1017
+    "_id": "may",
+    "totalRemainingNominal": 3037002
   },
   {
-    "_id": {
-      "quarter": "2023-04-19 00:00:00"
-    },
-    "totalRemainingNominal": 4451555,
-    "countFlows": 1146
+    "_id": "old",
+    "totalRemainingNominal": 3043572
   },
   {
-    "_id": {
-      "quarter": "2023-04-20 00:00:00"
-    },
-    "totalRemainingNominal": 4176130,
-    "countFlows": 1103
+    "_id": "could",
+    "totalRemainingNominal": 2689802
   },
   {
-    "_id": {
-      "quarter": "2023-04-21 00:00:00"
-    },
-    "totalRemainingNominal": 4013658,
-    "countFlows": 1042
+    "_id": "foreign",
+    "totalRemainingNominal": 3022892
   },
   {
-    "_id": {
-      "quarter": "2023-04-22 00:00:00"
-    },
-    "totalRemainingNominal": 3991144,
-    "countFlows": 1042
+    "_id": "myself",
+    "totalRemainingNominal": 3076769
   },
   {
-    "_id": {
-      "quarter": "2023-04-23 00:00:00"
-    },
-    "totalRemainingNominal": 3912622,
-    "countFlows": 1052
+    "_id": "weight",
+    "totalRemainingNominal": 3307221
   },
   {
-    "_id": {
-      "quarter": "2023-04-24 00:00:00"
-    },
-    "totalRemainingNominal": 4088559,
-    "countFlows": 1077
+    "_id": "new",
+    "totalRemainingNominal": 2965038
   },
   {
-    "_id": {
-      "quarter": "2023-04-25 00:00:00"
-    },
-    "totalRemainingNominal": 4233375,
-    "countFlows": 1097
+    "_id": "entire",
+    "totalRemainingNominal": 3260211
   },
   {
-    "_id": {
-      "quarter": "2023-04-26 00:00:00"
-    },
-    "totalRemainingNominal": 4256806,
-    "countFlows": 1084
+    "_id": "often",
+    "totalRemainingNominal": 3081579
   },
   {
-    "_id": {
-      "quarter": "2023-04-27 00:00:00"
-    },
-    "totalRemainingNominal": 4428559,
-    "countFlows": 1151
+    "_id": "and",
+    "totalRemainingNominal": 3130460
   },
   {
-    "_id": {
-      "quarter": "2023-04-28 00:00:00"
-    },
-    "totalRemainingNominal": 3958064,
-    "countFlows": 1038
+    "_id": "modern",
+    "totalRemainingNominal": 2647667
   },
   {
-    "_id": {
-      "quarter": "2023-04-29 00:00:00"
-    },
-    "totalRemainingNominal": 4157315,
-    "countFlows": 1085
+    "_id": "discuss",
+    "totalRemainingNominal": 2571026
   },
   {
-    "_id": {
-      "quarter": "2023-04-30 00:00:00"
-    },
-    "totalRemainingNominal": 4481936,
-    "countFlows": 1155
+    "_id": "spring",
+    "totalRemainingNominal": 2894049
   },
   {
-    "_id": {
-      "quarter": "2023-05-01 00:00:00"
-    },
-    "totalRemainingNominal": 4116590,
-    "countFlows": 1087
+    "_id": "fight",
+    "totalRemainingNominal": 2645204
   },
   {
-    "_id": {
-      "quarter": "2023-05-02 00:00:00"
-    },
-    "totalRemainingNominal": 3905891,
-    "countFlows": 1053
+    "_id": "use",
+    "totalRemainingNominal": 2974285
   },
   {
-    "_id": {
-      "quarter": "2023-05-03 00:00:00"
-    },
-    "totalRemainingNominal": 4289248,
-    "countFlows": 1112
+    "_id": "clear",
+    "totalRemainingNominal": 3226375
   },
   {
-    "_id": {
-      "quarter": "2023-05-04 00:00:00"
-    },
-    "totalRemainingNominal": 4326625,
-    "countFlows": 1087
+    "_id": "easy",
+    "totalRemainingNominal": 2977307
   },
   {
-    "_id": {
-      "quarter": "2023-05-05 00:00:00"
-    },
-    "totalRemainingNominal": 4252001,
-    "countFlows": 1105
+    "_id": "eat",
+    "totalRemainingNominal": 2800930
   },
   {
-    "_id": {
-      "quarter": "2023-05-06 00:00:00"
-    },
-    "totalRemainingNominal": 4045034,
-    "countFlows": 1083
+    "_id": "by",
+    "totalRemainingNominal": 3159175
   },
   {
-    "_id": {
-      "quarter": "2023-05-07 00:00:00"
-    },
-    "totalRemainingNominal": 4176736,
-    "countFlows": 1128
+    "_id": "suddenly",
+    "totalRemainingNominal": 2909052
   },
   {
-    "_id": {
-      "quarter": "2023-05-08 00:00:00"
-    },
-    "totalRemainingNominal": 4164361,
-    "countFlows": 1083
+    "_id": "town",
+    "totalRemainingNominal": 3149341
   },
   {
-    "_id": {
-      "quarter": "2023-05-09 00:00:00"
-    },
-    "totalRemainingNominal": 4335639,
-    "countFlows": 1116
+    "_id": "condition",
+    "totalRemainingNominal": 2802546
   },
   {
-    "_id": {
-      "quarter": "2023-05-10 00:00:00"
-    },
-    "totalRemainingNominal": 4294516,
-    "countFlows": 1130
+    "_id": "final",
+    "totalRemainingNominal": 3004718
   },
   {
-    "_id": {
-      "quarter": "2023-05-11 00:00:00"
-    },
-    "totalRemainingNominal": 4276017,
-    "countFlows": 1123
+    "_id": "specific",
+    "totalRemainingNominal": 3163703
   },
   {
-    "_id": {
-      "quarter": "2023-05-12 00:00:00"
-    },
-    "totalRemainingNominal": 4288568,
-    "countFlows": 1134
+    "_id": "soldier",
+    "totalRemainingNominal": 2753856
   },
   {
-    "_id": {
-      "quarter": "2023-05-13 00:00:00"
-    },
-    "totalRemainingNominal": 4098803,
-    "countFlows": 1068
+    "_id": "computer",
+    "totalRemainingNominal": 3336486
   },
   {
-    "_id": {
-      "quarter": "2023-05-14 00:00:00"
-    },
-    "totalRemainingNominal": 4225281,
-    "countFlows": 1098
+    "_id": "cut",
+    "totalRemainingNominal": 3101443
   },
   {
-    "_id": {
-      "quarter": "2023-05-15 00:00:00"
-    },
-    "totalRemainingNominal": 4151322,
-    "countFlows": 1070
+    "_id": "skin",
+    "totalRemainingNominal": 2604048
   },
   {
-    "_id": {
-      "quarter": "2023-05-16 00:00:00"
-    },
-    "totalRemainingNominal": 4214684,
-    "countFlows": 1097
+    "_id": "character",
+    "totalRemainingNominal": 3104554
   },
   {
-    "_id": {
-      "quarter": "2023-05-17 00:00:00"
-    },
-    "totalRemainingNominal": 4173098,
-    "countFlows": 1092
+    "_id": "artist",
+    "totalRemainingNominal": 2899759
   },
   {
-    "_id": {
-      "quarter": "2023-05-18 00:00:00"
-    },
-    "totalRemainingNominal": 4422359,
-    "countFlows": 1152
+    "_id": "life",
+    "totalRemainingNominal": 3330364
   },
   {
-    "_id": {
-      "quarter": "2023-05-19 00:00:00"
-    },
-    "totalRemainingNominal": 4213568,
-    "countFlows": 1070
+    "_id": "various",
+    "totalRemainingNominal": 3058770
   },
   {
-    "_id": {
-      "quarter": "2023-05-20 00:00:00"
-    },
-    "totalRemainingNominal": 4312049,
-    "countFlows": 1128
+    "_id": "language",
+    "totalRemainingNominal": 3322299
   },
   {
-    "_id": {
-      "quarter": "2023-05-21 00:00:00"
-    },
-    "totalRemainingNominal": 3950131,
-    "countFlows": 1053
+    "_id": "price",
+    "totalRemainingNominal": 3287872
   },
   {
-    "_id": {
-      "quarter": "2023-05-22 00:00:00"
-    },
-    "totalRemainingNominal": 4253397,
-    "countFlows": 1099
+    "_id": "hotel",
+    "totalRemainingNominal": 3138487
   },
   {
-    "_id": {
-      "quarter": "2023-05-23 00:00:00"
-    },
-    "totalRemainingNominal": 4111175,
-    "countFlows": 1119
+    "_id": "business",
+    "totalRemainingNominal": 2430587
   },
   {
-    "_id": {
-      "quarter": "2023-05-24 00:00:00"
-    },
-    "totalRemainingNominal": 4171054,
-    "countFlows": 1111
+    "_id": "your",
+    "totalRemainingNominal": 2800053
   },
   {
-    "_id": {
-      "quarter": "2023-05-25 00:00:00"
-    },
-    "totalRemainingNominal": 4480686,
-    "countFlows": 1131
+    "_id": "a",
+    "totalRemainingNominal": 2796558
   },
   {
-    "_id": {
-      "quarter": "2023-05-26 00:00:00"
-    },
-    "totalRemainingNominal": 4129622,
-    "countFlows": 1125
+    "_id": "fly",
+    "totalRemainingNominal": 2887077
   },
   {
-    "_id": {
-      "quarter": "2023-05-27 00:00:00"
-    },
-    "totalRemainingNominal": 4189829,
-    "countFlows": 1089
+    "_id": "card",
+    "totalRemainingNominal": 2899615
   },
   {
-    "_id": {
-      "quarter": "2023-05-28 00:00:00"
-    },
-    "totalRemainingNominal": 4251470,
-    "countFlows": 1099
+    "_id": "fall",
+    "totalRemainingNominal": 2917891
   },
   {
-    "_id": {
-      "quarter": "2023-05-29 00:00:00"
-    },
-    "totalRemainingNominal": 3937392,
-    "countFlows": 1027
+    "_id": "job",
+    "totalRemainingNominal": 2741105
   },
   {
-    "_id": {
-      "quarter": "2023-05-30 00:00:00"
-    },
-    "totalRemainingNominal": 4179872,
-    "countFlows": 1098
+    "_id": "full",
+    "totalRemainingNominal": 3180711
   },
   {
-    "_id": {
-      "quarter": "2023-05-31 00:00:00"
-    },
-    "totalRemainingNominal": 4211767,
-    "countFlows": 1108
+    "_id": "response",
+    "totalRemainingNominal": 2914879
   },
   {
-    "_id": {
-      "quarter": "2023-06-01 00:00:00"
-    },
-    "totalRemainingNominal": 4267292,
-    "countFlows": 1131
+    "_id": "quality",
+    "totalRemainingNominal": 3072211
   },
   {
-    "_id": {
-      "quarter": "2023-06-02 00:00:00"
-    },
-    "totalRemainingNominal": 4478609,
-    "countFlows": 1153
+    "_id": "will",
+    "totalRemainingNominal": 3336075
   },
   {
-    "_id": {
-      "quarter": "2023-06-03 00:00:00"
-    },
-    "totalRemainingNominal": 4327252,
-    "countFlows": 1137
+    "_id": "risk",
+    "totalRemainingNominal": 2826074
   },
   {
-    "_id": {
-      "quarter": "2023-06-04 00:00:00"
-    },
-    "totalRemainingNominal": 4122019,
-    "countFlows": 1074
+    "_id": "company",
+    "totalRemainingNominal": 2794132
   },
   {
-    "_id": {
-      "quarter": "2023-06-05 00:00:00"
-    },
-    "totalRemainingNominal": 3998104,
-    "countFlows": 1032
+    "_id": "ask",
+    "totalRemainingNominal": 3492567
   },
   {
-    "_id": {
-      "quarter": "2023-06-06 00:00:00"
-    },
-    "totalRemainingNominal": 4045569,
-    "countFlows": 1069
+    "_id": "need",
+    "totalRemainingNominal": 3602620
   },
   {
-    "_id": {
-      "quarter": "2023-06-07 00:00:00"
-    },
-    "totalRemainingNominal": 4268930,
-    "countFlows": 1113
+    "_id": "more",
+    "totalRemainingNominal": 2951586
   },
   {
-    "_id": {
-      "quarter": "2023-06-08 00:00:00"
-    },
-    "totalRemainingNominal": 4173597,
-    "countFlows": 1079
+    "_id": "financial",
+    "totalRemainingNominal": 2769526
   },
   {
-    "_id": {
-      "quarter": "2023-06-09 00:00:00"
-    },
-    "totalRemainingNominal": 4235621,
-    "countFlows": 1122
+    "_id": "race",
+    "totalRemainingNominal": 2891104
   },
   {
-    "_id": {
-      "quarter": "2023-06-10 00:00:00"
-    },
-    "totalRemainingNominal": 4070206,
-    "countFlows": 1069
+    "_id": "happen",
+    "totalRemainingNominal": 2525340
   },
   {
-    "_id": {
-      "quarter": "2023-06-11 00:00:00"
-    },
-    "totalRemainingNominal": 4239195,
-    "countFlows": 1096
+    "_id": "meeting",
+    "totalRemainingNominal": 2821248
   },
   {
-    "_id": {
-      "quarter": "2023-06-12 00:00:00"
-    },
-    "totalRemainingNominal": 4250494,
-    "countFlows": 1092
+    "_id": "behind",
+    "totalRemainingNominal": 3030800
   },
   {
-    "_id": {
-      "quarter": "2023-06-13 00:00:00"
-    },
-    "totalRemainingNominal": 3965364,
-    "countFlows": 1059
+    "_id": "who",
+    "totalRemainingNominal": 3042389
   },
   {
-    "_id": {
-      "quarter": "2023-06-14 00:00:00"
-    },
-    "totalRemainingNominal": 4232624,
-    "countFlows": 1113
+    "_id": "realize",
+    "totalRemainingNominal": 3056011
   },
   {
-    "_id": {
-      "quarter": "2023-06-15 00:00:00"
-    },
-    "totalRemainingNominal": 4097091,
-    "countFlows": 1076
+    "_id": "whom",
+    "totalRemainingNominal": 3028494
   },
   {
-    "_id": {
-      "quarter": "2023-06-16 00:00:00"
-    },
-    "totalRemainingNominal": 4171469,
-    "countFlows": 1094
+    "_id": "fund",
+    "totalRemainingNominal": 3007485
   },
   {
-    "_id": {
-      "quarter": "2023-06-17 00:00:00"
-    },
-    "totalRemainingNominal": 4299298,
-    "countFlows": 1108
+    "_id": "economy",
+    "totalRemainingNominal": 2808724
   },
   {
-    "_id": {
-      "quarter": "2023-06-18 00:00:00"
-    },
-    "totalRemainingNominal": 4306989,
-    "countFlows": 1134
+    "_id": "police",
+    "totalRemainingNominal": 2988356
   },
   {
-    "_id": {
-      "quarter": "2023-06-19 00:00:00"
-    },
-    "totalRemainingNominal": 4291125,
-    "countFlows": 1092
+    "_id": "feel",
+    "totalRemainingNominal": 2789136
   },
   {
-    "_id": {
-      "quarter": "2023-06-20 00:00:00"
-    },
-    "totalRemainingNominal": 4185383,
-    "countFlows": 1111
+    "_id": "worry",
+    "totalRemainingNominal": 2765524
   },
   {
-    "_id": {
-      "quarter": "2023-06-21 00:00:00"
-    },
-    "totalRemainingNominal": 4344985,
-    "countFlows": 1124
+    "_id": "its",
+    "totalRemainingNominal": 3191903
   },
   {
-    "_id": {
-      "quarter": "2023-06-22 00:00:00"
-    },
-    "totalRemainingNominal": 4058216,
-    "countFlows": 1075
+    "_id": "area",
+    "totalRemainingNominal": 2723665
   },
   {
-    "_id": {
-      "quarter": "2023-06-23 00:00:00"
-    },
-    "totalRemainingNominal": 4095223,
-    "countFlows": 1062
+    "_id": "reduce",
+    "totalRemainingNominal": 2787920
   },
   {
-    "_id": {
-      "quarter": "2023-06-24 00:00:00"
-    },
-    "totalRemainingNominal": 4113606,
-    "countFlows": 1068
+    "_id": "hair",
+    "totalRemainingNominal": 3111274
   },
   {
-    "_id": {
-      "quarter": "2023-06-25 00:00:00"
-    },
-    "totalRemainingNominal": 4355230,
-    "countFlows": 1121
+    "_id": "against",
+    "totalRemainingNominal": 2762479
   },
   {
-    "_id": {
-      "quarter": "2023-06-26 00:00:00"
-    },
-    "totalRemainingNominal": 4196098,
-    "countFlows": 1128
+    "_id": "me",
+    "totalRemainingNominal": 3082490
   },
   {
-    "_id": {
-      "quarter": "2023-06-27 00:00:00"
-    },
-    "totalRemainingNominal": 4423086,
-    "countFlows": 1148
+    "_id": "himself",
+    "totalRemainingNominal": 2820018
   },
   {
-    "_id": {
-      "quarter": "2023-06-28 00:00:00"
-    },
-    "totalRemainingNominal": 4182081,
-    "countFlows": 1108
+    "_id": "good",
+    "totalRemainingNominal": 3266757
   },
   {
-    "_id": {
-      "quarter": "2023-06-29 00:00:00"
-    },
-    "totalRemainingNominal": 4044614,
-    "countFlows": 1051
+    "_id": "authority",
+    "totalRemainingNominal": 3017562
   },
   {
-    "_id": {
-      "quarter": "2023-06-30 00:00:00"
-    },
-    "totalRemainingNominal": 4368856,
-    "countFlows": 1138
+    "_id": "technology",
+    "totalRemainingNominal": 2722171
   },
   {
-    "_id": {
-      "quarter": "2023-07-01 00:00:00"
-    },
-    "totalRemainingNominal": 4384199,
-    "countFlows": 1112
+    "_id": "bill",
+    "totalRemainingNominal": 2827077
   },
   {
-    "_id": {
-      "quarter": "2023-07-02 00:00:00"
-    },
-    "totalRemainingNominal": 4155831,
-    "countFlows": 1094
+    "_id": "require",
+    "totalRemainingNominal": 3140049
   },
   {
-    "_id": {
-      "quarter": "2023-07-03 00:00:00"
-    },
-    "totalRemainingNominal": 4315958,
-    "countFlows": 1148
+    "_id": "rather",
+    "totalRemainingNominal": 3311497
   },
   {
-    "_id": {
-      "quarter": "2023-07-04 00:00:00"
-    },
-    "totalRemainingNominal": 6081026,
-    "countFlows": 1316
+    "_id": "claim",
+    "totalRemainingNominal": 3146610
   },
   {
-    "_id": {
-      "quarter": "2023-07-05 00:00:00"
-    },
-    "totalRemainingNominal": 8045253,
-    "countFlows": 1603
+    "_id": "poor",
+    "totalRemainingNominal": 3483991
   },
   {
-    "_id": {
-      "quarter": "2023-07-06 00:00:00"
-    },
-    "totalRemainingNominal": 8149332,
-    "countFlows": 1610
+    "_id": "effort",
+    "totalRemainingNominal": 2883212
   },
   {
-    "_id": {
-      "quarter": "2023-07-07 00:00:00"
-    },
-    "totalRemainingNominal": 8565649,
-    "countFlows": 1668
+    "_id": "identify",
+    "totalRemainingNominal": 2695176
   },
   {
-    "_id": {
-      "quarter": "2023-07-08 00:00:00"
-    },
-    "totalRemainingNominal": 8489290,
-    "countFlows": 1627
+    "_id": "anything",
+    "totalRemainingNominal": 2818929
   },
   {
-    "_id": {
-      "quarter": "2023-07-09 00:00:00"
-    },
-    "totalRemainingNominal": 8392229,
-    "countFlows": 1642
+    "_id": "since",
+    "totalRemainingNominal": 2626403
   },
   {
-    "_id": {
-      "quarter": "2023-07-10 00:00:00"
-    },
-    "totalRemainingNominal": 8352123,
-    "countFlows": 1624
+    "_id": "unit",
+    "totalRemainingNominal": 2903798
   },
   {
-    "_id": {
-      "quarter": "2023-07-11 00:00:00"
-    },
-    "totalRemainingNominal": 8313340,
-    "countFlows": 1673
+    "_id": "resource",
+    "totalRemainingNominal": 3090383
   },
   {
-    "_id": {
-      "quarter": "2023-07-12 00:00:00"
-    },
-    "totalRemainingNominal": 8542245,
-    "countFlows": 1692
+    "_id": "toward",
+    "totalRemainingNominal": 2913010
   },
   {
-    "_id": {
-      "quarter": "2023-07-13 00:00:00"
-    },
-    "totalRemainingNominal": 8344023,
-    "countFlows": 1653
+    "_id": "mind",
+    "totalRemainingNominal": 2853609
   },
   {
-    "_id": {
-      "quarter": "2023-07-14 00:00:00"
-    },
-    "totalRemainingNominal": 8381731,
-    "countFlows": 1632
+    "_id": "along",
+    "totalRemainingNominal": 2928709
   },
   {
-    "_id": {
-      "quarter": "2023-07-15 00:00:00"
-    },
-    "totalRemainingNominal": 8184413,
-    "countFlows": 1624
+    "_id": "quickly",
+    "totalRemainingNominal": 3096372
   },
   {
-    "_id": {
-      "quarter": "2023-07-16 00:00:00"
-    },
-    "totalRemainingNominal": 8549936,
-    "countFlows": 1658
+    "_id": "moment",
+    "totalRemainingNominal": 3145593
   },
   {
-    "_id": {
-      "quarter": "2023-07-17 00:00:00"
-    },
-    "totalRemainingNominal": 8294732,
-    "countFlows": 1633
+    "_id": "board",
+    "totalRemainingNominal": 3334451
   },
   {
-    "_id": {
-      "quarter": "2023-07-18 00:00:00"
-    },
-    "totalRemainingNominal": 8624239,
-    "countFlows": 1688
+    "_id": "memory",
+    "totalRemainingNominal": 2724538
   },
   {
-    "_id": {
-      "quarter": "2023-07-19 00:00:00"
-    },
-    "totalRemainingNominal": 8451170,
-    "countFlows": 1641
+    "_id": "whatever",
+    "totalRemainingNominal": 3190779
   },
   {
-    "_id": {
-      "quarter": "2023-07-20 00:00:00"
-    },
-    "totalRemainingNominal": 8098074,
-    "countFlows": 1603
+    "_id": "land",
+    "totalRemainingNominal": 3252021
   },
   {
-    "_id": {
-      "quarter": "2023-07-21 00:00:00"
-    },
-    "totalRemainingNominal": 8408027,
-    "countFlows": 1627
+    "_id": "beautiful",
+    "totalRemainingNominal": 2843253
   },
   {
-    "_id": {
-      "quarter": "2023-07-22 00:00:00"
-    },
-    "totalRemainingNominal": 8780775,
-    "countFlows": 1701
+    "_id": "write",
+    "totalRemainingNominal": 2763863
   },
   {
-    "_id": {
-      "quarter": "2023-07-23 00:00:00"
-    },
-    "totalRemainingNominal": 8274800,
-    "countFlows": 1643
+    "_id": "move",
+    "totalRemainingNominal": 3033269
   },
   {
-    "_id": {
-      "quarter": "2023-07-24 00:00:00"
-    },
-    "totalRemainingNominal": 8283088,
-    "countFlows": 1597
+    "_id": "stage",
+    "totalRemainingNominal": 2937714
   },
   {
-    "_id": {
-      "quarter": "2023-07-25 00:00:00"
-    },
-    "totalRemainingNominal": 8257152,
-    "countFlows": 1637
+    "_id": "ability",
+    "totalRemainingNominal": 3085118
   },
   {
-    "_id": {
-      "quarter": "2023-07-26 00:00:00"
-    },
-    "totalRemainingNominal": 8424057,
-    "countFlows": 1652
+    "_id": "second",
+    "totalRemainingNominal": 2684437
   },
   {
-    "_id": {
-      "quarter": "2023-07-27 00:00:00"
-    },
-    "totalRemainingNominal": 7988008,
-    "countFlows": 1574
+    "_id": "find",
+    "totalRemainingNominal": 2790150
   },
   {
-    "_id": {
-      "quarter": "2023-07-28 00:00:00"
-    },
-    "totalRemainingNominal": 8581209,
-    "countFlows": 1646
+    "_id": "cultural",
+    "totalRemainingNominal": 3135828
   },
   {
-    "_id": {
-      "quarter": "2023-07-29 00:00:00"
-    },
-    "totalRemainingNominal": 8420809,
-    "countFlows": 1667
+    "_id": "future",
+    "totalRemainingNominal": 2755822
   },
   {
-    "_id": {
-      "quarter": "2023-07-30 00:00:00"
-    },
-    "totalRemainingNominal": 8808320,
-    "countFlows": 1710
+    "_id": "Mrs",
+    "totalRemainingNominal": 3082950
   },
   {
-    "_id": {
-      "quarter": "2023-07-31 00:00:00"
-    },
-    "totalRemainingNominal": 7944103,
-    "countFlows": 1565
+    "_id": "husband",
+    "totalRemainingNominal": 2839657
   },
   {
-    "_id": {
-      "quarter": "2023-08-01 00:00:00"
-    },
-    "totalRemainingNominal": 8673968,
-    "countFlows": 1680
+    "_id": "fact",
+    "totalRemainingNominal": 3050819
   },
   {
-    "_id": {
-      "quarter": "2023-08-02 00:00:00"
-    },
-    "totalRemainingNominal": 8392721,
-    "countFlows": 1675
+    "_id": "local",
+    "totalRemainingNominal": 3243887
   },
   {
-    "_id": {
-      "quarter": "2023-08-03 00:00:00"
-    },
-    "totalRemainingNominal": 7965348,
-    "countFlows": 1577
+    "_id": "recognize",
+    "totalRemainingNominal": 3368622
   },
   {
-    "_id": {
-      "quarter": "2023-08-04 00:00:00"
-    },
-    "totalRemainingNominal": 8102840,
-    "countFlows": 1619
+    "_id": "seat",
+    "totalRemainingNominal": 3050238
   },
   {
-    "_id": {
-      "quarter": "2023-08-05 00:00:00"
-    },
-    "totalRemainingNominal": 7927401,
-    "countFlows": 1603
+    "_id": "dinner",
+    "totalRemainingNominal": 2811599
   },
   {
-    "_id": {
-      "quarter": "2023-08-06 00:00:00"
-    },
-    "totalRemainingNominal": 8102546,
-    "countFlows": 1591
+    "_id": "public",
+    "totalRemainingNominal": 2791562
   },
   {
-    "_id": {
-      "quarter": "2023-08-07 00:00:00"
-    },
-    "totalRemainingNominal": 8554054,
-    "countFlows": 1689
+    "_id": "great",
+    "totalRemainingNominal": 2911538
   },
   {
-    "_id": {
-      "quarter": "2023-08-08 00:00:00"
-    },
-    "totalRemainingNominal": 8524538,
-    "countFlows": 1662
+    "_id": "suffer",
+    "totalRemainingNominal": 2690687
   },
   {
-    "_id": {
-      "quarter": "2023-08-09 00:00:00"
-    },
-    "totalRemainingNominal": 8847310,
-    "countFlows": 1724
+    "_id": "friend",
+    "totalRemainingNominal": 3684684
   },
   {
-    "_id": {
-      "quarter": "2023-08-10 00:00:00"
-    },
-    "totalRemainingNominal": 7933908,
-    "countFlows": 1576
+    "_id": "prepare",
+    "totalRemainingNominal": 2731220
   },
   {
-    "_id": {
-      "quarter": "2023-08-11 00:00:00"
-    },
-    "totalRemainingNominal": 8382841,
-    "countFlows": 1639
+    "_id": "half",
+    "totalRemainingNominal": 3159767
   },
   {
-    "_id": {
-      "quarter": "2023-08-12 00:00:00"
-    },
-    "totalRemainingNominal": 8748930,
-    "countFlows": 1666
+    "_id": "Republican",
+    "totalRemainingNominal": 2880064
   },
   {
-    "_id": {
-      "quarter": "2023-08-13 00:00:00"
-    },
-    "totalRemainingNominal": 8135996,
-    "countFlows": 1629
+    "_id": "color",
+    "totalRemainingNominal": 2969443
   },
   {
-    "_id": {
-      "quarter": "2023-08-14 00:00:00"
-    },
-    "totalRemainingNominal": 7891769,
-    "countFlows": 1585
+    "_id": "available",
+    "totalRemainingNominal": 2718249
   },
   {
-    "_id": {
-      "quarter": "2023-08-15 00:00:00"
-    },
-    "totalRemainingNominal": 8588841,
-    "countFlows": 1669
+    "_id": "ago",
+    "totalRemainingNominal": 2901723
   },
   {
-    "_id": {
-      "quarter": "2023-08-16 00:00:00"
-    },
-    "totalRemainingNominal": 8593285,
-    "countFlows": 1661
+    "_id": "raise",
+    "totalRemainingNominal": 2656373
   },
   {
-    "_id": {
-      "quarter": "2023-08-17 00:00:00"
-    },
-    "totalRemainingNominal": 8689934,
-    "countFlows": 1725
+    "_id": "make",
+    "totalRemainingNominal": 3087474
   },
   {
-    "_id": {
-      "quarter": "2023-08-18 00:00:00"
-    },
-    "totalRemainingNominal": 8176953,
-    "countFlows": 1611
+    "_id": "radio",
+    "totalRemainingNominal": 3148975
   },
   {
-    "_id": {
-      "quarter": "2023-08-19 00:00:00"
-    },
-    "totalRemainingNominal": 8511509,
-    "countFlows": 1670
+    "_id": "pressure",
+    "totalRemainingNominal": 2953964
   },
   {
-    "_id": {
-      "quarter": "2023-08-20 00:00:00"
-    },
-    "totalRemainingNominal": 8255518,
-    "countFlows": 1618
+    "_id": "know",
+    "totalRemainingNominal": 3172793
   },
   {
-    "_id": {
-      "quarter": "2023-08-21 00:00:00"
-    },
-    "totalRemainingNominal": 8653015,
-    "countFlows": 1714
+    "_id": "every",
+    "totalRemainingNominal": 3138007
   },
   {
-    "_id": {
-      "quarter": "2023-08-22 00:00:00"
-    },
-    "totalRemainingNominal": 8604974,
-    "countFlows": 1688
+    "_id": "us",
+    "totalRemainingNominal": 3117915
   },
   {
-    "_id": {
-      "quarter": "2023-08-23 00:00:00"
-    },
-    "totalRemainingNominal": 8443808,
-    "countFlows": 1661
+    "_id": "trip",
+    "totalRemainingNominal": 3182026
   },
   {
-    "_id": {
-      "quarter": "2023-08-24 00:00:00"
-    },
-    "totalRemainingNominal": 8495377,
-    "countFlows": 1684
+    "_id": "outside",
+    "totalRemainingNominal": 3148734
   },
   {
-    "_id": {
-      "quarter": "2023-08-25 00:00:00"
-    },
-    "totalRemainingNominal": 8225917,
-    "countFlows": 1627
+    "_id": "federal",
+    "totalRemainingNominal": 2614814
   },
   {
-    "_id": {
-      "quarter": "2023-08-26 00:00:00"
-    },
-    "totalRemainingNominal": 8319413,
-    "countFlows": 1610
+    "_id": "lay",
+    "totalRemainingNominal": 2567835
   },
   {
-    "_id": {
-      "quarter": "2023-08-27 00:00:00"
-    },
-    "totalRemainingNominal": 8188240,
-    "countFlows": 1588
+    "_id": "would",
+    "totalRemainingNominal": 3341940
   },
   {
-    "_id": {
-      "quarter": "2023-08-28 00:00:00"
-    },
-    "totalRemainingNominal": 8445412,
-    "countFlows": 1672
+    "_id": "measure",
+    "totalRemainingNominal": 3390663
   },
   {
-    "_id": {
-      "quarter": "2023-08-29 00:00:00"
-    },
-    "totalRemainingNominal": 8542356,
-    "countFlows": 1692
+    "_id": "world",
+    "totalRemainingNominal": 2977380
   },
   {
-    "_id": {
-      "quarter": "2023-08-30 00:00:00"
-    },
-    "totalRemainingNominal": 8759333,
-    "countFlows": 1695
+    "_id": "feeling",
+    "totalRemainingNominal": 3123529
   },
   {
-    "_id": {
-      "quarter": "2023-08-31 00:00:00"
-    },
-    "totalRemainingNominal": 8269969,
-    "countFlows": 1612
+    "_id": "year",
+    "totalRemainingNominal": 2981815
   },
   {
-    "_id": {
-      "quarter": "2023-09-01 00:00:00"
-    },
-    "totalRemainingNominal": 8605155,
-    "countFlows": 1680
+    "_id": "success",
+    "totalRemainingNominal": 3146966
   },
   {
-    "_id": {
-      "quarter": "2023-09-02 00:00:00"
-    },
-    "totalRemainingNominal": 8071340,
-    "countFlows": 1601
+    "_id": "paper",
+    "totalRemainingNominal": 3178523
   },
   {
-    "_id": {
-      "quarter": "2023-09-03 00:00:00"
-    },
-    "totalRemainingNominal": 8409323,
-    "countFlows": 1620
+    "_id": "soon",
+    "totalRemainingNominal": 3084108
   },
   {
-    "_id": {
-      "quarter": "2023-09-04 00:00:00"
-    },
-    "totalRemainingNominal": 8234472,
-    "countFlows": 1637
+    "_id": "customer",
+    "totalRemainingNominal": 3128095
   },
   {
-    "_id": {
-      "quarter": "2023-09-05 00:00:00"
-    },
-    "totalRemainingNominal": 8409932,
-    "countFlows": 1666
+    "_id": "become",
+    "totalRemainingNominal": 2977527
   },
   {
-    "_id": {
-      "quarter": "2023-09-06 00:00:00"
-    },
-    "totalRemainingNominal": 8797727,
-    "countFlows": 1722
+    "_id": "we",
+    "totalRemainingNominal": 2950278
   },
   {
-    "_id": {
-      "quarter": "2023-09-07 00:00:00"
-    },
-    "totalRemainingNominal": 8388911,
-    "countFlows": 1659
+    "_id": "still",
+    "totalRemainingNominal": 2989472
   },
   {
-    "_id": {
-      "quarter": "2023-09-08 00:00:00"
-    },
-    "totalRemainingNominal": 8168813,
-    "countFlows": 1576
+    "_id": "those",
+    "totalRemainingNominal": 3138367
   },
   {
-    "_id": {
-      "quarter": "2023-09-09 00:00:00"
-    },
-    "totalRemainingNominal": 8496370,
-    "countFlows": 1629
+    "_id": "last",
+    "totalRemainingNominal": 2946349
   },
   {
-    "_id": {
-      "quarter": "2023-09-10 00:00:00"
-    },
-    "totalRemainingNominal": 7944120,
-    "countFlows": 1557
+    "_id": "industry",
+    "totalRemainingNominal": 2815001
   },
   {
-    "_id": {
-      "quarter": "2023-09-11 00:00:00"
-    },
-    "totalRemainingNominal": 8472753,
-    "countFlows": 1669
+    "_id": "society",
+    "totalRemainingNominal": 3119197
   },
   {
-    "_id": {
-      "quarter": "2023-09-12 00:00:00"
-    },
-    "totalRemainingNominal": 8598785,
-    "countFlows": 1697
+    "_id": "ten",
+    "totalRemainingNominal": 3021290
   },
   {
-    "_id": {
-      "quarter": "2023-09-13 00:00:00"
-    },
-    "totalRemainingNominal": 8510899,
-    "countFlows": 1663
+    "_id": "power",
+    "totalRemainingNominal": 3106441
   },
   {
-    "_id": {
-      "quarter": "2023-09-14 00:00:00"
-    },
-    "totalRemainingNominal": 8740354,
-    "countFlows": 1671
+    "_id": "marriage",
+    "totalRemainingNominal": 3155910
   },
   {
-    "_id": {
-      "quarter": "2023-09-15 00:00:00"
-    },
-    "totalRemainingNominal": 8579706,
-    "countFlows": 1670
+    "_id": "very",
+    "totalRemainingNominal": 2839738
   },
   {
-    "_id": {
-      "quarter": "2023-09-16 00:00:00"
-    },
-    "totalRemainingNominal": 8327537,
-    "countFlows": 1657
+    "_id": "show",
+    "totalRemainingNominal": 3175485
   },
   {
-    "_id": {
-      "quarter": "2023-09-17 00:00:00"
-    },
-    "totalRemainingNominal": 7980356,
-    "countFlows": 1584
+    "_id": "step",
+    "totalRemainingNominal": 3053058
   },
   {
-    "_id": {
-      "quarter": "2023-09-18 00:00:00"
-    },
-    "totalRemainingNominal": 8126709,
-    "countFlows": 1600
+    "_id": "itself",
+    "totalRemainingNominal": 3192256
   },
   {
-    "_id": {
-      "quarter": "2023-09-19 00:00:00"
-    },
-    "totalRemainingNominal": 8548214,
-    "countFlows": 1671
+    "_id": "music",
+    "totalRemainingNominal": 2857175
   },
   {
-    "_id": {
-      "quarter": "2023-09-20 00:00:00"
-    },
-    "totalRemainingNominal": 8349241,
-    "countFlows": 1628
+    "_id": "guess",
+    "totalRemainingNominal": 3413252
   },
   {
-    "_id": {
-      "quarter": "2023-09-21 00:00:00"
-    },
-    "totalRemainingNominal": 8456157,
-    "countFlows": 1686
+    "_id": "read",
+    "totalRemainingNominal": 2936220
   },
   {
-    "_id": {
-      "quarter": "2023-09-22 00:00:00"
-    },
-    "totalRemainingNominal": 8190277,
-    "countFlows": 1600
+    "_id": "must",
+    "totalRemainingNominal": 3033611
   },
   {
-    "_id": {
-      "quarter": "2023-09-23 00:00:00"
-    },
-    "totalRemainingNominal": 8438212,
-    "countFlows": 1627
+    "_id": "large",
+    "totalRemainingNominal": 3126208
   },
   {
-    "_id": {
-      "quarter": "2023-09-24 00:00:00"
-    },
-    "totalRemainingNominal": 8274747,
-    "countFlows": 1621
+    "_id": "American",
+    "totalRemainingNominal": 2783873
   },
   {
-    "_id": {
-      "quarter": "2023-09-25 00:00:00"
-    },
-    "totalRemainingNominal": 8073460,
-    "countFlows": 1625
+    "_id": "yet",
+    "totalRemainingNominal": 3287112
   },
   {
-    "_id": {
-      "quarter": "2023-09-26 00:00:00"
-    },
-    "totalRemainingNominal": 8457626,
-    "countFlows": 1623
+    "_id": "reality",
+    "totalRemainingNominal": 2848635
   },
   {
-    "_id": {
-      "quarter": "2023-09-27 00:00:00"
-    },
-    "totalRemainingNominal": 8130981,
-    "countFlows": 1590
+    "_id": "camera",
+    "totalRemainingNominal": 3338398
   },
   {
-    "_id": {
-      "quarter": "2023-09-28 00:00:00"
-    },
-    "totalRemainingNominal": 8335359,
-    "countFlows": 1645
+    "_id": "agent",
+    "totalRemainingNominal": 3422920
   },
   {
-    "_id": {
-      "quarter": "2023-09-29 00:00:00"
-    },
-    "totalRemainingNominal": 8676588,
-    "countFlows": 1691
+    "_id": "foot",
+    "totalRemainingNominal": 2992511
   },
   {
-    "_id": {
-      "quarter": "2023-09-30 00:00:00"
-    },
-    "totalRemainingNominal": 8644357,
-    "countFlows": 1685
+    "_id": "particular",
+    "totalRemainingNominal": 2551825
   },
   {
-    "_id": {
-      "quarter": "2023-10-01 00:00:00"
-    },
-    "totalRemainingNominal": 8499707,
-    "countFlows": 1639
+    "_id": "line",
+    "totalRemainingNominal": 2448759
   },
   {
-    "_id": {
-      "quarter": "2023-10-02 00:00:00"
-    },
-    "totalRemainingNominal": 8291681,
-    "countFlows": 1620
+    "_id": "walk",
+    "totalRemainingNominal": 3163490
   },
   {
-    "_id": {
-      "quarter": "2023-10-03 00:00:00"
-    },
-    "totalRemainingNominal": 8541820,
-    "countFlows": 1685
+    "_id": "learn",
+    "totalRemainingNominal": 3115258
   },
   {
-    "_id": {
-      "quarter": "2023-10-04 00:00:00"
-    },
-    "totalRemainingNominal": 8066356,
-    "countFlows": 1586
+    "_id": "that",
+    "totalRemainingNominal": 3020073
   },
   {
-    "_id": {
-      "quarter": "2023-10-05 00:00:00"
-    },
-    "totalRemainingNominal": 8194334,
-    "countFlows": 1623
+    "_id": "manager",
+    "totalRemainingNominal": 3077885
   },
   {
-    "_id": {
-      "quarter": "2023-10-06 00:00:00"
-    },
-    "totalRemainingNominal": 8294128,
-    "countFlows": 1610
+    "_id": "way",
+    "totalRemainingNominal": 2901220
   },
   {
-    "_id": {
-      "quarter": "2023-10-07 00:00:00"
-    },
-    "totalRemainingNominal": 8607200,
-    "countFlows": 1663
+    "_id": "tough",
+    "totalRemainingNominal": 2706049
   },
   {
-    "_id": {
-      "quarter": "2023-10-08 00:00:00"
-    },
-    "totalRemainingNominal": 8497680,
-    "countFlows": 1676
+    "_id": "guy",
+    "totalRemainingNominal": 3001012
   },
   {
-    "_id": {
-      "quarter": "2023-10-09 00:00:00"
-    },
-    "totalRemainingNominal": 8865918,
-    "countFlows": 1734
+    "_id": "law",
+    "totalRemainingNominal": 3144237
   },
   {
-    "_id": {
-      "quarter": "2023-10-10 00:00:00"
-    },
-    "totalRemainingNominal": 8335248,
-    "countFlows": 1634
+    "_id": "ready",
+    "totalRemainingNominal": 2990529
   },
   {
-    "_id": {
-      "quarter": "2023-10-11 00:00:00"
-    },
-    "totalRemainingNominal": 8171771,
-    "countFlows": 1603
+    "_id": "policy",
+    "totalRemainingNominal": 3071194
   },
   {
-    "_id": {
-      "quarter": "2023-10-12 00:00:00"
-    },
-    "totalRemainingNominal": 8638110,
-    "countFlows": 1639
+    "_id": "glass",
+    "totalRemainingNominal": 2869819
   },
   {
-    "_id": {
-      "quarter": "2023-10-13 00:00:00"
-    },
-    "totalRemainingNominal": 8575519,
-    "countFlows": 1658
+    "_id": "institution",
+    "totalRemainingNominal": 2823986
   },
   {
-    "_id": {
-      "quarter": "2023-10-14 00:00:00"
-    },
-    "totalRemainingNominal": 8462372,
-    "countFlows": 1652
+    "_id": "matter",
+    "totalRemainingNominal": 3154083
   },
   {
-    "_id": {
-      "quarter": "2023-10-15 00:00:00"
-    },
-    "totalRemainingNominal": 8619629,
-    "countFlows": 1729
+    "_id": "crime",
+    "totalRemainingNominal": 3257469
   },
   {
-    "_id": {
-      "quarter": "2023-10-16 00:00:00"
-    },
-    "totalRemainingNominal": 10901266,
-    "countFlows": 1866
+    "_id": "part",
+    "totalRemainingNominal": 2939182
   },
   {
-    "_id": {
-      "quarter": "2023-10-17 00:00:00"
-    },
-    "totalRemainingNominal": 13648673,
-    "countFlows": 2168
+    "_id": "daughter",
+    "totalRemainingNominal": 2936696
   },
   {
-    "_id": {
-      "quarter": "2023-10-18 00:00:00"
-    },
-    "totalRemainingNominal": 13654758,
-    "countFlows": 2142
+    "_id": "official",
+    "totalRemainingNominal": 3256090
   },
   {
-    "_id": {
-      "quarter": "2023-10-19 00:00:00"
-    },
-    "totalRemainingNominal": 14166080,
-    "countFlows": 2197
+    "_id": "door",
+    "totalRemainingNominal": 2787846
   },
   {
-    "_id": {
-      "quarter": "2023-10-20 00:00:00"
-    },
-    "totalRemainingNominal": 13989708,
-    "countFlows": 2202
+    "_id": "million",
+    "totalRemainingNominal": 2547581
   },
   {
-    "_id": {
-      "quarter": "2023-10-21 00:00:00"
-    },
-    "totalRemainingNominal": 14076802,
-    "countFlows": 2187
+    "_id": "property",
+    "totalRemainingNominal": 3009628
   },
   {
-    "_id": {
-      "quarter": "2023-10-22 00:00:00"
-    },
-    "totalRemainingNominal": 14028826,
-    "countFlows": 2180
+    "_id": "amount",
+    "totalRemainingNominal": 3139383
   },
   {
-    "_id": {
-      "quarter": "2023-10-23 00:00:00"
-    },
-    "totalRemainingNominal": 13930008,
-    "countFlows": 2229
+    "_id": "whose",
+    "totalRemainingNominal": 2785819
   },
   {
-    "_id": {
-      "quarter": "2023-10-24 00:00:00"
-    },
-    "totalRemainingNominal": 14288984,
-    "countFlows": 2252
+    "_id": "decide",
+    "totalRemainingNominal": 2938233
   },
   {
-    "_id": {
-      "quarter": "2023-10-25 00:00:00"
-    },
-    "totalRemainingNominal": 14019735,
-    "countFlows": 2201
+    "_id": "play",
+    "totalRemainingNominal": 3260048
   },
   {
-    "_id": {
-      "quarter": "2023-10-26 00:00:00"
-    },
-    "totalRemainingNominal": 13862176,
-    "countFlows": 2189
+    "_id": "stand",
+    "totalRemainingNominal": 2943114
   },
   {
-    "_id": {
-      "quarter": "2023-10-27 00:00:00"
-    },
-    "totalRemainingNominal": 13794612,
-    "countFlows": 2204
+    "_id": "indicate",
+    "totalRemainingNominal": 2968388
   },
   {
-    "_id": {
-      "quarter": "2023-10-28 00:00:00"
-    },
-    "totalRemainingNominal": 14042359,
-    "countFlows": 2191
+    "_id": "collection",
+    "totalRemainingNominal": 3184575
   },
   {
-    "_id": {
-      "quarter": "2023-10-29 00:00:00"
-    },
-    "totalRemainingNominal": 13788074,
-    "countFlows": 2188
+    "_id": "from",
+    "totalRemainingNominal": 3193401
   },
   {
-    "_id": {
-      "quarter": "2023-10-30 00:00:00"
-    },
-    "totalRemainingNominal": 14356818,
-    "countFlows": 2255
+    "_id": "employee",
+    "totalRemainingNominal": 2990811
   },
   {
-    "_id": {
-      "quarter": "2023-10-31 00:00:00"
-    },
-    "totalRemainingNominal": 13894999,
-    "countFlows": 2147
+    "_id": "hospital",
+    "totalRemainingNominal": 3410822
   },
   {
-    "_id": {
-      "quarter": "2023-11-01 00:00:00"
-    },
-    "totalRemainingNominal": 13557716,
-    "countFlows": 2165
+    "_id": "what",
+    "totalRemainingNominal": 3496607
   },
   {
-    "_id": {
-      "quarter": "2023-11-02 00:00:00"
-    },
-    "totalRemainingNominal": 13947980,
-    "countFlows": 2193
+    "_id": "role",
+    "totalRemainingNominal": 3154087
   },
   {
-    "_id": {
-      "quarter": "2023-11-03 00:00:00"
-    },
-    "totalRemainingNominal": 14613041,
-    "countFlows": 2290
+    "_id": "fast",
+    "totalRemainingNominal": 3341265
   },
   {
-    "_id": {
-      "quarter": "2023-11-04 00:00:00"
-    },
-    "totalRemainingNominal": 13785291,
-    "countFlows": 2177
+    "_id": "why",
+    "totalRemainingNominal": 3204757
   },
   {
-    "_id": {
-      "quarter": "2023-11-05 00:00:00"
-    },
-    "totalRemainingNominal": 13797593,
-    "countFlows": 2168
+    "_id": "their",
+    "totalRemainingNominal": 2576157
   },
   {
-    "_id": {
-      "quarter": "2023-11-06 00:00:00"
-    },
-    "totalRemainingNominal": 13901922,
-    "countFlows": 2182
+    "_id": "pattern",
+    "totalRemainingNominal": 3070067
   },
   {
-    "_id": {
-      "quarter": "2023-11-07 00:00:00"
-    },
-    "totalRemainingNominal": 14182705,
-    "countFlows": 2201
+    "_id": "down",
+    "totalRemainingNominal": 2909625
   },
   {
-    "_id": {
-      "quarter": "2023-11-08 00:00:00"
-    },
-    "totalRemainingNominal": 13347620,
-    "countFlows": 2078
+    "_id": "leader",
+    "totalRemainingNominal": 3201830
   },
   {
-    "_id": {
-      "quarter": "2023-11-09 00:00:00"
-    },
-    "totalRemainingNominal": 14311112,
-    "countFlows": 2244
+    "_id": "hand",
+    "totalRemainingNominal": 3112716
   },
   {
-    "_id": {
-      "quarter": "2023-11-10 00:00:00"
-    },
-    "totalRemainingNominal": 14142545,
-    "countFlows": 2205
+    "_id": "concern",
+    "totalRemainingNominal": 2640174
   },
   {
-    "_id": {
-      "quarter": "2023-11-11 00:00:00"
-    },
-    "totalRemainingNominal": 14595175,
-    "countFlows": 2277
+    "_id": "hundred",
+    "totalRemainingNominal": 3362141
   },
   {
-    "_id": {
-      "quarter": "2023-11-12 00:00:00"
-    },
-    "totalRemainingNominal": 13207688,
-    "countFlows": 2095
+    "_id": "task",
+    "totalRemainingNominal": 2842060
   },
   {
-    "_id": {
-      "quarter": "2023-11-13 00:00:00"
-    },
-    "totalRemainingNominal": 14216500,
-    "countFlows": 2218
+    "_id": "thus",
+    "totalRemainingNominal": 2820298
   },
   {
-    "_id": {
-      "quarter": "2023-11-14 00:00:00"
-    },
-    "totalRemainingNominal": 13977707,
-    "countFlows": 2202
+    "_id": "film",
+    "totalRemainingNominal": 2845020
   },
   {
-    "_id": {
-      "quarter": "2023-11-15 00:00:00"
-    },
-    "totalRemainingNominal": 13518093,
-    "countFlows": 2137
+    "_id": "night",
+    "totalRemainingNominal": 2465111
   },
   {
-    "_id": {
-      "quarter": "2023-11-16 00:00:00"
-    },
-    "totalRemainingNominal": 13688645,
-    "countFlows": 2174
+    "_id": "once",
+    "totalRemainingNominal": 3348731
   },
   {
-    "_id": {
-      "quarter": "2023-11-17 00:00:00"
-    },
-    "totalRemainingNominal": 13337301,
-    "countFlows": 2116
+    "_id": "box",
+    "totalRemainingNominal": 3177992
   },
   {
-    "_id": {
-      "quarter": "2023-11-18 00:00:00"
-    },
-    "totalRemainingNominal": 13499136,
-    "countFlows": 2109
+    "_id": "day",
+    "totalRemainingNominal": 3153371
   },
   {
-    "_id": {
-      "quarter": "2023-11-19 00:00:00"
-    },
-    "totalRemainingNominal": 14250505,
-    "countFlows": 2197
+    "_id": "ground",
+    "totalRemainingNominal": 2966021
   },
   {
-    "_id": {
-      "quarter": "2023-11-20 00:00:00"
-    },
-    "totalRemainingNominal": 14164245,
-    "countFlows": 2207
+    "_id": "when",
+    "totalRemainingNominal": 2899411
   },
   {
-    "_id": {
-      "quarter": "2023-11-21 00:00:00"
-    },
-    "totalRemainingNominal": 14721346,
-    "countFlows": 2267
+    "_id": "minute",
+    "totalRemainingNominal": 2560998
   },
   {
-    "_id": {
-      "quarter": "2023-11-22 00:00:00"
-    },
-    "totalRemainingNominal": 13252584,
-    "countFlows": 2128
+    "_id": "head",
+    "totalRemainingNominal": 3250855
   },
   {
-    "_id": {
-      "quarter": "2023-11-23 00:00:00"
-    },
-    "totalRemainingNominal": 13985361,
-    "countFlows": 2205
+    "_id": "if",
+    "totalRemainingNominal": 3187121
   },
   {
-    "_id": {
-      "quarter": "2023-11-24 00:00:00"
-    },
-    "totalRemainingNominal": 14417457,
-    "countFlows": 2182
+    "_id": "magazine",
+    "totalRemainingNominal": 2911238
   },
   {
-    "_id": {
-      "quarter": "2023-11-25 00:00:00"
-    },
-    "totalRemainingNominal": 13741913,
-    "countFlows": 2159
+    "_id": "how",
+    "totalRemainingNominal": 2757378
   },
   {
-    "_id": {
-      "quarter": "2023-11-26 00:00:00"
-    },
-    "totalRemainingNominal": 13471181,
-    "countFlows": 2167
+    "_id": "discussion",
+    "totalRemainingNominal": 3044481
   },
   {
-    "_id": {
-      "quarter": "2023-11-27 00:00:00"
-    },
-    "totalRemainingNominal": 14137478,
-    "countFlows": 2198
+    "_id": "help",
+    "totalRemainingNominal": 2634609
   },
   {
-    "_id": {
-      "quarter": "2023-11-28 00:00:00"
-    },
-    "totalRemainingNominal": 14389579,
-    "countFlows": 2238
+    "_id": "of",
+    "totalRemainingNominal": 3079585
   },
   {
-    "_id": {
-      "quarter": "2023-11-29 00:00:00"
-    },
-    "totalRemainingNominal": 14464084,
-    "countFlows": 2256
+    "_id": "social",
+    "totalRemainingNominal": 2794228
   },
   {
-    "_id": {
-      "quarter": "2023-11-30 00:00:00"
-    },
-    "totalRemainingNominal": 13630542,
-    "countFlows": 2136
+    "_id": "care",
+    "totalRemainingNominal": 3050313
   },
   {
-    "_id": {
-      "quarter": "2023-12-01 00:00:00"
-    },
-    "totalRemainingNominal": 14242425,
-    "countFlows": 2219
+    "_id": "name",
+    "totalRemainingNominal": 2838059
   },
   {
-    "_id": {
-      "quarter": "2023-12-02 00:00:00"
-    },
-    "totalRemainingNominal": 13826642,
-    "countFlows": 2167
+    "_id": "short",
+    "totalRemainingNominal": 2909430
   },
   {
-    "_id": {
-      "quarter": "2023-12-03 00:00:00"
-    },
-    "totalRemainingNominal": 14480298,
-    "countFlows": 2293
+    "_id": "apply",
+    "totalRemainingNominal": 2713733
   },
   {
-    "_id": {
-      "quarter": "2023-12-04 00:00:00"
-    },
-    "totalRemainingNominal": 14219128,
-    "countFlows": 2193
+    "_id": "piece",
+    "totalRemainingNominal": 3115766
   },
   {
-    "_id": {
-      "quarter": "2023-12-05 00:00:00"
-    },
-    "totalRemainingNominal": 14072481,
-    "countFlows": 2202
+    "_id": "six",
+    "totalRemainingNominal": 2920650
   },
   {
-    "_id": {
-      "quarter": "2023-12-06 00:00:00"
-    },
-    "totalRemainingNominal": 14305853,
-    "countFlows": 2233
+    "_id": "natural",
+    "totalRemainingNominal": 2568734
   },
   {
-    "_id": {
-      "quarter": "2023-12-07 00:00:00"
-    },
-    "totalRemainingNominal": 13852187,
-    "countFlows": 2173
+    "_id": "summer",
+    "totalRemainingNominal": 3141296
   },
   {
-    "_id": {
-      "quarter": "2023-12-08 00:00:00"
-    },
-    "totalRemainingNominal": 13105561,
-    "countFlows": 1891
+    "_id": "themselves",
+    "totalRemainingNominal": 2827324
   },
   {
-    "_id": {
-      "quarter": "2023-12-09 00:00:00"
-    },
-    "totalRemainingNominal": 12274716,
-    "countFlows": 1588
+    "_id": "question",
+    "totalRemainingNominal": 2750419
   },
   {
-    "_id": {
-      "quarter": "2023-12-10 00:00:00"
-    },
-    "totalRemainingNominal": 12700879,
-    "countFlows": 1672
+    "_id": "lead",
+    "totalRemainingNominal": 2765278
   },
   {
-    "_id": {
-      "quarter": "2023-12-11 00:00:00"
-    },
-    "totalRemainingNominal": 12850089,
-    "countFlows": 1692
+    "_id": "brother",
+    "totalRemainingNominal": 2868782
   },
   {
-    "_id": {
-      "quarter": "2023-12-12 00:00:00"
-    },
-    "totalRemainingNominal": 13001915,
-    "countFlows": 1695
+    "_id": "movie",
+    "totalRemainingNominal": 3410755
   },
   {
-    "_id": {
-      "quarter": "2023-12-13 00:00:00"
-    },
-    "totalRemainingNominal": 12371863,
-    "countFlows": 1612
+    "_id": "style",
+    "totalRemainingNominal": 2768704
   },
   {
-    "_id": {
-      "quarter": "2023-12-14 00:00:00"
-    },
-    "totalRemainingNominal": 12868112,
-    "countFlows": 1680
+    "_id": "field",
+    "totalRemainingNominal": 2758816
   },
   {
-    "_id": {
-      "quarter": "2023-12-15 00:00:00"
-    },
-    "totalRemainingNominal": 12225023,
-    "countFlows": 1601
+    "_id": "bar",
+    "totalRemainingNominal": 2539013
   },
   {
-    "_id": {
-      "quarter": "2023-12-16 00:00:00"
-    },
-    "totalRemainingNominal": 12525045,
-    "countFlows": 1620
+    "_id": "appear",
+    "totalRemainingNominal": 3171845
   },
   {
-    "_id": {
-      "quarter": "2023-12-17 00:00:00"
-    },
-    "totalRemainingNominal": 12325645,
-    "countFlows": 1637
+    "_id": "two",
+    "totalRemainingNominal": 3682666
   },
   {
-    "_id": {
-      "quarter": "2023-12-18 00:00:00"
-    },
-    "totalRemainingNominal": 12563692,
-    "countFlows": 1666
+    "_id": "start",
+    "totalRemainingNominal": 3357486
   },
   {
-    "_id": {
-      "quarter": "2023-12-19 00:00:00"
-    },
-    "totalRemainingNominal": 13160734,
-    "countFlows": 1722
+    "_id": "drop",
+    "totalRemainingNominal": 2715794
   },
   {
-    "_id": {
-      "quarter": "2023-12-20 00:00:00"
-    },
-    "totalRemainingNominal": 12605448,
-    "countFlows": 1659
+    "_id": "establish",
+    "totalRemainingNominal": 3256347
   },
   {
-    "_id": {
-      "quarter": "2023-12-21 00:00:00"
-    },
-    "totalRemainingNominal": 12198560,
-    "countFlows": 1576
+    "_id": "late",
+    "totalRemainingNominal": 3239489
   },
   {
-    "_id": {
-      "quarter": "2023-12-22 00:00:00"
-    },
-    "totalRemainingNominal": 12672724,
-    "countFlows": 1629
+    "_id": "note",
+    "totalRemainingNominal": 2945977
   },
   {
-    "_id": {
-      "quarter": "2023-12-23 00:00:00"
-    },
-    "totalRemainingNominal": 11873944,
-    "countFlows": 1557
+    "_id": "about",
+    "totalRemainingNominal": 3047437
   },
   {
-    "_id": {
-      "quarter": "2023-12-24 00:00:00"
-    },
-    "totalRemainingNominal": 12738712,
-    "countFlows": 1669
+    "_id": "choose",
+    "totalRemainingNominal": 2598830
   },
   {
-    "_id": {
-      "quarter": "2023-12-25 00:00:00"
-    },
-    "totalRemainingNominal": 13012828,
-    "countFlows": 1697
+    "_id": "health",
+    "totalRemainingNominal": 3197124
   },
   {
-    "_id": {
-      "quarter": "2023-12-26 00:00:00"
-    },
-    "totalRemainingNominal": 12679717,
-    "countFlows": 1663
+    "_id": "television",
+    "totalRemainingNominal": 3637789
   },
   {
-    "_id": {
-      "quarter": "2023-12-27 00:00:00"
-    },
-    "totalRemainingNominal": 13079722,
-    "countFlows": 1671
+    "_id": "simple",
+    "totalRemainingNominal": 2778280
   },
   {
-    "_id": {
-      "quarter": "2023-12-28 00:00:00"
-    },
-    "totalRemainingNominal": 12875724,
-    "countFlows": 1670
+    "_id": "person",
+    "totalRemainingNominal": 3214698
   },
   {
-    "_id": {
-      "quarter": "2023-12-29 00:00:00"
-    },
-    "totalRemainingNominal": 12522340,
-    "countFlows": 1657
+    "_id": "safe",
+    "totalRemainingNominal": 3354327
   },
   {
-    "_id": {
-      "quarter": "2023-12-30 00:00:00"
-    },
-    "totalRemainingNominal": 12061648,
-    "countFlows": 1584
+    "_id": "book",
+    "totalRemainingNominal": 3100307
   },
   {
-    "_id": {
-      "quarter": "2023-12-31 00:00:00"
-    },
-    "totalRemainingNominal": 12256613,
-    "countFlows": 1600
+    "_id": "have",
+    "totalRemainingNominal": 3354116
   },
   {
-    "_id": {
-      "quarter": "2024-01-01 00:00:00"
-    },
-    "totalRemainingNominal": 12738525,
-    "countFlows": 1671
+    "_id": "study",
+    "totalRemainingNominal": 2769725
   },
   {
-    "_id": {
-      "quarter": "2024-01-02 00:00:00"
-    },
-    "totalRemainingNominal": 12484260,
-    "countFlows": 1628
+    "_id": "involve",
+    "totalRemainingNominal": 2644468
   },
   {
-    "_id": {
-      "quarter": "2024-01-03 00:00:00"
-    },
-    "totalRemainingNominal": 12734407,
-    "countFlows": 1686
+    "_id": "cold",
+    "totalRemainingNominal": 2681576
   },
   {
-    "_id": {
-      "quarter": "2024-01-04 00:00:00"
-    },
-    "totalRemainingNominal": 12215116,
-    "countFlows": 1600
+    "_id": "city",
+    "totalRemainingNominal": 3229037
   },
   {
-    "_id": {
-      "quarter": "2024-01-05 00:00:00"
-    },
-    "totalRemainingNominal": 12493933,
-    "countFlows": 1627
+    "_id": "either",
+    "totalRemainingNominal": 3167737
   },
   {
-    "_id": {
-      "quarter": "2024-01-06 00:00:00"
-    },
-    "totalRemainingNominal": 12453257,
-    "countFlows": 1621
+    "_id": "total",
+    "totalRemainingNominal": 3034620
   },
   {
-    "_id": {
-      "quarter": "2024-01-07 00:00:00"
-    },
-    "totalRemainingNominal": 12211377,
-    "countFlows": 1625
+    "_id": "as",
+    "totalRemainingNominal": 2678923
   },
   {
-    "_id": {
-      "quarter": "2024-01-08 00:00:00"
-    },
-    "totalRemainingNominal": 12602976,
-    "countFlows": 1623
+    "_id": "well",
+    "totalRemainingNominal": 3203191
   },
   {
-    "_id": {
-      "quarter": "2024-01-09 00:00:00"
-    },
-    "totalRemainingNominal": 12291322,
-    "countFlows": 1590
+    "_id": "see",
+    "totalRemainingNominal": 2556424
   },
   {
-    "_id": {
-      "quarter": "2024-01-10 00:00:00"
-    },
-    "totalRemainingNominal": 12645768,
-    "countFlows": 1645
+    "_id": "something",
+    "totalRemainingNominal": 2953934
   },
   {
-    "_id": {
-      "quarter": "2024-01-11 00:00:00"
-    },
-    "totalRemainingNominal": 13022807,
-    "countFlows": 1691
+    "_id": "some",
+    "totalRemainingNominal": 3005239
   },
   {
-    "_id": {
-      "quarter": "2024-01-12 00:00:00"
-    },
-    "totalRemainingNominal": 12947554,
-    "countFlows": 1685
+    "_id": "chance",
+    "totalRemainingNominal": 2515127
   },
   {
-    "_id": {
-      "quarter": "2024-01-13 00:00:00"
-    },
-    "totalRemainingNominal": 12661373,
-    "countFlows": 1639
+    "_id": "rest",
+    "totalRemainingNominal": 2887793
   },
   {
-    "_id": {
-      "quarter": "2024-01-14 00:00:00"
-    },
-    "totalRemainingNominal": 12350463,
-    "countFlows": 1620
+    "_id": "southern",
+    "totalRemainingNominal": 2826141
   },
   {
-    "_id": {
-      "quarter": "2024-01-15 00:00:00"
-    },
-    "totalRemainingNominal": 12909882,
-    "countFlows": 1685
+    "_id": "air",
+    "totalRemainingNominal": 3052282
   },
   {
-    "_id": {
-      "quarter": "2024-01-16 00:00:00"
-    },
-    "totalRemainingNominal": 12111433,
-    "countFlows": 1586
+    "_id": "fill",
+    "totalRemainingNominal": 2917919
   },
   {
-    "_id": {
-      "quarter": "2024-01-17 00:00:00"
-    },
-    "totalRemainingNominal": 12192811,
-    "countFlows": 1623
+    "_id": "course",
+    "totalRemainingNominal": 3130659
   },
   {
-    "_id": {
-      "quarter": "2024-01-18 00:00:00"
-    },
-    "totalRemainingNominal": 12437219,
-    "countFlows": 1610
+    "_id": "benefit",
+    "totalRemainingNominal": 3184019
   },
   {
-    "_id": {
-      "quarter": "2024-01-19 00:00:00"
-    },
-    "totalRemainingNominal": 12897919,
-    "countFlows": 1663
+    "_id": "responsibility",
+    "totalRemainingNominal": 3000036
   },
   {
-    "_id": {
-      "quarter": "2024-01-20 00:00:00"
-    },
-    "totalRemainingNominal": 12773787,
-    "countFlows": 1676
+    "_id": "our",
+    "totalRemainingNominal": 3091489
   },
   {
-    "_id": {
-      "quarter": "2024-01-21 00:00:00"
-    },
-    "totalRemainingNominal": 13258125,
-    "countFlows": 1734
+    "_id": "speech",
+    "totalRemainingNominal": 2785592
   },
   {
-    "_id": {
-      "quarter": "2024-01-22 00:00:00"
-    },
-    "totalRemainingNominal": 12496733,
-    "countFlows": 1634
+    "_id": "difference",
+    "totalRemainingNominal": 2708064
   },
   {
-    "_id": {
-      "quarter": "2024-01-23 00:00:00"
-    },
-    "totalRemainingNominal": 12354068,
-    "countFlows": 1603
+    "_id": "later",
+    "totalRemainingNominal": 2775357
   },
   {
-    "_id": {
-      "quarter": "2024-01-24 00:00:00"
-    },
-    "totalRemainingNominal": 12795616,
-    "countFlows": 1639
+    "_id": "cause",
+    "totalRemainingNominal": 3352911
   },
   {
-    "_id": {
-      "quarter": "2024-01-25 00:00:00"
-    },
-    "totalRemainingNominal": 12789907,
-    "countFlows": 1658
+    "_id": "past",
+    "totalRemainingNominal": 3023687
   },
   {
-    "_id": {
-      "quarter": "2024-01-26 00:00:00"
-    },
-    "totalRemainingNominal": 12679699,
-    "countFlows": 1652
+    "_id": "ok",
+    "totalRemainingNominal": 2887876
   },
   {
-    "_id": {
-      "quarter": "2024-01-27 00:00:00"
-    },
-    "totalRemainingNominal": 13030692,
-    "countFlows": 1729
+    "_id": "forward",
+    "totalRemainingNominal": 3275148
   },
   {
-    "_id": {
-      "quarter": "2024-01-28 00:00:00"
-    },
-    "totalRemainingNominal": 12282123,
-    "countFlows": 1603
+    "_id": "receive",
+    "totalRemainingNominal": 2796478
   },
   {
-    "_id": {
-      "quarter": "2024-01-29 00:00:00"
-    },
-    "totalRemainingNominal": 15837905,
-    "countFlows": 1911
+    "_id": "fish",
+    "totalRemainingNominal": 2980356
   },
   {
-    "_id": {
-      "quarter": "2024-01-30 00:00:00"
-    },
-    "totalRemainingNominal": 19070668,
-    "countFlows": 2120
+    "_id": "small",
+    "totalRemainingNominal": 2616765
   },
   {
-    "_id": {
-      "quarter": "2024-01-31 00:00:00"
-    },
-    "totalRemainingNominal": 19440754,
-    "countFlows": 2178
+    "_id": "light",
+    "totalRemainingNominal": 3313832
   },
   {
-    "_id": {
-      "quarter": "2024-02-01 00:00:00"
-    },
-    "totalRemainingNominal": 19945532,
-    "countFlows": 2218
+    "_id": "interest",
+    "totalRemainingNominal": 2932065
   },
   {
-    "_id": {
-      "quarter": "2024-02-02 00:00:00"
-    },
-    "totalRemainingNominal": 19602067,
-    "countFlows": 2185
+    "_id": "impact",
+    "totalRemainingNominal": 3023772
   },
   {
-    "_id": {
-      "quarter": "2024-02-03 00:00:00"
-    },
-    "totalRemainingNominal": 19511055,
-    "countFlows": 2166
+    "_id": "agreement",
+    "totalRemainingNominal": 2779440
   },
   {
-    "_id": {
-      "quarter": "2024-02-04 00:00:00"
-    },
-    "totalRemainingNominal": 20023356,
-    "countFlows": 2260
+    "_id": "any",
+    "totalRemainingNominal": 3006467
   },
   {
-    "_id": {
-      "quarter": "2024-02-05 00:00:00"
-    },
-    "totalRemainingNominal": 19783945,
-    "countFlows": 2235
+    "_id": "floor",
+    "totalRemainingNominal": 3081917
   },
   {
-    "_id": {
-      "quarter": "2024-02-06 00:00:00"
-    },
-    "totalRemainingNominal": 19746820,
-    "countFlows": 2213
+    "_id": "win",
+    "totalRemainingNominal": 2939941
   },
   {
-    "_id": {
-      "quarter": "2024-02-07 00:00:00"
-    },
-    "totalRemainingNominal": 19281930,
-    "countFlows": 2179
+    "_id": "choice",
+    "totalRemainingNominal": 3271302
   },
   {
-    "_id": {
-      "quarter": "2024-02-08 00:00:00"
-    },
-    "totalRemainingNominal": 19702871,
-    "countFlows": 2228
+    "_id": "administration",
+    "totalRemainingNominal": 3170311
   },
   {
-    "_id": {
-      "quarter": "2024-02-09 00:00:00"
-    },
-    "totalRemainingNominal": 18811877,
-    "countFlows": 2138
+    "_id": "significant",
+    "totalRemainingNominal": 3168845
   },
   {
-    "_id": {
-      "quarter": "2024-02-10 00:00:00"
-    },
-    "totalRemainingNominal": 19919772,
-    "countFlows": 2215
+    "_id": "adult",
+    "totalRemainingNominal": 2728976
   },
   {
-    "_id": {
-      "quarter": "2024-02-11 00:00:00"
-    },
-    "totalRemainingNominal": 20005980,
-    "countFlows": 2251
+    "_id": "deal",
+    "totalRemainingNominal": 2933842
   },
   {
-    "_id": {
-      "quarter": "2024-02-12 00:00:00"
-    },
-    "totalRemainingNominal": 19241022,
-    "countFlows": 2130
+    "_id": "form",
+    "totalRemainingNominal": 2863508
   },
   {
-    "_id": {
-      "quarter": "2024-02-13 00:00:00"
-    },
-    "totalRemainingNominal": 19592623,
-    "countFlows": 2208
+    "_id": "at",
+    "totalRemainingNominal": 3100303
   },
   {
-    "_id": {
-      "quarter": "2024-02-14 00:00:00"
-    },
-    "totalRemainingNominal": 19201653,
-    "countFlows": 2152
+    "_id": "keep",
+    "totalRemainingNominal": 2932941
   },
   {
-    "_id": {
-      "quarter": "2024-02-15 00:00:00"
-    },
-    "totalRemainingNominal": 20414689,
-    "countFlows": 2293
+    "_id": "thought",
+    "totalRemainingNominal": 3047960
   },
   {
-    "_id": {
-      "quarter": "2024-02-16 00:00:00"
-    },
-    "totalRemainingNominal": 19612108,
-    "countFlows": 2186
+    "_id": "agree",
+    "totalRemainingNominal": 2828750
   },
   {
-    "_id": {
-      "quarter": "2024-02-17 00:00:00"
-    },
-    "totalRemainingNominal": 19179626,
-    "countFlows": 2166
+    "_id": "machine",
+    "totalRemainingNominal": 3244064
   },
   {
-    "_id": {
-      "quarter": "2024-02-18 00:00:00"
-    },
-    "totalRemainingNominal": 19594990,
-    "countFlows": 2197
+    "_id": "today",
+    "totalRemainingNominal": 2999260
   },
   {
-    "_id": {
-      "quarter": "2024-02-19 00:00:00"
-    },
-    "totalRemainingNominal": 19193678,
-    "countFlows": 2150
+    "_id": "sense",
+    "totalRemainingNominal": 2989761
   },
   {
-    "_id": {
-      "quarter": "2024-02-20 00:00:00"
-    },
-    "totalRemainingNominal": 19553393,
-    "countFlows": 2136
+    "_id": "Congress",
+    "totalRemainingNominal": 3147372
   },
   {
-    "_id": {
-      "quarter": "2024-02-21 00:00:00"
-    },
-    "totalRemainingNominal": 19655776,
-    "countFlows": 2218
+    "_id": "really",
+    "totalRemainingNominal": 2802282
   },
   {
-    "_id": {
-      "quarter": "2024-02-22 00:00:00"
-    },
-    "totalRemainingNominal": 20056362,
-    "countFlows": 2215
+    "_id": "herself",
+    "totalRemainingNominal": 3275006
   },
   {
-    "_id": {
-      "quarter": "2024-02-23 00:00:00"
-    },
-    "totalRemainingNominal": 20121464,
-    "countFlows": 2257
+    "_id": "catch",
+    "totalRemainingNominal": 3095586
   },
   {
-    "_id": {
-      "quarter": "2024-02-24 00:00:00"
-    },
-    "totalRemainingNominal": 19587971,
-    "countFlows": 2183
+    "_id": "bag",
+    "totalRemainingNominal": 2753780
   },
   {
-    "_id": {
-      "quarter": "2024-02-25 00:00:00"
-    },
-    "totalRemainingNominal": 18625702,
-    "countFlows": 2130
+    "_id": "push",
+    "totalRemainingNominal": 2854026
   },
   {
-    "_id": {
-      "quarter": "2024-02-26 00:00:00"
-    },
-    "totalRemainingNominal": 20081569,
-    "countFlows": 2236
+    "_id": "add",
+    "totalRemainingNominal": 2761813
   },
   {
-    "_id": {
-      "quarter": "2024-02-27 00:00:00"
-    },
-    "totalRemainingNominal": 19239025,
-    "countFlows": 2153
+    "_id": "sea",
+    "totalRemainingNominal": 3008453
   },
   {
-    "_id": {
-      "quarter": "2024-02-28 00:00:00"
-    },
-    "totalRemainingNominal": 19265115,
-    "countFlows": 2181
+    "_id": "mother",
+    "totalRemainingNominal": 2934018
   },
   {
-    "_id": {
-      "quarter": "2024-02-29 00:00:00"
-    },
-    "totalRemainingNominal": 18826803,
-    "countFlows": 2120
+    "_id": "wrong",
+    "totalRemainingNominal": 2978716
   },
   {
-    "_id": {
-      "quarter": "2024-03-01 00:00:00"
-    },
-    "totalRemainingNominal": 18354467,
-    "countFlows": 2074
+    "_id": "nearly",
+    "totalRemainingNominal": 3139823
   },
   {
-    "_id": {
-      "quarter": "2024-03-02 00:00:00"
-    },
-    "totalRemainingNominal": 19825573,
-    "countFlows": 2193
+    "_id": "these",
+    "totalRemainingNominal": 2750679
   },
   {
-    "_id": {
-      "quarter": "2024-03-03 00:00:00"
-    },
-    "totalRemainingNominal": 19443462,
-    "countFlows": 2186
+    "_id": "interesting",
+    "totalRemainingNominal": 2810269
   },
   {
-    "_id": {
-      "quarter": "2024-03-04 00:00:00"
-    },
-    "totalRemainingNominal": 20581574,
-    "countFlows": 2278
+    "_id": "service",
+    "totalRemainingNominal": 3012758
   },
   {
-    "_id": {
-      "quarter": "2024-03-05 00:00:00"
-    },
-    "totalRemainingNominal": 19504906,
-    "countFlows": 2184
+    "_id": "value",
+    "totalRemainingNominal": 3246927
   },
   {
-    "_id": {
-      "quarter": "2024-03-06 00:00:00"
-    },
-    "totalRemainingNominal": 19001585,
-    "countFlows": 2146
+    "_id": "international",
+    "totalRemainingNominal": 2993828
   },
   {
-    "_id": {
-      "quarter": "2024-03-07 00:00:00"
-    },
-    "totalRemainingNominal": 19994836,
-    "countFlows": 2194
+    "_id": "do",
+    "totalRemainingNominal": 3065139
   },
   {
-    "_id": {
-      "quarter": "2024-03-08 00:00:00"
-    },
-    "totalRemainingNominal": 19522037,
-    "countFlows": 2182
+    "_id": "source",
+    "totalRemainingNominal": 3159259
   },
   {
-    "_id": {
-      "quarter": "2024-03-09 00:00:00"
-    },
-    "totalRemainingNominal": 19254041,
-    "countFlows": 2176
+    "_id": "vote",
+    "totalRemainingNominal": 2853572
   },
   {
-    "_id": {
-      "quarter": "2024-03-10 00:00:00"
-    },
-    "totalRemainingNominal": 19044548,
-    "countFlows": 2157
+    "_id": "senior",
+    "totalRemainingNominal": 2953254
   },
   {
-    "_id": {
-      "quarter": "2024-03-11 00:00:00"
-    },
-    "totalRemainingNominal": 20057391,
-    "countFlows": 2238
+    "_id": "get",
+    "totalRemainingNominal": 3396359
   },
   {
-    "_id": {
-      "quarter": "2024-03-12 00:00:00"
-    },
-    "totalRemainingNominal": 20210127,
-    "countFlows": 2239
+    "_id": "certainly",
+    "totalRemainingNominal": 2787954
   },
   {
-    "_id": {
-      "quarter": "2024-03-13 00:00:00"
-    },
-    "totalRemainingNominal": 19535897,
-    "countFlows": 2172
+    "_id": "picture",
+    "totalRemainingNominal": 2831506
   },
   {
-    "_id": {
-      "quarter": "2024-03-14 00:00:00"
-    },
-    "totalRemainingNominal": 19975062,
-    "countFlows": 2219
+    "_id": "room",
+    "totalRemainingNominal": 2908232
   },
   {
-    "_id": {
-      "quarter": "2024-03-15 00:00:00"
-    },
-    "totalRemainingNominal": 19250761,
-    "countFlows": 2153
+    "_id": "list",
+    "totalRemainingNominal": 3015202
   },
   {
-    "_id": {
-      "quarter": "2024-03-16 00:00:00"
-    },
-    "totalRemainingNominal": 19926872,
-    "countFlows": 2284
+    "_id": "several",
+    "totalRemainingNominal": 3597652
   },
   {
-    "_id": {
-      "quarter": "2024-03-17 00:00:00"
-    },
-    "totalRemainingNominal": 19710587,
-    "countFlows": 2175
+    "_id": "wall",
+    "totalRemainingNominal": 2891239
   },
   {
-    "_id": {
-      "quarter": "2024-03-18 00:00:00"
-    },
-    "totalRemainingNominal": 19740511,
-    "countFlows": 2205
+    "_id": "both",
+    "totalRemainingNominal": 2655328
   },
   {
-    "_id": {
-      "quarter": "2024-03-19 00:00:00"
-    },
-    "totalRemainingNominal": 19920168,
-    "countFlows": 2226
+    "_id": "accept",
+    "totalRemainingNominal": 3367716
   },
   {
-    "_id": {
-      "quarter": "2024-03-20 00:00:00"
-    },
-    "totalRemainingNominal": 19974506,
-    "countFlows": 2237
+    "_id": "like",
+    "totalRemainingNominal": 3112752
   },
   {
-    "_id": {
-      "quarter": "2024-03-21 00:00:00"
-    },
-    "totalRemainingNominal": 17711528,
-    "countFlows": 1869
+    "_id": "sure",
+    "totalRemainingNominal": 3309394
   },
   {
-    "_id": {
-      "quarter": "2024-03-22 00:00:00"
-    },
-    "totalRemainingNominal": 16471635,
-    "countFlows": 1591
+    "_id": "eight",
+    "totalRemainingNominal": 3210008
   },
   {
-    "_id": {
-      "quarter": "2024-03-23 00:00:00"
-    },
-    "totalRemainingNominal": 16906177,
-    "countFlows": 1677
+    "_id": "go",
+    "totalRemainingNominal": 3187473
   },
   {
-    "_id": {
-      "quarter": "2024-03-24 00:00:00"
-    },
-    "totalRemainingNominal": 16985776,
-    "countFlows": 1669
+    "_id": "per",
+    "totalRemainingNominal": 3134924
   },
   {
-    "_id": {
-      "quarter": "2024-03-25 00:00:00"
-    },
-    "totalRemainingNominal": 16799276,
-    "countFlows": 1651
+    "_id": "recently",
+    "totalRemainingNominal": 3110809
   },
   {
-    "_id": {
-      "quarter": "2024-03-26 00:00:00"
-    },
-    "totalRemainingNominal": 17080856,
-    "countFlows": 1664
+    "_id": "remember",
+    "totalRemainingNominal": 2988292
   },
   {
-    "_id": {
-      "quarter": "2024-03-27 00:00:00"
-    },
-    "totalRemainingNominal": 17273978,
-    "countFlows": 1682
+    "_id": "player",
+    "totalRemainingNominal": 2823578
   },
   {
-    "_id": {
-      "quarter": "2024-03-28 00:00:00"
-    },
-    "totalRemainingNominal": 16758353,
-    "countFlows": 1650
+    "_id": "store",
+    "totalRemainingNominal": 2841908
   },
   {
-    "_id": {
-      "quarter": "2024-03-29 00:00:00"
-    },
-    "totalRemainingNominal": 16134525,
-    "countFlows": 1570
+    "_id": "so",
+    "totalRemainingNominal": 3054860
   },
   {
-    "_id": {
-      "quarter": "2024-03-30 00:00:00"
-    },
-    "totalRemainingNominal": 16814161,
-    "countFlows": 1652
+    "_id": "participant",
+    "totalRemainingNominal": 2992798
   },
   {
-    "_id": {
-      "quarter": "2024-03-31 00:00:00"
-    },
-    "totalRemainingNominal": 16663800,
-    "countFlows": 1651
+    "_id": "blood",
+    "totalRemainingNominal": 2892660
   },
   {
-    "_id": {
-      "quarter": "2024-04-01 00:00:00"
-    },
-    "totalRemainingNominal": 16785989,
-    "countFlows": 1672
+    "_id": "seem",
+    "totalRemainingNominal": 2778158
   },
   {
-    "_id": {
-      "quarter": "2024-04-02 00:00:00"
-    },
-    "totalRemainingNominal": 17697288,
-    "countFlows": 1729
+    "_id": "difficult",
+    "totalRemainingNominal": 3053864
   },
   {
-    "_id": {
-      "quarter": "2024-04-03 00:00:00"
-    },
-    "totalRemainingNominal": 15991650,
-    "countFlows": 1565
+    "_id": "example",
+    "totalRemainingNominal": 2992506
   },
   {
-    "_id": {
-      "quarter": "2024-04-04 00:00:00"
-    },
-    "totalRemainingNominal": 16797136,
-    "countFlows": 1624
+    "_id": "analysis",
+    "totalRemainingNominal": 2985172
   },
   {
-    "_id": {
-      "quarter": "2024-04-05 00:00:00"
-    },
-    "totalRemainingNominal": 16147176,
-    "countFlows": 1575
+    "_id": "media",
+    "totalRemainingNominal": 3176788
   },
   {
-    "_id": {
-      "quarter": "2024-04-06 00:00:00"
-    },
-    "totalRemainingNominal": 16529456,
-    "countFlows": 1621
+    "_id": "education",
+    "totalRemainingNominal": 2927400
   },
   {
-    "_id": {
-      "quarter": "2024-04-07 00:00:00"
-    },
-    "totalRemainingNominal": 17611318,
-    "countFlows": 1728
+    "_id": "author",
+    "totalRemainingNominal": 2979564
   },
   {
-    "_id": {
-      "quarter": "2024-04-08 00:00:00"
-    },
-    "totalRemainingNominal": 16602923,
-    "countFlows": 1625
+    "_id": "continue",
+    "totalRemainingNominal": 2708341
   },
   {
-    "_id": {
-      "quarter": "2024-04-09 00:00:00"
-    },
-    "totalRemainingNominal": 17298157,
-    "countFlows": 1682
+    "_id": "case",
+    "totalRemainingNominal": 2807011
   },
   {
-    "_id": {
-      "quarter": "2024-04-10 00:00:00"
-    },
-    "totalRemainingNominal": 17356502,
-    "countFlows": 1686
+    "_id": "draw",
+    "totalRemainingNominal": 2767466
   },
   {
-    "_id": {
-      "quarter": "2024-04-11 00:00:00"
-    },
-    "totalRemainingNominal": 16961318,
-    "countFlows": 1664
+    "_id": "program",
+    "totalRemainingNominal": 3049396
   },
   {
-    "_id": {
-      "quarter": "2024-04-12 00:00:00"
-    },
-    "totalRemainingNominal": 16076285,
-    "countFlows": 1586
+    "_id": "hold",
+    "totalRemainingNominal": 3063509
   },
   {
-    "_id": {
-      "quarter": "2024-04-13 00:00:00"
-    },
-    "totalRemainingNominal": 16392629,
-    "countFlows": 1615
+    "_id": "onto",
+    "totalRemainingNominal": 3115083
   },
   {
-    "_id": {
-      "quarter": "2024-04-14 00:00:00"
-    },
-    "totalRemainingNominal": 16622898,
-    "countFlows": 1647
+    "_id": "across",
+    "totalRemainingNominal": 2933210
   },
   {
-    "_id": {
-      "quarter": "2024-04-15 00:00:00"
-    },
-    "totalRemainingNominal": 16858597,
-    "countFlows": 1645
+    "_id": "up",
+    "totalRemainingNominal": 2919747
   },
   {
-    "_id": {
-      "quarter": "2024-04-16 00:00:00"
-    },
-    "totalRemainingNominal": 16791936,
-    "countFlows": 1666
+    "_id": "among",
+    "totalRemainingNominal": 2716647
   },
   {
-    "_id": {
-      "quarter": "2024-04-17 00:00:00"
-    },
-    "totalRemainingNominal": 16692034,
-    "countFlows": 1629
+    "_id": "nation",
+    "totalRemainingNominal": 3210145
   },
   {
-    "_id": {
-      "quarter": "2024-04-18 00:00:00"
-    },
-    "totalRemainingNominal": 16009977,
-    "countFlows": 1576
+    "_id": "protect",
+    "totalRemainingNominal": 3273830
   },
   {
-    "_id": {
-      "quarter": "2024-04-19 00:00:00"
-    },
-    "totalRemainingNominal": 16759683,
-    "countFlows": 1637
+    "_id": "pick",
+    "totalRemainingNominal": 2802375
   },
   {
-    "_id": {
-      "quarter": "2024-04-20 00:00:00"
-    },
-    "totalRemainingNominal": 16984588,
-    "countFlows": 1666
+    "_id": "skill",
+    "totalRemainingNominal": 3184200
   },
   {
-    "_id": {
-      "quarter": "2024-04-21 00:00:00"
-    },
-    "totalRemainingNominal": 16212483,
-    "countFlows": 1592
+    "_id": "four",
+    "totalRemainingNominal": 3187809
   },
   {
-    "_id": {
-      "quarter": "2024-04-22 00:00:00"
-    },
-    "totalRemainingNominal": 16576698,
-    "countFlows": 1610
+    "_id": "buy",
+    "totalRemainingNominal": 3066531
   },
   {
-    "_id": {
-      "quarter": "2024-04-23 00:00:00"
-    },
-    "totalRemainingNominal": 16735501,
-    "countFlows": 1627
+    "_id": "bank",
+    "totalRemainingNominal": 2948642
   },
   {
-    "_id": {
-      "quarter": "2024-04-24 00:00:00"
-    },
-    "totalRemainingNominal": 16891799,
-    "countFlows": 1675
+    "_id": "live",
+    "totalRemainingNominal": 2863569
   },
   {
-    "_id": {
-      "quarter": "2024-04-25 00:00:00"
-    },
-    "totalRemainingNominal": 17212732,
-    "countFlows": 1671
+    "_id": "region",
+    "totalRemainingNominal": 2696580
   },
   {
-    "_id": {
-      "quarter": "2024-04-26 00:00:00"
-    },
-    "totalRemainingNominal": 16890675,
-    "countFlows": 1646
+    "_id": "admit",
+    "totalRemainingNominal": 3080468
   },
   {
-    "_id": {
-      "quarter": "2024-04-27 00:00:00"
-    },
-    "totalRemainingNominal": 16876107,
-    "countFlows": 1647
+    "_id": "maybe",
+    "totalRemainingNominal": 2724182
   },
   {
-    "_id": {
-      "quarter": "2024-04-28 00:00:00"
-    },
-    "totalRemainingNominal": 17071051,
-    "countFlows": 1686
+    "_id": "organization",
+    "totalRemainingNominal": 3241743
   },
   {
-    "_id": {
-      "quarter": "2024-04-29 00:00:00"
-    },
-    "totalRemainingNominal": 16122608,
-    "countFlows": 1571
+    "_id": "science",
+    "totalRemainingNominal": 2980328
   },
   {
-    "_id": {
-      "quarter": "2024-04-30 00:00:00"
-    },
-    "totalRemainingNominal": 16543295,
-    "countFlows": 1646
+    "_id": "put",
+    "totalRemainingNominal": 3067716
   },
   {
-    "_id": {
-      "quarter": "2024-05-01 00:00:00"
-    },
-    "totalRemainingNominal": 16296705,
-    "countFlows": 1597
+    "_id": "include",
+    "totalRemainingNominal": 3333650
   },
   {
-    "_id": {
-      "quarter": "2024-05-02 00:00:00"
-    },
-    "totalRemainingNominal": 17159460,
-    "countFlows": 1675
+    "_id": "statement",
+    "totalRemainingNominal": 2840489
   },
   {
-    "_id": {
-      "quarter": "2024-05-03 00:00:00"
-    },
-    "totalRemainingNominal": 17355642,
-    "countFlows": 1691
+    "_id": "capital",
+    "totalRemainingNominal": 3563942
   },
   {
-    "_id": {
-      "quarter": "2024-05-04 00:00:00"
-    },
-    "totalRemainingNominal": 17073106,
-    "countFlows": 1692
+    "_id": "away",
+    "totalRemainingNominal": 2574395
   },
   {
-    "_id": {
-      "quarter": "2024-05-05 00:00:00"
-    },
-    "totalRemainingNominal": 16973321,
-    "countFlows": 1651
+    "_id": "wish",
+    "totalRemainingNominal": 2896550
   },
   {
-    "_id": {
-      "quarter": "2024-05-06 00:00:00"
-    },
-    "totalRemainingNominal": 16714779,
-    "countFlows": 1626
+    "_id": "huge",
+    "totalRemainingNominal": 3046240
   },
   {
-    "_id": {
-      "quarter": "2024-05-07 00:00:00"
-    },
-    "totalRemainingNominal": 16310605,
-    "countFlows": 1585
+    "_id": "ball",
+    "totalRemainingNominal": 3034545
   },
   {
-    "_id": {
-      "quarter": "2024-05-08 00:00:00"
-    },
-    "totalRemainingNominal": 16950959,
-    "countFlows": 1651
+    "_id": "heavy",
+    "totalRemainingNominal": 2939995
   },
   {
-    "_id": {
-      "quarter": "2024-05-09 00:00:00"
-    },
-    "totalRemainingNominal": 17321940,
-    "countFlows": 1687
+    "_id": "story",
+    "totalRemainingNominal": 3008620
   },
   {
-    "_id": {
-      "quarter": "2024-05-10 00:00:00"
-    },
-    "totalRemainingNominal": 17693639,
-    "countFlows": 1737
+    "_id": "relate",
+    "totalRemainingNominal": 2846892
   },
   {
-    "_id": {
-      "quarter": "2024-05-11 00:00:00"
-    },
-    "totalRemainingNominal": 16295962,
-    "countFlows": 1598
+    "_id": "through",
+    "totalRemainingNominal": 3103637
   },
   {
-    "_id": {
-      "quarter": "2024-05-12 00:00:00"
-    },
-    "totalRemainingNominal": 21055868,
-    "countFlows": 1936
+    "_id": "cover",
+    "totalRemainingNominal": 2910719
   },
   {
-    "_id": {
-      "quarter": "2024-05-13 00:00:00"
-    },
-    "totalRemainingNominal": 24224269,
-    "countFlows": 2095
+    "_id": "decade",
+    "totalRemainingNominal": 2762872
   },
   {
-    "_id": {
-      "quarter": "2024-05-14 00:00:00"
-    },
-    "totalRemainingNominal": 24928710,
-    "countFlows": 2170
+    "_id": "executive",
+    "totalRemainingNominal": 3049534
   },
   {
-    "_id": {
-      "quarter": "2024-05-15 00:00:00"
-    },
-    "totalRemainingNominal": 25402115,
-    "countFlows": 2211
+    "_id": "five",
+    "totalRemainingNominal": 3206120
   },
   {
-    "_id": {
-      "quarter": "2024-05-16 00:00:00"
-    },
-    "totalRemainingNominal": 25514838,
-    "countFlows": 2209
+    "_id": "newspaper",
+    "totalRemainingNominal": 2811201
   },
   {
-    "_id": {
-      "quarter": "2024-05-17 00:00:00"
-    },
-    "totalRemainingNominal": 25148966,
-    "countFlows": 2177
+    "_id": "member",
+    "totalRemainingNominal": 3118136
   },
   {
-    "_id": {
-      "quarter": "2024-05-18 00:00:00"
-    },
-    "totalRemainingNominal": 25471267,
-    "countFlows": 2230
+    "_id": "three",
+    "totalRemainingNominal": 2947580
   },
   {
-    "_id": {
-      "quarter": "2024-05-19 00:00:00"
-    },
-    "totalRemainingNominal": 25150321,
-    "countFlows": 2223
+    "_id": "production",
+    "totalRemainingNominal": 2683422
   },
   {
-    "_id": {
-      "quarter": "2024-05-20 00:00:00"
-    },
-    "totalRemainingNominal": 25525948,
-    "countFlows": 2218
+    "_id": "everyone",
+    "totalRemainingNominal": 2813430
   },
   {
-    "_id": {
-      "quarter": "2024-05-21 00:00:00"
-    },
-    "totalRemainingNominal": 25252819,
-    "countFlows": 2215
+    "_id": "usually",
+    "totalRemainingNominal": 2885398
   },
   {
-    "_id": {
-      "quarter": "2024-05-22 00:00:00"
-    },
-    "totalRemainingNominal": 25392309,
-    "countFlows": 2213
+    "_id": "nature",
+    "totalRemainingNominal": 2800819
   },
   {
-    "_id": {
-      "quarter": "2024-05-23 00:00:00"
-    },
-    "totalRemainingNominal": 24709634,
-    "countFlows": 2148
+    "_id": "enter",
+    "totalRemainingNominal": 2758752
   },
   {
-    "_id": {
-      "quarter": "2024-05-24 00:00:00"
-    },
-    "totalRemainingNominal": 25639241,
-    "countFlows": 2234
+    "_id": "front",
+    "totalRemainingNominal": 3150853
   },
   {
-    "_id": {
-      "quarter": "2024-05-25 00:00:00"
-    },
-    "totalRemainingNominal": 25094242,
-    "countFlows": 2192
+    "_id": "back",
+    "totalRemainingNominal": 2952229
   },
   {
-    "_id": {
-      "quarter": "2024-05-26 00:00:00"
-    },
-    "totalRemainingNominal": 25091872,
-    "countFlows": 2159
+    "_id": "long",
+    "totalRemainingNominal": 2765967
   },
   {
-    "_id": {
-      "quarter": "2024-05-27 00:00:00"
-    },
-    "totalRemainingNominal": 25143776,
-    "countFlows": 2203
+    "_id": "create",
+    "totalRemainingNominal": 2976000
   },
   {
-    "_id": {
-      "quarter": "2024-05-28 00:00:00"
-    },
-    "totalRemainingNominal": 24797030,
-    "countFlows": 2163
+    "_id": "reason",
+    "totalRemainingNominal": 2960158
   },
   {
-    "_id": {
-      "quarter": "2024-05-29 00:00:00"
-    },
-    "totalRemainingNominal": 25426578,
-    "countFlows": 2236
+    "_id": "generation",
+    "totalRemainingNominal": 2834463
   },
   {
-    "_id": {
-      "quarter": "2024-05-30 00:00:00"
-    },
-    "totalRemainingNominal": 25762637,
-    "countFlows": 2221
+    "_id": "present",
+    "totalRemainingNominal": 3182916
   },
   {
-    "_id": {
-      "quarter": "2024-05-31 00:00:00"
-    },
-    "totalRemainingNominal": 25021208,
-    "countFlows": 2199
+    "_id": "which",
+    "totalRemainingNominal": 2936752
   },
   {
-    "_id": {
-      "quarter": "2024-06-01 00:00:00"
-    },
-    "totalRemainingNominal": 25041310,
-    "countFlows": 2180
+    "_id": "occur",
+    "totalRemainingNominal": 2676758
   },
   {
-    "_id": {
-      "quarter": "2024-06-02 00:00:00"
-    },
-    "totalRemainingNominal": 25007838,
-    "countFlows": 2185
+    "_id": "security",
+    "totalRemainingNominal": 3123637
   },
   {
-    "_id": {
-      "quarter": "2024-06-03 00:00:00"
-    },
-    "totalRemainingNominal": 25034778,
-    "countFlows": 2134
+    "_id": "site",
+    "totalRemainingNominal": 2953725
   },
   {
-    "_id": {
-      "quarter": "2024-06-04 00:00:00"
-    },
-    "totalRemainingNominal": 24806981,
-    "countFlows": 2180
+    "_id": "avoid",
+    "totalRemainingNominal": 3235501
   },
   {
-    "_id": {
-      "quarter": "2024-06-05 00:00:00"
-    },
-    "totalRemainingNominal": 25511628,
-    "countFlows": 2193
+    "_id": "force",
+    "totalRemainingNominal": 3190951
   },
   {
-    "_id": {
-      "quarter": "2024-06-06 00:00:00"
-    },
-    "totalRemainingNominal": 25962896,
-    "countFlows": 2260
+    "_id": "remain",
+    "totalRemainingNominal": 2994134
   },
   {
-    "_id": {
-      "quarter": "2024-06-07 00:00:00"
-    },
-    "totalRemainingNominal": 25700551,
-    "countFlows": 2218
+    "_id": "everything",
+    "totalRemainingNominal": 3247472
   },
   {
-    "_id": {
-      "quarter": "2024-06-08 00:00:00"
-    },
-    "totalRemainingNominal": 23524506,
-    "countFlows": 2089
+    "_id": "free",
+    "totalRemainingNominal": 2933306
   },
   {
-    "_id": {
-      "quarter": "2024-06-09 00:00:00"
-    },
-    "totalRemainingNominal": 25803498,
-    "countFlows": 2245
+    "_id": "attorney",
+    "totalRemainingNominal": 3034192
   },
   {
-    "_id": {
-      "quarter": "2024-06-10 00:00:00"
-    },
-    "totalRemainingNominal": 25177077,
-    "countFlows": 2198
+    "_id": "model",
+    "totalRemainingNominal": 3132801
   },
   {
-    "_id": {
-      "quarter": "2024-06-11 00:00:00"
-    },
-    "totalRemainingNominal": 24709659,
-    "countFlows": 2174
+    "_id": "image",
+    "totalRemainingNominal": 3116893
   },
   {
-    "_id": {
-      "quarter": "2024-06-12 00:00:00"
-    },
-    "totalRemainingNominal": 24175506,
-    "countFlows": 2106
+    "_id": "wait",
+    "totalRemainingNominal": 3237589
   },
   {
-    "_id": {
-      "quarter": "2024-06-13 00:00:00"
-    },
-    "totalRemainingNominal": 23706194,
-    "countFlows": 2084
+    "_id": "his",
+    "totalRemainingNominal": 2765501
   },
   {
-    "_id": {
-      "quarter": "2024-06-14 00:00:00"
-    },
-    "totalRemainingNominal": 25097996,
-    "countFlows": 2177
+    "_id": "garden",
+    "totalRemainingNominal": 3179974
   },
   {
-    "_id": {
-      "quarter": "2024-06-15 00:00:00"
-    },
-    "totalRemainingNominal": 25283847,
-    "countFlows": 2220
+    "_id": "nice",
+    "totalRemainingNominal": 2902932
   },
   {
-    "_id": {
-      "quarter": "2024-06-16 00:00:00"
-    },
-    "totalRemainingNominal": 25323976,
-    "countFlows": 2200
+    "_id": "arrive",
+    "totalRemainingNominal": 2842383
   },
   {
-    "_id": {
-      "quarter": "2024-06-17 00:00:00"
-    },
-    "totalRemainingNominal": 25846843,
-    "countFlows": 2241
+    "_id": "low",
+    "totalRemainingNominal": 2936963
   },
   {
-    "_id": {
-      "quarter": "2024-06-18 00:00:00"
-    },
-    "totalRemainingNominal": 24627768,
-    "countFlows": 2158
+    "_id": "figure",
+    "totalRemainingNominal": 2633218
   },
   {
-    "_id": {
-      "quarter": "2024-06-19 00:00:00"
-    },
-    "totalRemainingNominal": 24331891,
-    "countFlows": 2112
+    "_id": "over",
+    "totalRemainingNominal": 3011093
   },
   {
-    "_id": {
-      "quarter": "2024-06-20 00:00:00"
-    },
-    "totalRemainingNominal": 25926629,
-    "countFlows": 2227
+    "_id": "before",
+    "totalRemainingNominal": 3378997
   },
   {
-    "_id": {
-      "quarter": "2024-06-21 00:00:00"
-    },
-    "totalRemainingNominal": 25043792,
-    "countFlows": 2201
+    "_id": "partner",
+    "totalRemainingNominal": 3109036
   },
   {
-    "_id": {
-      "quarter": "2024-06-22 00:00:00"
-    },
-    "totalRemainingNominal": 24317647,
-    "countFlows": 2139
+    "_id": "truth",
+    "totalRemainingNominal": 2744701
   },
   {
-    "_id": {
-      "quarter": "2024-06-23 00:00:00"
-    },
-    "totalRemainingNominal": 25995258,
-    "countFlows": 2263
+    "_id": "watch",
+    "totalRemainingNominal": 2986225
   },
   {
-    "_id": {
-      "quarter": "2024-06-24 00:00:00"
-    },
-    "totalRemainingNominal": 26125758,
-    "countFlows": 2238
+    "_id": "her",
+    "totalRemainingNominal": 3116473
   },
   {
-    "_id": {
-      "quarter": "2024-06-25 00:00:00"
-    },
-    "totalRemainingNominal": 24908804,
-    "countFlows": 2158
+    "_id": "age",
+    "totalRemainingNominal": 3409389
   },
   {
-    "_id": {
-      "quarter": "2024-06-26 00:00:00"
-    },
-    "totalRemainingNominal": 24899899,
-    "countFlows": 2174
+    "_id": "score",
+    "totalRemainingNominal": 2616175
   },
   {
-    "_id": {
-      "quarter": "2024-06-27 00:00:00"
-    },
-    "totalRemainingNominal": 25426697,
-    "countFlows": 2212
+    "_id": "set",
+    "totalRemainingNominal": 3003482
   },
   {
-    "_id": {
-      "quarter": "2024-06-28 00:00:00"
-    },
-    "totalRemainingNominal": 25503094,
-    "countFlows": 2260
+    "_id": "black",
+    "totalRemainingNominal": 2608753
   },
   {
-    "_id": {
-      "quarter": "2024-06-29 00:00:00"
-    },
-    "totalRemainingNominal": 25237243,
-    "countFlows": 2179
+    "_id": "drive",
+    "totalRemainingNominal": 3081352
   },
   {
-    "_id": {
-      "quarter": "2024-06-30 00:00:00"
-    },
-    "totalRemainingNominal": 25608067,
-    "countFlows": 2209
+    "_id": "into",
+    "totalRemainingNominal": 3180393
   },
   {
-    "_id": {
-      "quarter": "2024-07-01 00:00:00"
-    },
-    "totalRemainingNominal": 25633153,
-    "countFlows": 2222
+    "_id": "travel",
+    "totalRemainingNominal": 3151384
   },
   {
-    "_id": {
-      "quarter": "2024-07-02 00:00:00"
-    },
-    "totalRemainingNominal": 25870399,
-    "countFlows": 2239
+    "_id": "believe",
+    "totalRemainingNominal": 3051733
   },
   {
-    "_id": {
-      "quarter": "2024-07-03 00:00:00"
-    },
-    "totalRemainingNominal": 22348852,
-    "countFlows": 1861
+    "_id": "laugh",
+    "totalRemainingNominal": 2990138
   },
   {
-    "_id": {
-      "quarter": "2024-07-04 00:00:00"
-    },
-    "totalRemainingNominal": 20744129,
-    "countFlows": 1616
+    "_id": "or",
+    "totalRemainingNominal": 2918008
   },
   {
-    "_id": {
-      "quarter": "2024-07-05 00:00:00"
-    },
-    "totalRemainingNominal": 20923930,
-    "countFlows": 1645
+    "_id": "tonight",
+    "totalRemainingNominal": 2386870
   },
   {
-    "_id": {
-      "quarter": "2024-07-06 00:00:00"
-    },
-    "totalRemainingNominal": 21416613,
-    "countFlows": 1697
+    "_id": "material",
+    "totalRemainingNominal": 3396645
   },
   {
-    "_id": {
-      "quarter": "2024-07-07 00:00:00"
-    },
-    "totalRemainingNominal": 20807095,
-    "countFlows": 1635
+    "_id": "prevent",
+    "totalRemainingNominal": 3309869
   },
   {
-    "_id": {
-      "quarter": "2024-07-08 00:00:00"
-    },
-    "totalRemainingNominal": 21660485,
-    "countFlows": 1694
+    "_id": "son",
+    "totalRemainingNominal": 3219184
   },
   {
-    "_id": {
-      "quarter": "2024-07-09 00:00:00"
-    },
-    "totalRemainingNominal": 20644357,
-    "countFlows": 1622
+    "_id": "consumer",
+    "totalRemainingNominal": 2668718
   },
   {
-    "_id": {
-      "quarter": "2024-07-10 00:00:00"
-    },
-    "totalRemainingNominal": 21455059,
-    "countFlows": 1676
+    "_id": "might",
+    "totalRemainingNominal": 2786670
   },
   {
-    "_id": {
-      "quarter": "2024-07-11 00:00:00"
-    },
-    "totalRemainingNominal": 20127799,
-    "countFlows": 1574
+    "_id": "exist",
+    "totalRemainingNominal": 3105762
   },
   {
-    "_id": {
-      "quarter": "2024-07-12 00:00:00"
-    },
-    "totalRemainingNominal": 20849348,
-    "countFlows": 1617
+    "_id": "ever",
+    "totalRemainingNominal": 2974170
   },
   {
-    "_id": {
-      "quarter": "2024-07-13 00:00:00"
-    },
-    "totalRemainingNominal": 21042762,
-    "countFlows": 1674
+    "_id": "leg",
+    "totalRemainingNominal": 2906317
   },
   {
-    "_id": {
-      "quarter": "2024-07-14 00:00:00"
-    },
-    "totalRemainingNominal": 21258423,
-    "countFlows": 1702
+    "_id": "during",
+    "totalRemainingNominal": 3012934
   },
   {
-    "_id": {
-      "quarter": "2024-07-15 00:00:00"
-    },
-    "totalRemainingNominal": 21271068,
-    "countFlows": 1665
+    "_id": "seek",
+    "totalRemainingNominal": 2954669
   },
   {
-    "_id": {
-      "quarter": "2024-07-16 00:00:00"
-    },
-    "totalRemainingNominal": 20432430,
-    "countFlows": 1612
+    "_id": "rate",
+    "totalRemainingNominal": 2521043
   },
   {
-    "_id": {
-      "quarter": "2024-07-17 00:00:00"
-    },
-    "totalRemainingNominal": 20805869,
-    "countFlows": 1619
+    "_id": "then",
+    "totalRemainingNominal": 3080507
   },
   {
-    "_id": {
-      "quarter": "2024-07-18 00:00:00"
-    },
-    "totalRemainingNominal": 20974358,
-    "countFlows": 1629
+    "_id": "grow",
+    "totalRemainingNominal": 2909387
   },
   {
-    "_id": {
-      "quarter": "2024-07-19 00:00:00"
-    },
-    "totalRemainingNominal": 20232097,
-    "countFlows": 1598
+    "_id": "economic",
+    "totalRemainingNominal": 2792360
   },
   {
-    "_id": {
-      "quarter": "2024-07-20 00:00:00"
-    },
-    "totalRemainingNominal": 21490548,
-    "countFlows": 1687
+    "_id": "out",
+    "totalRemainingNominal": 2996714
   },
   {
-    "_id": {
-      "quarter": "2024-07-21 00:00:00"
-    },
-    "totalRemainingNominal": 21087346,
-    "countFlows": 1640
+    "_id": "own",
+    "totalRemainingNominal": 2919753
   },
   {
-    "_id": {
-      "quarter": "2024-07-22 00:00:00"
-    },
-    "totalRemainingNominal": 20986383,
-    "countFlows": 1649
+    "_id": "less",
+    "totalRemainingNominal": 3348431
   },
   {
-    "_id": {
-      "quarter": "2024-07-23 00:00:00"
-    },
-    "totalRemainingNominal": 21809370,
-    "countFlows": 1686
+    "_id": "current",
+    "totalRemainingNominal": 3067433
   },
   {
-    "_id": {
-      "quarter": "2024-07-24 00:00:00"
-    },
-    "totalRemainingNominal": 21908781,
-    "countFlows": 1720
+    "_id": "history",
+    "totalRemainingNominal": 2997750
   },
   {
-    "_id": {
-      "quarter": "2024-07-25 00:00:00"
-    },
-    "totalRemainingNominal": 20697582,
-    "countFlows": 1626
+    "_id": "rock",
+    "totalRemainingNominal": 2669707
   },
   {
-    "_id": {
-      "quarter": "2024-07-26 00:00:00"
-    },
-    "totalRemainingNominal": 19750378,
-    "countFlows": 1563
+    "_id": "including",
+    "totalRemainingNominal": 2854714
   },
   {
-    "_id": {
-      "quarter": "2024-07-27 00:00:00"
-    },
-    "totalRemainingNominal": 20522519,
-    "countFlows": 1627
+    "_id": "window",
+    "totalRemainingNominal": 2920297
   },
   {
-    "_id": {
-      "quarter": "2024-07-28 00:00:00"
-    },
-    "totalRemainingNominal": 21173256,
-    "countFlows": 1662
+    "_id": "assume",
+    "totalRemainingNominal": 2921742
   },
   {
-    "_id": {
-      "quarter": "2024-07-29 00:00:00"
-    },
-    "totalRemainingNominal": 20678841,
-    "countFlows": 1643
+    "_id": "method",
+    "totalRemainingNominal": 2980662
   },
   {
-    "_id": {
-      "quarter": "2024-07-30 00:00:00"
-    },
-    "totalRemainingNominal": 21191260,
-    "countFlows": 1653
+    "_id": "send",
+    "totalRemainingNominal": 3103053
   },
   {
-    "_id": {
-      "quarter": "2024-07-31 00:00:00"
-    },
-    "totalRemainingNominal": 20303298,
-    "countFlows": 1600
+    "_id": "look",
+    "totalRemainingNominal": 3065097
   },
   {
-    "_id": {
-      "quarter": "2024-08-01 00:00:00"
-    },
-    "totalRemainingNominal": 20890154,
-    "countFlows": 1625
+    "_id": "likely",
+    "totalRemainingNominal": 3192036
   },
   {
-    "_id": {
-      "quarter": "2024-08-02 00:00:00"
-    },
-    "totalRemainingNominal": 21231758,
-    "countFlows": 1658
+    "_id": "strong",
+    "totalRemainingNominal": 3003442
   },
   {
-    "_id": {
-      "quarter": "2024-08-03 00:00:00"
-    },
-    "totalRemainingNominal": 19883324,
-    "countFlows": 1569
+    "_id": "development",
+    "totalRemainingNominal": 2710562
   },
   {
-    "_id": {
-      "quarter": "2024-08-04 00:00:00"
-    },
-    "totalRemainingNominal": 20903189,
-    "countFlows": 1627
+    "_id": "standard",
+    "totalRemainingNominal": 3043822
   },
   {
-    "_id": {
-      "quarter": "2024-08-05 00:00:00"
-    },
-    "totalRemainingNominal": 20926804,
-    "countFlows": 1627
+    "_id": "kid",
+    "totalRemainingNominal": 2940731
   },
   {
-    "_id": {
-      "quarter": "2024-08-06 00:00:00"
-    },
-    "totalRemainingNominal": 21294009,
-    "countFlows": 1677
+    "_id": "home",
+    "totalRemainingNominal": 2659542
   },
   {
-    "_id": {
-      "quarter": "2024-08-07 00:00:00"
-    },
-    "totalRemainingNominal": 21138350,
-    "countFlows": 1659
+    "_id": "space",
+    "totalRemainingNominal": 2529863
   },
   {
-    "_id": {
-      "quarter": "2024-08-08 00:00:00"
-    },
-    "totalRemainingNominal": 21472485,
-    "countFlows": 1681
+    "_id": "also",
+    "totalRemainingNominal": 3262535
   },
   {
-    "_id": {
-      "quarter": "2024-08-09 00:00:00"
-    },
-    "totalRemainingNominal": 20584482,
-    "countFlows": 1601
+    "_id": "hour",
+    "totalRemainingNominal": 3050995
   },
   {
-    "_id": {
-      "quarter": "2024-08-10 00:00:00"
-    },
-    "totalRemainingNominal": 20964135,
-    "countFlows": 1672
+    "_id": "throughout",
+    "totalRemainingNominal": 2678994
   },
   {
-    "_id": {
-      "quarter": "2024-08-11 00:00:00"
-    },
-    "totalRemainingNominal": 21244298,
-    "countFlows": 1635
+    "_id": "relationship",
+    "totalRemainingNominal": 3095302
   },
   {
-    "_id": {
-      "quarter": "2024-08-12 00:00:00"
-    },
-    "totalRemainingNominal": 20675191,
-    "countFlows": 1636
+    "_id": "plant",
+    "totalRemainingNominal": 2778711
   },
   {
-    "_id": {
-      "quarter": "2024-08-13 00:00:00"
-    },
-    "totalRemainingNominal": 20323580,
-    "countFlows": 1604
+    "_id": "star",
+    "totalRemainingNominal": 3217221
   },
   {
-    "_id": {
-      "quarter": "2024-08-14 00:00:00"
-    },
-    "totalRemainingNominal": 20694515,
-    "countFlows": 1610
+    "_id": "sort",
+    "totalRemainingNominal": 3216338
   },
   {
-    "_id": {
-      "quarter": "2024-08-15 00:00:00"
-    },
-    "totalRemainingNominal": 21328423,
-    "countFlows": 1669
+    "_id": "no",
+    "totalRemainingNominal": 3292771
   },
   {
-    "_id": {
-      "quarter": "2024-08-16 00:00:00"
-    },
-    "totalRemainingNominal": 21680693,
-    "countFlows": 1714
+    "_id": "citizen",
+    "totalRemainingNominal": 3255251
   },
   {
-    "_id": {
-      "quarter": "2024-08-17 00:00:00"
-    },
-    "totalRemainingNominal": 21454501,
-    "countFlows": 1674
+    "_id": "answer",
+    "totalRemainingNominal": 3270659
   },
   {
-    "_id": {
-      "quarter": "2024-08-18 00:00:00"
-    },
-    "totalRemainingNominal": 21125765,
-    "countFlows": 1660
+    "_id": "detail",
+    "totalRemainingNominal": 2983844
   },
   {
-    "_id": {
-      "quarter": "2024-08-19 00:00:00"
-    },
-    "totalRemainingNominal": 20078604,
-    "countFlows": 1552
+    "_id": "type",
+    "totalRemainingNominal": 3135912
   },
   {
-    "_id": {
-      "quarter": "2024-08-20 00:00:00"
-    },
-    "totalRemainingNominal": 21692622,
-    "countFlows": 1684
+    "_id": "church",
+    "totalRemainingNominal": 2761478
   },
   {
-    "_id": {
-      "quarter": "2024-08-21 00:00:00"
-    },
-    "totalRemainingNominal": 21424890,
-    "countFlows": 1670
+    "_id": "dog",
+    "totalRemainingNominal": 2918512
   },
   {
-    "_id": {
-      "quarter": "2024-08-22 00:00:00"
-    },
-    "totalRemainingNominal": 21546542,
-    "countFlows": 1675
+    "_id": "run",
+    "totalRemainingNominal": 2949128
   },
   {
-    "_id": {
-      "quarter": "2024-08-23 00:00:00"
-    },
-    "totalRemainingNominal": 21494749,
-    "countFlows": 1698
+    "_id": "this",
+    "totalRemainingNominal": 2943411
   },
   {
-    "_id": {
-      "quarter": "2024-08-24 00:00:00"
-    },
-    "totalRemainingNominal": 25363057,
-    "countFlows": 1881
+    "_id": "the",
+    "totalRemainingNominal": 3079794
   },
   {
-    "_id": {
-      "quarter": "2024-08-25 00:00:00"
-    },
-    "totalRemainingNominal": 29897780,
-    "countFlows": 2135
+    "_id": "lot",
+    "totalRemainingNominal": 2863798
   },
   {
-    "_id": {
-      "quarter": "2024-08-26 00:00:00"
-    },
-    "totalRemainingNominal": 30019019,
-    "countFlows": 2139
+    "_id": "popular",
+    "totalRemainingNominal": 3039764
   },
   {
-    "_id": {
-      "quarter": "2024-08-27 00:00:00"
-    },
-    "totalRemainingNominal": 31492914,
-    "countFlows": 2243
+    "_id": "lawyer",
+    "totalRemainingNominal": 2896486
   },
   {
-    "_id": {
-      "quarter": "2024-08-28 00:00:00"
-    },
-    "totalRemainingNominal": 30621326,
-    "countFlows": 2172
+    "_id": "join",
+    "totalRemainingNominal": 2825731
   },
   {
-    "_id": {
-      "quarter": "2024-08-29 00:00:00"
-    },
-    "totalRemainingNominal": 30839225,
-    "countFlows": 2198
+    "_id": "election",
+    "totalRemainingNominal": 2825135
   },
   {
-    "_id": {
-      "quarter": "2024-08-30 00:00:00"
-    },
-    "totalRemainingNominal": 30584261,
-    "countFlows": 2180
+    "_id": "important",
+    "totalRemainingNominal": 3049631
   },
   {
-    "_id": {
-      "quarter": "2024-08-31 00:00:00"
-    },
-    "totalRemainingNominal": 31081611,
-    "countFlows": 2233
+    "_id": "expect",
+    "totalRemainingNominal": 3046844
   },
   {
-    "_id": {
-      "quarter": "2024-09-01 00:00:00"
-    },
-    "totalRemainingNominal": 31386736,
-    "countFlows": 2240
+    "_id": "effect",
+    "totalRemainingNominal": 2773626
   },
   {
-    "_id": {
-      "quarter": "2024-09-02 00:00:00"
-    },
-    "totalRemainingNominal": 31018905,
-    "countFlows": 2210
+    "_id": "kind",
+    "totalRemainingNominal": 2828031
   },
   {
-    "_id": {
-      "quarter": "2024-09-03 00:00:00"
-    },
-    "totalRemainingNominal": 30819911,
-    "countFlows": 2212
+    "_id": "much",
+    "totalRemainingNominal": 3168820
   },
   {
-    "_id": {
-      "quarter": "2024-09-04 00:00:00"
-    },
-    "totalRemainingNominal": 30204345,
-    "countFlows": 2157
+    "_id": "peace",
+    "totalRemainingNominal": 3209714
   },
   {
-    "_id": {
-      "quarter": "2024-09-05 00:00:00"
-    },
-    "totalRemainingNominal": 31080037,
-    "countFlows": 2213
+    "_id": "thank",
+    "totalRemainingNominal": 2795176
   },
   {
-    "_id": {
-      "quarter": "2024-09-06 00:00:00"
-    },
-    "totalRemainingNominal": 30798412,
-    "countFlows": 2200
+    "_id": "few",
+    "totalRemainingNominal": 2929091
   },
   {
-    "_id": {
-      "quarter": "2024-09-07 00:00:00"
-    },
-    "totalRemainingNominal": 31148209,
-    "countFlows": 2194
+    "_id": "class",
+    "totalRemainingNominal": 2999508
   },
   {
-    "_id": {
-      "quarter": "2024-09-08 00:00:00"
-    },
-    "totalRemainingNominal": 30927457,
-    "countFlows": 2203
+    "_id": "successful",
+    "totalRemainingNominal": 2849571
   },
   {
-    "_id": {
-      "quarter": "2024-09-09 00:00:00"
-    },
-    "totalRemainingNominal": 30255166,
-    "countFlows": 2169
+    "_id": "change",
+    "totalRemainingNominal": 2965447
   },
   {
-    "_id": {
-      "quarter": "2024-09-10 00:00:00"
-    },
-    "totalRemainingNominal": 30946717,
-    "countFlows": 2216
+    "_id": "clearly",
+    "totalRemainingNominal": 2795260
   },
   {
-    "_id": {
-      "quarter": "2024-09-11 00:00:00"
-    },
-    "totalRemainingNominal": 31622561,
-    "countFlows": 2235
+    "_id": "gun",
+    "totalRemainingNominal": 2965242
   },
   {
-    "_id": {
-      "quarter": "2024-09-12 00:00:00"
-    },
-    "totalRemainingNominal": 30800150,
-    "countFlows": 2214
+    "_id": "training",
+    "totalRemainingNominal": 3139859
   },
   {
-    "_id": {
-      "quarter": "2024-09-13 00:00:00"
-    },
-    "totalRemainingNominal": 30018532,
-    "countFlows": 2142
+    "_id": "country",
+    "totalRemainingNominal": 2623899
   },
   {
-    "_id": {
-      "quarter": "2024-09-14 00:00:00"
-    },
-    "totalRemainingNominal": 30383488,
-    "countFlows": 2186
+    "_id": "on",
+    "totalRemainingNominal": 2837357
   },
   {
-    "_id": {
-      "quarter": "2024-09-15 00:00:00"
-    },
-    "totalRemainingNominal": 30721927,
-    "countFlows": 2156
+    "_id": "not",
+    "totalRemainingNominal": 3230804
   },
   {
-    "_id": {
-      "quarter": "2024-09-16 00:00:00"
-    },
-    "totalRemainingNominal": 30372344,
-    "countFlows": 2172
+    "_id": "religious",
+    "totalRemainingNominal": 3045087
   },
   {
-    "_id": {
-      "quarter": "2024-09-17 00:00:00"
-    },
-    "totalRemainingNominal": 31193755,
-    "countFlows": 2184
+    "_id": "strategy",
+    "totalRemainingNominal": 3122182
   },
   {
-    "_id": {
-      "quarter": "2024-09-18 00:00:00"
-    },
-    "totalRemainingNominal": 31315806,
-    "countFlows": 2234
+    "_id": "exactly",
+    "totalRemainingNominal": 2810995
   },
   {
-    "_id": {
-      "quarter": "2024-09-19 00:00:00"
-    },
-    "totalRemainingNominal": 31714252,
-    "countFlows": 2240
+    "_id": "third",
+    "totalRemainingNominal": 3096665
   },
   {
-    "_id": {
-      "quarter": "2024-09-20 00:00:00"
-    },
-    "totalRemainingNominal": 29117249,
-    "countFlows": 2103
+    "_id": "politics",
+    "totalRemainingNominal": 2777010
   },
   {
-    "_id": {
-      "quarter": "2024-09-21 00:00:00"
-    },
-    "totalRemainingNominal": 30933577,
-    "countFlows": 2207
+    "_id": "take",
+    "totalRemainingNominal": 3053884
   },
   {
-    "_id": {
-      "quarter": "2024-09-22 00:00:00"
-    },
-    "totalRemainingNominal": 31176868,
-    "countFlows": 2235
+    "_id": "expert",
+    "totalRemainingNominal": 2982906
   },
   {
-    "_id": {
-      "quarter": "2024-09-23 00:00:00"
-    },
-    "totalRemainingNominal": 29695757,
-    "countFlows": 2132
+    "_id": "treat",
+    "totalRemainingNominal": 2931118
   },
   {
-    "_id": {
-      "quarter": "2024-09-24 00:00:00"
-    },
-    "totalRemainingNominal": 30072562,
-    "countFlows": 2132
+    "_id": "red",
+    "totalRemainingNominal": 3068318
   },
   {
-    "_id": {
-      "quarter": "2024-09-25 00:00:00"
-    },
-    "totalRemainingNominal": 29508871,
-    "countFlows": 2121
+    "_id": "purpose",
+    "totalRemainingNominal": 2867443
   },
   {
-    "_id": {
-      "quarter": "2024-09-26 00:00:00"
-    },
-    "totalRemainingNominal": 29499212,
-    "countFlows": 2099
+    "_id": "report",
+    "totalRemainingNominal": 2936355
   },
   {
-    "_id": {
-      "quarter": "2024-09-27 00:00:00"
-    },
-    "totalRemainingNominal": 31232618,
-    "countFlows": 2234
+    "_id": "yes",
+    "totalRemainingNominal": 3007909
   },
   {
-    "_id": {
-      "quarter": "2024-09-28 00:00:00"
-    },
-    "totalRemainingNominal": 30838730,
-    "countFlows": 2205
+    "_id": "director",
+    "totalRemainingNominal": 3407030
   },
   {
-    "_id": {
-      "quarter": "2024-09-29 00:00:00"
-    },
-    "totalRemainingNominal": 32104520,
-    "countFlows": 2276
+    "_id": "street",
+    "totalRemainingNominal": 3117155
   },
   {
-    "_id": {
-      "quarter": "2024-09-30 00:00:00"
-    },
-    "totalRemainingNominal": 29807652,
-    "countFlows": 2142
+    "_id": "quite",
+    "totalRemainingNominal": 2865026
   },
   {
-    "_id": {
-      "quarter": "2024-10-01 00:00:00"
-    },
-    "totalRemainingNominal": 30169956,
-    "countFlows": 2155
+    "_id": "fire",
+    "totalRemainingNominal": 2995321
   },
   {
-    "_id": {
-      "quarter": "2024-10-02 00:00:00"
-    },
-    "totalRemainingNominal": 31344619,
-    "countFlows": 2196
+    "_id": "idea",
+    "totalRemainingNominal": 3448529
   },
   {
-    "_id": {
-      "quarter": "2024-10-03 00:00:00"
-    },
-    "totalRemainingNominal": 30628913,
-    "countFlows": 2211
+    "_id": "road",
+    "totalRemainingNominal": 3074788
   },
   {
-    "_id": {
-      "quarter": "2024-10-04 00:00:00"
-    },
-    "totalRemainingNominal": 29352367,
-    "countFlows": 2114
+    "_id": "want",
+    "totalRemainingNominal": 2894872
   },
   {
-    "_id": {
-      "quarter": "2024-10-05 00:00:00"
-    },
-    "totalRemainingNominal": 31378834,
-    "countFlows": 2246
+    "_id": "series",
+    "totalRemainingNominal": 3217631
   },
   {
-    "_id": {
-      "quarter": "2024-10-06 00:00:00"
-    },
-    "totalRemainingNominal": 31085759,
-    "countFlows": 2192
+    "_id": "arm",
+    "totalRemainingNominal": 2889801
   },
   {
-    "_id": {
-      "quarter": "2024-10-07 00:00:00"
-    },
-    "totalRemainingNominal": 31665497,
-    "countFlows": 2250
+    "_id": "control",
+    "totalRemainingNominal": 2850341
   },
   {
-    "_id": {
-      "quarter": "2024-10-08 00:00:00"
-    },
-    "totalRemainingNominal": 30111643,
-    "countFlows": 2160
+    "_id": "human",
+    "totalRemainingNominal": 3136359
   },
   {
-    "_id": {
-      "quarter": "2024-10-09 00:00:00"
-    },
-    "totalRemainingNominal": 31316019,
-    "countFlows": 2219
+    "_id": "give",
+    "totalRemainingNominal": 2922117
   },
   {
-    "_id": {
-      "quarter": "2024-10-10 00:00:00"
-    },
-    "totalRemainingNominal": 30684931,
-    "countFlows": 2197
+    "_id": "pay",
+    "totalRemainingNominal": 3214682
   },
   {
-    "_id": {
-      "quarter": "2024-10-11 00:00:00"
-    },
-    "totalRemainingNominal": 31186702,
-    "countFlows": 2219
+    "_id": "staff",
+    "totalRemainingNominal": 3099817
   },
   {
-    "_id": {
-      "quarter": "2024-10-12 00:00:00"
-    },
-    "totalRemainingNominal": 31447650,
-    "countFlows": 2229
+    "_id": "high",
+    "totalRemainingNominal": 3025296
   },
   {
-    "_id": {
-      "quarter": "2024-10-13 00:00:00"
-    },
-    "totalRemainingNominal": 31131130,
-    "countFlows": 2210
+    "_id": "physical",
+    "totalRemainingNominal": 2629085
   },
   {
-    "_id": {
-      "quarter": "2024-10-14 00:00:00"
-    },
-    "totalRemainingNominal": 31577351,
-    "countFlows": 2230
+    "_id": "early",
+    "totalRemainingNominal": 3206893
   },
   {
-    "_id": {
-      "quarter": "2024-10-15 00:00:00"
-    },
-    "totalRemainingNominal": 27778347,
-    "countFlows": 1908
+    "_id": "perform",
+    "totalRemainingNominal": 3180321
   },
   {
-    "_id": {
-      "quarter": "2024-10-16 00:00:00"
-    },
-    "totalRemainingNominal": 24954264,
-    "countFlows": 1610
+    "_id": "imagine",
+    "totalRemainingNominal": 2809820
   },
   {
-    "_id": {
-      "quarter": "2024-10-17 00:00:00"
-    },
-    "totalRemainingNominal": 24448981,
-    "countFlows": 1588
+    "_id": "follow",
+    "totalRemainingNominal": 3083176
   },
   {
-    "_id": {
-      "quarter": "2024-10-18 00:00:00"
-    },
-    "totalRemainingNominal": 25280832,
-    "countFlows": 1672
+    "_id": "family",
+    "totalRemainingNominal": 3182823
   },
   {
-    "_id": {
-      "quarter": "2024-10-19 00:00:00"
-    },
-    "totalRemainingNominal": 25889579,
-    "countFlows": 1692
+    "_id": "Mr",
+    "totalRemainingNominal": 2906649
   },
   {
-    "_id": {
-      "quarter": "2024-10-20 00:00:00"
-    },
-    "totalRemainingNominal": 25889398,
-    "countFlows": 1695
+    "_id": "listen",
+    "totalRemainingNominal": 2826172
   },
   {
-    "_id": {
-      "quarter": "2024-10-21 00:00:00"
-    },
-    "totalRemainingNominal": 24728556,
-    "countFlows": 1612
+    "_id": "work",
+    "totalRemainingNominal": 3060174
   },
   {
-    "_id": {
-      "quarter": "2024-10-22 00:00:00"
-    },
-    "totalRemainingNominal": 25609493,
-    "countFlows": 1680
+    "_id": "possible",
+    "totalRemainingNominal": 2841103
   },
   {
-    "_id": {
-      "quarter": "2024-10-23 00:00:00"
-    },
-    "totalRemainingNominal": 24526110,
-    "countFlows": 1601
+    "_id": "just",
+    "totalRemainingNominal": 2768883
   },
   {
-    "_id": {
-      "quarter": "2024-10-24 00:00:00"
-    },
-    "totalRemainingNominal": 24979662,
-    "countFlows": 1620
+    "_id": "professor",
+    "totalRemainingNominal": 2947553
   },
   {
-    "_id": {
-      "quarter": "2024-10-25 00:00:00"
-    },
-    "totalRemainingNominal": 24772010,
-    "countFlows": 1637
+    "_id": "stay",
+    "totalRemainingNominal": 2946922
   },
   {
-    "_id": {
-      "quarter": "2024-10-26 00:00:00"
-    },
-    "totalRemainingNominal": 25173548,
-    "countFlows": 1666
+    "_id": "return",
+    "totalRemainingNominal": 2839667
   },
   {
-    "_id": {
-      "quarter": "2024-10-27 00:00:00"
-    },
-    "totalRemainingNominal": 26261026,
-    "countFlows": 1722
+    "_id": "him",
+    "totalRemainingNominal": 3100214
   },
   {
-    "_id": {
-      "quarter": "2024-10-28 00:00:00"
-    },
-    "totalRemainingNominal": 25213607,
-    "countFlows": 1659
+    "_id": "eye",
+    "totalRemainingNominal": 3167207
   },
   {
-    "_id": {
-      "quarter": "2024-10-29 00:00:00"
-    },
-    "totalRemainingNominal": 24470059,
-    "countFlows": 1576
+    "_id": "girl",
+    "totalRemainingNominal": 2374716
   },
   {
-    "_id": {
-      "quarter": "2024-10-30 00:00:00"
-    },
-    "totalRemainingNominal": 25306382,
-    "countFlows": 1629
+    "_id": "traditional",
+    "totalRemainingNominal": 3120406
   },
   {
-    "_id": {
-      "quarter": "2024-10-31 00:00:00"
-    },
-    "totalRemainingNominal": 23731353,
-    "countFlows": 1557
+    "_id": "firm",
+    "totalRemainingNominal": 3019341
   },
   {
-    "_id": {
-      "quarter": "2024-11-01 00:00:00"
-    },
-    "totalRemainingNominal": 25608611,
-    "countFlows": 1669
+    "_id": "maintain",
+    "totalRemainingNominal": 3370800
   },
   {
-    "_id": {
-      "quarter": "2024-11-02 00:00:00"
-    },
-    "totalRemainingNominal": 25954187,
-    "countFlows": 1697
+    "_id": "opportunity",
+    "totalRemainingNominal": 3005482
   },
   {
-    "_id": {
-      "quarter": "2024-11-03 00:00:00"
-    },
-    "totalRemainingNominal": 25388367,
-    "countFlows": 1663
+    "_id": "order",
+    "totalRemainingNominal": 2904016
   },
   {
-    "_id": {
-      "quarter": "2024-11-04 00:00:00"
-    },
-    "totalRemainingNominal": 26120384,
-    "countFlows": 1671
+    "_id": "same",
+    "totalRemainingNominal": 3040826
   },
   {
-    "_id": {
-      "quarter": "2024-11-05 00:00:00"
-    },
-    "totalRemainingNominal": 25762380,
-    "countFlows": 1670
+    "_id": "nor",
+    "totalRemainingNominal": 2715085
   },
   {
-    "_id": {
-      "quarter": "2024-11-06 00:00:00"
-    },
-    "totalRemainingNominal": 25050292,
-    "countFlows": 1657
+    "_id": "hear",
+    "totalRemainingNominal": 3062791
   },
   {
-    "_id": {
-      "quarter": "2024-11-07 00:00:00"
-    },
-    "totalRemainingNominal": 24061406,
-    "countFlows": 1584
+    "_id": "here",
+    "totalRemainingNominal": 2972223
   },
   {
-    "_id": {
-      "quarter": "2024-11-08 00:00:00"
-    },
-    "totalRemainingNominal": 24416921,
-    "countFlows": 1600
+    "_id": "call",
+    "totalRemainingNominal": 2938376
   },
   {
-    "_id": {
-      "quarter": "2024-11-09 00:00:00"
-    },
-    "totalRemainingNominal": 25543230,
-    "countFlows": 1671
+    "_id": "agency",
+    "totalRemainingNominal": 2835441
   },
   {
-    "_id": {
-      "quarter": "2024-11-10 00:00:00"
-    },
-    "totalRemainingNominal": 24778085,
-    "countFlows": 1628
+    "_id": "meet",
+    "totalRemainingNominal": 3114595
   },
   {
-    "_id": {
-      "quarter": "2024-11-11 00:00:00"
-    },
-    "totalRemainingNominal": 25659282,
-    "countFlows": 1686
+    "_id": "system",
+    "totalRemainingNominal": 3564505
   },
   {
-    "_id": {
-      "quarter": "2024-11-12 00:00:00"
-    },
-    "totalRemainingNominal": 24399009,
-    "countFlows": 1600
+    "_id": "compare",
+    "totalRemainingNominal": 2823941
   },
   {
-    "_id": {
-      "quarter": "2024-11-13 00:00:00"
-    },
-    "totalRemainingNominal": 24925171,
-    "countFlows": 1627
+    "_id": "oil",
+    "totalRemainingNominal": 3064778
   },
   {
-    "_id": {
-      "quarter": "2024-11-14 00:00:00"
-    },
-    "totalRemainingNominal": 24941569,
-    "countFlows": 1621
+    "_id": "car",
+    "totalRemainingNominal": 3395346
   },
   {
-    "_id": {
-      "quarter": "2024-11-15 00:00:00"
-    },
-    "totalRemainingNominal": 24614166,
-    "countFlows": 1625
+    "_id": "similar",
+    "totalRemainingNominal": 3037459
   },
   {
-    "_id": {
-      "quarter": "2024-11-16 00:00:00"
-    },
-    "totalRemainingNominal": 24955769,
-    "countFlows": 1623
+    "_id": "rise",
+    "totalRemainingNominal": 2746137
   },
   {
-    "_id": {
-      "quarter": "2024-11-17 00:00:00"
-    },
-    "totalRemainingNominal": 24404161,
-    "countFlows": 1590
+    "_id": "best",
+    "totalRemainingNominal": 2715549
   },
   {
-    "_id": {
-      "quarter": "2024-11-18 00:00:00"
-    },
-    "totalRemainingNominal": 25158794,
-    "countFlows": 1645
+    "_id": "major",
+    "totalRemainingNominal": 2586744
   },
   {
-    "_id": {
-      "quarter": "2024-11-19 00:00:00"
-    },
-    "totalRemainingNominal": 25888887,
-    "countFlows": 1691
+    "_id": "affect",
+    "totalRemainingNominal": 2947009
   },
   {
-    "_id": {
-      "quarter": "2024-11-20 00:00:00"
-    },
-    "totalRemainingNominal": 25740638,
-    "countFlows": 1685
+    "_id": "another",
+    "totalRemainingNominal": 2958057
   },
   {
-    "_id": {
-      "quarter": "2024-11-21 00:00:00"
-    },
-    "totalRemainingNominal": 25221377,
-    "countFlows": 1639
+    "_id": "despite",
+    "totalRemainingNominal": 3095137
   },
   {
-    "_id": {
-      "quarter": "2024-11-22 00:00:00"
-    },
-    "totalRemainingNominal": 24714419,
-    "countFlows": 1620
+    "_id": "probably",
+    "totalRemainingNominal": 2624374
   },
   {
-    "_id": {
-      "quarter": "2024-11-23 00:00:00"
-    },
-    "totalRemainingNominal": 25815792,
-    "countFlows": 1685
+    "_id": "doctor",
+    "totalRemainingNominal": 3083950
   },
   {
-    "_id": {
-      "quarter": "2024-11-24 00:00:00"
-    },
-    "totalRemainingNominal": 24286464,
-    "countFlows": 1586
+    "_id": "option",
+    "totalRemainingNominal": 2757103
   },
   {
-    "_id": {
-      "quarter": "2024-11-25 00:00:00"
-    },
-    "totalRemainingNominal": 24679433,
-    "countFlows": 1623
+    "_id": "turn",
+    "totalRemainingNominal": 2755349
   },
   {
-    "_id": {
-      "quarter": "2024-11-26 00:00:00"
-    },
-    "totalRemainingNominal": 24845903,
-    "countFlows": 1610
+    "_id": "pass",
+    "totalRemainingNominal": 3303120
   },
   {
-    "_id": {
-      "quarter": "2024-11-27 00:00:00"
-    },
-    "totalRemainingNominal": 25601541,
-    "countFlows": 1663
+    "_id": "notice",
+    "totalRemainingNominal": 2843239
   },
   {
-    "_id": {
-      "quarter": "2024-11-28 00:00:00"
-    },
-    "totalRemainingNominal": 25547357,
-    "countFlows": 1676
+    "_id": "top",
+    "totalRemainingNominal": 3022699
   },
   {
-    "_id": {
-      "quarter": "2024-11-29 00:00:00"
-    },
-    "totalRemainingNominal": 26397881,
-    "countFlows": 1734
+    "_id": "inside",
+    "totalRemainingNominal": 2979354
   },
   {
-    "_id": {
-      "quarter": "2024-11-30 00:00:00"
-    },
-    "totalRemainingNominal": 25000692,
-    "countFlows": 1634
+    "_id": "attack",
+    "totalRemainingNominal": 2839963
   },
   {
-    "_id": {
-      "quarter": "2024-12-01 00:00:00"
-    },
-    "totalRemainingNominal": 24612259,
-    "countFlows": 1603
+    "_id": "tree",
+    "totalRemainingNominal": 3553907
   },
   {
-    "_id": {
-      "quarter": "2024-12-02 00:00:00"
-    },
-    "totalRemainingNominal": 25571957,
-    "countFlows": 1639
+    "_id": "because",
+    "totalRemainingNominal": 3196189
   },
   {
-    "_id": {
-      "quarter": "2024-12-03 00:00:00"
-    },
-    "totalRemainingNominal": 25523204,
-    "countFlows": 1658
+    "_id": "smile",
+    "totalRemainingNominal": 3571156
   },
   {
-    "_id": {
-      "quarter": "2024-12-04 00:00:00"
-    },
-    "totalRemainingNominal": 25390032,
-    "countFlows": 1652
+    "_id": "close",
+    "totalRemainingNominal": 2643449
   },
   {
-    "_id": {
-      "quarter": "2024-12-05 00:00:00"
-    },
-    "totalRemainingNominal": 26430547,
-    "countFlows": 1729
+    "_id": "time",
+    "totalRemainingNominal": 2997102
   },
   {
-    "_id": {
-      "quarter": "2024-12-06 00:00:00"
-    },
-    "totalRemainingNominal": 24550851,
-    "countFlows": 1603
+    "_id": "reveal",
+    "totalRemainingNominal": 3094279
   },
   {
-    "_id": {
-      "quarter": "2024-12-07 00:00:00"
-    },
-    "totalRemainingNominal": 24916689,
-    "countFlows": 1648
+    "_id": "already",
+    "totalRemainingNominal": 3208763
   },
   {
-    "_id": {
-      "quarter": "2024-12-08 00:00:00"
-    },
-    "totalRemainingNominal": 24626016,
-    "countFlows": 1600
+    "_id": "ahead",
+    "totalRemainingNominal": 3029779
   },
   {
-    "_id": {
-      "quarter": "2024-12-09 00:00:00"
-    },
-    "totalRemainingNominal": 25218134,
-    "countFlows": 1636
+    "_id": "you",
+    "totalRemainingNominal": 3162909
   },
   {
-    "_id": {
-      "quarter": "2024-12-10 00:00:00"
-    },
-    "totalRemainingNominal": 25416114,
-    "countFlows": 1657
+    "_id": "main",
+    "totalRemainingNominal": 2841776
   },
   {
-    "_id": {
-      "quarter": "2024-12-11 00:00:00"
-    },
-    "totalRemainingNominal": 25136561,
-    "countFlows": 1640
+    "_id": "check",
+    "totalRemainingNominal": 2985733
   },
   {
-    "_id": {
-      "quarter": "2024-12-12 00:00:00"
-    },
-    "totalRemainingNominal": 24903254,
-    "countFlows": 1619
+    "_id": "determine",
+    "totalRemainingNominal": 3080808
   },
   {
-    "_id": {
-      "quarter": "2024-12-13 00:00:00"
-    },
-    "totalRemainingNominal": 25914914,
-    "countFlows": 1699
+    "_id": "all",
+    "totalRemainingNominal": 2826112
   },
   {
-    "_id": {
-      "quarter": "2024-12-14 00:00:00"
-    },
-    "totalRemainingNominal": 26130075,
-    "countFlows": 1705
+    "_id": "market",
+    "totalRemainingNominal": 2993165
   },
   {
-    "_id": {
-      "quarter": "2024-12-15 00:00:00"
-    },
-    "totalRemainingNominal": 25648553,
-    "countFlows": 1666
+    "_id": "it",
+    "totalRemainingNominal": 3127268
   },
   {
-    "_id": {
-      "quarter": "2024-12-16 00:00:00"
-    },
-    "totalRemainingNominal": 25075568,
-    "countFlows": 1644
+    "_id": "discover",
+    "totalRemainingNominal": 3352584
   },
   {
-    "_id": {
-      "quarter": "2024-12-17 00:00:00"
-    },
-    "totalRemainingNominal": 25652623,
-    "countFlows": 1683
+    "_id": "stop",
+    "totalRemainingNominal": 2872664
   },
   {
-    "_id": {
-      "quarter": "2024-12-18 00:00:00"
-    },
-    "totalRemainingNominal": 24561550,
-    "countFlows": 1617
+    "_id": "middle",
+    "totalRemainingNominal": 3307522
   },
   {
-    "_id": {
-      "quarter": "2024-12-19 00:00:00"
-    },
-    "totalRemainingNominal": 25131316,
-    "countFlows": 1641
+    "_id": "product",
+    "totalRemainingNominal": 2810358
   },
   {
-    "_id": {
-      "quarter": "2024-12-20 00:00:00"
-    },
-    "totalRemainingNominal": 26206403,
-    "countFlows": 1704
+    "_id": "hard",
+    "totalRemainingNominal": 2886544
   },
   {
-    "_id": {
-      "quarter": "2024-12-21 00:00:00"
-    },
-    "totalRemainingNominal": 24126152,
-    "countFlows": 1579
+    "_id": "hit",
+    "totalRemainingNominal": 2830037
   },
   {
-    "_id": {
-      "quarter": "2024-12-22 00:00:00"
-    },
-    "totalRemainingNominal": 24895903,
-    "countFlows": 1640
+    "_id": "political",
+    "totalRemainingNominal": 2743718
   },
   {
-    "_id": {
-      "quarter": "2024-12-23 00:00:00"
-    },
-    "totalRemainingNominal": 25050455,
-    "countFlows": 1627
+    "_id": "too",
+    "totalRemainingNominal": 2932242
   },
   {
-    "_id": {
-      "quarter": "2024-12-24 00:00:00"
-    },
-    "totalRemainingNominal": 26378349,
-    "countFlows": 1727
+    "_id": "behavior",
+    "totalRemainingNominal": 2817240
   },
   {
-    "_id": {
-      "quarter": "2024-12-25 00:00:00"
-    },
-    "totalRemainingNominal": 24843967,
-    "countFlows": 1623
+    "_id": "loss",
+    "totalRemainingNominal": 3083668
   },
   {
-    "_id": {
-      "quarter": "2024-12-26 00:00:00"
-    },
-    "totalRemainingNominal": 24479243,
-    "countFlows": 1612
+    "_id": "food",
+    "totalRemainingNominal": 2904971
   },
   {
-    "_id": {
-      "quarter": "2024-12-27 00:00:00"
-    },
-    "totalRemainingNominal": 25006521,
-    "countFlows": 1641
+    "_id": "I",
+    "totalRemainingNominal": 3183006
   },
   {
-    "_id": {
-      "quarter": "2024-12-28 00:00:00"
-    },
-    "totalRemainingNominal": 24338275,
-    "countFlows": 1609
+    "_id": "within",
+    "totalRemainingNominal": 3210244
   },
   {
-    "_id": {
-      "quarter": "2024-12-29 00:00:00"
-    },
-    "totalRemainingNominal": 23998876,
-    "countFlows": 1544
+    "_id": "research",
+    "totalRemainingNominal": 3374749
   },
   {
-    "_id": {
-      "quarter": "2024-12-30 00:00:00"
-    },
-    "totalRemainingNominal": 25991861,
-    "countFlows": 1684
+    "_id": "rule",
+    "totalRemainingNominal": 3300916
   },
   {
-    "_id": {
-      "quarter": "2024-12-31 00:00:00"
-    },
-    "totalRemainingNominal": 25487896,
-    "countFlows": 1655
+    "_id": "number",
+    "totalRemainingNominal": 2904137
   },
   {
-    "_id": {
-      "quarter": "2025-01-01 00:00:00"
-    },
-    "totalRemainingNominal": 26345735,
-    "countFlows": 1707
+    "_id": "pretty",
+    "totalRemainingNominal": 2821496
   },
   {
-    "_id": {
-      "quarter": "2025-01-02 00:00:00"
-    },
-    "totalRemainingNominal": 24686433,
-    "countFlows": 1613
+    "_id": "defense",
+    "totalRemainingNominal": 3210843
   },
   {
-    "_id": {
-      "quarter": "2025-01-03 00:00:00"
-    },
-    "totalRemainingNominal": 25001694,
-    "countFlows": 1648
+    "_id": "blue",
+    "totalRemainingNominal": 2900554
   },
   {
-    "_id": {
-      "quarter": "2025-01-04 00:00:00"
-    },
-    "totalRemainingNominal": 25531038,
-    "countFlows": 1666
+    "_id": "treatment",
+    "totalRemainingNominal": 2840032
   },
   {
-    "_id": {
-      "quarter": "2025-01-05 00:00:00"
-    },
-    "totalRemainingNominal": 24791163,
-    "countFlows": 1617
+    "_id": "court",
+    "totalRemainingNominal": 2880586
   },
   {
-    "_id": {
-      "quarter": "2025-01-06 00:00:00"
-    },
-    "totalRemainingNominal": 25374083,
-    "countFlows": 1661
+    "_id": "sing",
+    "totalRemainingNominal": 2584612
   },
   {
-    "_id": {
-      "quarter": "2025-01-07 00:00:00"
-    },
-    "totalRemainingNominal": 24398518,
-    "countFlows": 1607
+    "_id": "big",
+    "totalRemainingNominal": 3058189
   },
   {
-    "_id": {
-      "quarter": "2025-01-08 00:00:00"
-    },
-    "totalRemainingNominal": 23874039,
-    "countFlows": 1565
+    "_id": "south",
+    "totalRemainingNominal": 2676215
   },
   {
-    "_id": {
-      "quarter": "2025-01-09 00:00:00"
-    },
-    "totalRemainingNominal": 25435364,
-    "countFlows": 1649
+    "_id": "money",
+    "totalRemainingNominal": 2876686
   },
   {
-    "_id": {
-      "quarter": "2025-01-10 00:00:00"
-    },
-    "totalRemainingNominal": 24852647,
-    "countFlows": 1638
+    "_id": "according",
+    "totalRemainingNominal": 2840677
   },
   {
-    "_id": {
-      "quarter": "2025-01-11 00:00:00"
-    },
-    "totalRemainingNominal": 26392136,
-    "countFlows": 1709
+    "_id": "office",
+    "totalRemainingNominal": 3019072
   },
   {
-    "_id": {
-      "quarter": "2025-01-12 00:00:00"
-    },
-    "totalRemainingNominal": 24511610,
-    "countFlows": 1626
+    "_id": "worker",
+    "totalRemainingNominal": 2782563
   },
   {
-    "_id": {
-      "quarter": "2025-01-13 00:00:00"
-    },
-    "totalRemainingNominal": 25204689,
-    "countFlows": 1644
+    "_id": "none",
+    "totalRemainingNominal": 2891123
   },
   {
-    "_id": {
-      "quarter": "2025-01-14 00:00:00"
-    },
-    "totalRemainingNominal": 25393941,
-    "countFlows": 1633
+    "_id": "for",
+    "totalRemainingNominal": 2926972
   },
   {
-    "_id": {
-      "quarter": "2025-01-15 00:00:00"
-    },
-    "totalRemainingNominal": 24785561,
-    "countFlows": 1633
+    "_id": "beyond",
+    "totalRemainingNominal": 2918963
   },
   {
-    "_id": {
-      "quarter": "2025-01-16 00:00:00"
-    },
-    "totalRemainingNominal": 24952830,
-    "countFlows": 1650
+    "_id": "woman",
+    "totalRemainingNominal": 2633655
   },
   {
-    "_id": {
-      "quarter": "2025-01-17 00:00:00"
-    },
-    "totalRemainingNominal": 25118369,
-    "countFlows": 1640
+    "_id": "between",
+    "totalRemainingNominal": 2732731
   },
   {
-    "_id": {
-      "quarter": "2025-01-18 00:00:00"
-    },
-    "totalRemainingNominal": 25775978,
-    "countFlows": 1680
+    "_id": "necessary",
+    "totalRemainingNominal": 3253603
   },
   {
-    "_id": {
-      "quarter": "2025-01-19 00:00:00"
-    },
-    "totalRemainingNominal": 25834002,
-    "countFlows": 1681
+    "_id": "my",
+    "totalRemainingNominal": 3030195
   },
   {
-    "_id": {
-      "quarter": "2025-01-20 00:00:00"
-    },
-    "totalRemainingNominal": 24463738,
-    "countFlows": 1597
+    "_id": "open",
+    "totalRemainingNominal": 3132654
   },
   {
-    "_id": {
-      "quarter": "2025-01-21 00:00:00"
-    },
-    "totalRemainingNominal": 25891421,
-    "countFlows": 1680
+    "_id": "scene",
+    "totalRemainingNominal": 2941150
   },
   {
-    "_id": {
-      "quarter": "2025-01-22 00:00:00"
-    },
-    "totalRemainingNominal": 24785426,
-    "countFlows": 1614
+    "_id": "account",
+    "totalRemainingNominal": 2654368
   },
   {
-    "_id": {
-      "quarter": "2025-01-23 00:00:00"
-    },
-    "totalRemainingNominal": 26224902,
-    "countFlows": 1731
+    "_id": "party",
+    "totalRemainingNominal": 3301762
   },
   {
-    "_id": {
-      "quarter": "2025-01-24 00:00:00"
-    },
-    "totalRemainingNominal": 24860411,
-    "countFlows": 1613
+    "_id": "above",
+    "totalRemainingNominal": 3004951
   },
   {
-    "_id": {
-      "quarter": "2025-01-25 00:00:00"
-    },
-    "totalRemainingNominal": 24858044,
-    "countFlows": 1625
+    "_id": "culture",
+    "totalRemainingNominal": 3041982
   },
   {
-    "_id": {
-      "quarter": "2025-01-26 00:00:00"
-    },
-    "totalRemainingNominal": 25323093,
-    "countFlows": 1649
+    "_id": "stock",
+    "totalRemainingNominal": 3234088
   },
   {
-    "_id": {
-      "quarter": "2025-01-27 00:00:00"
-    },
-    "totalRemainingNominal": 25407303,
-    "countFlows": 1653
+    "_id": "finish",
+    "totalRemainingNominal": 2925545
   },
   {
-    "_id": {
-      "quarter": "2025-01-28 00:00:00"
-    },
-    "totalRemainingNominal": 21430765,
-    "countFlows": 1349
+    "_id": "wife",
+    "totalRemainingNominal": 3244078
   },
   {
-    "_id": {
-      "quarter": "2025-01-29 00:00:00"
-    },
-    "totalRemainingNominal": 17441965,
-    "countFlows": 1049
+    "_id": "particularly",
+    "totalRemainingNominal": 3135926
   },
   {
-    "_id": {
-      "quarter": "2025-01-30 00:00:00"
-    },
-    "totalRemainingNominal": 18662112,
-    "countFlows": 1138
+    "_id": "wear",
+    "totalRemainingNominal": 3099678
   },
   {
-    "_id": {
-      "quarter": "2025-01-31 00:00:00"
-    },
-    "totalRemainingNominal": 18815660,
-    "countFlows": 1135
+    "_id": "democratic",
+    "totalRemainingNominal": 3214947
   },
   {
-    "_id": {
-      "quarter": "2025-02-01 00:00:00"
-    },
-    "totalRemainingNominal": 18047116,
-    "countFlows": 1094
+    "_id": "argue",
+    "totalRemainingNominal": 3022287
   },
   {
-    "_id": {
-      "quarter": "2025-02-02 00:00:00"
-    },
-    "totalRemainingNominal": 17566044,
-    "countFlows": 1063
+    "_id": "movement",
+    "totalRemainingNominal": 2837894
   },
   {
-    "_id": {
-      "quarter": "2025-02-03 00:00:00"
-    },
-    "totalRemainingNominal": 18802888,
-    "countFlows": 1133
+    "_id": "but",
+    "totalRemainingNominal": 2892388
   },
   {
-    "_id": {
-      "quarter": "2025-02-04 00:00:00"
-    },
-    "totalRemainingNominal": 18279862,
-    "countFlows": 1103
+    "_id": "to",
+    "totalRemainingNominal": 2849149
   },
   {
-    "_id": {
-      "quarter": "2025-02-05 00:00:00"
-    },
-    "totalRemainingNominal": 17735100,
-    "countFlows": 1072
+    "_id": "hope",
+    "totalRemainingNominal": 3417990
   },
   {
-    "_id": {
-      "quarter": "2025-02-06 00:00:00"
-    },
-    "totalRemainingNominal": 18135503,
-    "countFlows": 1104
+    "_id": "thousand",
+    "totalRemainingNominal": 2854210
   },
   {
-    "_id": {
-      "quarter": "2025-02-07 00:00:00"
-    },
-    "totalRemainingNominal": 18295328,
-    "countFlows": 1118
+    "_id": "cup",
+    "totalRemainingNominal": 3033242
   },
   {
-    "_id": {
-      "quarter": "2025-02-08 00:00:00"
-    },
-    "totalRemainingNominal": 18427605,
-    "countFlows": 1124
+    "_id": "trade",
+    "totalRemainingNominal": 2873226
   },
   {
-    "_id": {
-      "quarter": "2025-02-09 00:00:00"
-    },
-    "totalRemainingNominal": 18708683,
-    "countFlows": 1131
+    "_id": "single",
+    "totalRemainingNominal": 2847025
   },
   {
-    "_id": {
-      "quarter": "2025-02-10 00:00:00"
-    },
-    "totalRemainingNominal": 17339360,
-    "countFlows": 1037
+    "_id": "least",
+    "totalRemainingNominal": 2924145
   },
   {
-    "_id": {
-      "quarter": "2025-02-11 00:00:00"
-    },
-    "totalRemainingNominal": 18287095,
-    "countFlows": 1085
+    "_id": "focus",
+    "totalRemainingNominal": 2803287
   },
   {
-    "_id": {
-      "quarter": "2025-02-12 00:00:00"
-    },
-    "totalRemainingNominal": 17108071,
-    "countFlows": 1031
+    "_id": "visit",
+    "totalRemainingNominal": 2888518
   },
   {
-    "_id": {
-      "quarter": "2025-02-13 00:00:00"
-    },
-    "totalRemainingNominal": 18223179,
-    "countFlows": 1095
+    "_id": "lose",
+    "totalRemainingNominal": 2926382
   },
   {
-    "_id": {
-      "quarter": "2025-02-14 00:00:00"
-    },
-    "totalRemainingNominal": 19144241,
-    "countFlows": 1154
+    "_id": "special",
+    "totalRemainingNominal": 3202211
   },
   {
-    "_id": {
-      "quarter": "2025-02-15 00:00:00"
-    },
-    "totalRemainingNominal": 17880308,
-    "countFlows": 1082
+    "_id": "one",
+    "totalRemainingNominal": 2894131
   },
   {
-    "_id": {
-      "quarter": "2025-02-16 00:00:00"
-    },
-    "totalRemainingNominal": 18668341,
-    "countFlows": 1101
+    "_id": "dark",
+    "totalRemainingNominal": 3035862
   },
   {
-    "_id": {
-      "quarter": "2025-02-17 00:00:00"
-    },
-    "totalRemainingNominal": 18597112,
-    "countFlows": 1116
+    "_id": "yard",
+    "totalRemainingNominal": 3279517
   },
   {
-    "_id": {
-      "quarter": "2025-02-18 00:00:00"
-    },
-    "totalRemainingNominal": 18301474,
-    "countFlows": 1110
+    "_id": "TV",
+    "totalRemainingNominal": 3024325
   },
   {
-    "_id": {
-      "quarter": "2025-02-19 00:00:00"
-    },
-    "totalRemainingNominal": 17175425,
-    "countFlows": 1039
+    "_id": "information",
+    "totalRemainingNominal": 2957661
   },
   {
-    "_id": {
-      "quarter": "2025-02-20 00:00:00"
-    },
-    "totalRemainingNominal": 17732310,
-    "countFlows": 1070
+    "_id": "young",
+    "totalRemainingNominal": 2871803
   },
   {
-    "_id": {
-      "quarter": "2025-02-21 00:00:00"
-    },
-    "totalRemainingNominal": 18454718,
-    "countFlows": 1117
+    "_id": "thing",
+    "totalRemainingNominal": 2938291
   },
   {
-    "_id": {
-      "quarter": "2025-02-22 00:00:00"
-    },
-    "totalRemainingNominal": 18017788,
-    "countFlows": 1091
+    "_id": "performance",
+    "totalRemainingNominal": 3010584
   },
   {
-    "_id": {
-      "quarter": "2025-02-23 00:00:00"
-    },
-    "totalRemainingNominal": 18523964,
-    "countFlows": 1129
+    "_id": "though",
+    "totalRemainingNominal": 3257299
   },
   {
-    "_id": {
-      "quarter": "2025-02-24 00:00:00"
-    },
-    "totalRemainingNominal": 17897211,
-    "countFlows": 1072
+    "_id": "western",
+    "totalRemainingNominal": 3006114
   },
   {
-    "_id": {
-      "quarter": "2025-02-25 00:00:00"
-    },
-    "totalRemainingNominal": 17381990,
-    "countFlows": 1048
+    "_id": "someone",
+    "totalRemainingNominal": 2986912
   },
   {
-    "_id": {
-      "quarter": "2025-02-26 00:00:00"
-    },
-    "totalRemainingNominal": 17561416,
-    "countFlows": 1058
+    "_id": "team",
+    "totalRemainingNominal": 2961135
   },
   {
-    "_id": {
-      "quarter": "2025-02-27 00:00:00"
-    },
-    "totalRemainingNominal": 18225389,
-    "countFlows": 1103
+    "_id": "operation",
+    "totalRemainingNominal": 2842012
   },
   {
-    "_id": {
-      "quarter": "2025-02-28 00:00:00"
-    },
-    "totalRemainingNominal": 17721003,
-    "countFlows": 1070
+    "_id": "alone",
+    "totalRemainingNominal": 3381593
   },
   {
-    "_id": {
-      "quarter": "2025-03-01 00:00:00"
-    },
-    "totalRemainingNominal": 17526052,
-    "countFlows": 1057
+    "_id": "record",
+    "totalRemainingNominal": 2943177
   },
   {
-    "_id": {
-      "quarter": "2025-03-02 00:00:00"
-    },
-    "totalRemainingNominal": 18103685,
-    "countFlows": 1094
+    "_id": "activity",
+    "totalRemainingNominal": 3118709
   },
   {
-    "_id": {
-      "quarter": "2025-03-03 00:00:00"
-    },
-    "totalRemainingNominal": 18641780,
-    "countFlows": 1124
+    "_id": "bring",
+    "totalRemainingNominal": 2853974
   },
   {
-    "_id": {
-      "quarter": "2025-03-04 00:00:00"
-    },
-    "totalRemainingNominal": 18252040,
-    "countFlows": 1104
+    "_id": "north",
+    "totalRemainingNominal": 2788971
   },
   {
-    "_id": {
-      "quarter": "2025-03-05 00:00:00"
-    },
-    "totalRemainingNominal": 17838897,
-    "countFlows": 1065
+    "_id": "experience",
+    "totalRemainingNominal": 2910026
   },
   {
-    "_id": {
-      "quarter": "2025-03-06 00:00:00"
-    },
-    "totalRemainingNominal": 17727293,
-    "countFlows": 1073
+    "_id": "environmental",
+    "totalRemainingNominal": 3107718
   },
   {
-    "_id": {
-      "quarter": "2025-03-07 00:00:00"
-    },
-    "totalRemainingNominal": 18902955,
-    "countFlows": 1139
+    "_id": "owner",
+    "totalRemainingNominal": 3167384
   },
   {
-    "_id": {
-      "quarter": "2025-03-08 00:00:00"
-    },
-    "totalRemainingNominal": 16918861,
-    "countFlows": 1025
+    "_id": "never",
+    "totalRemainingNominal": 3081237
   },
   {
-    "_id": {
-      "quarter": "2025-03-09 00:00:00"
-    },
-    "totalRemainingNominal": 17909779,
-    "countFlows": 1085
+    "_id": "majority",
+    "totalRemainingNominal": 3473897
   },
   {
-    "_id": {
-      "quarter": "2025-03-10 00:00:00"
-    },
-    "totalRemainingNominal": 17625291,
-    "countFlows": 1059
+    "_id": "trouble",
+    "totalRemainingNominal": 2984662
   },
   {
-    "_id": {
-      "quarter": "2025-03-11 00:00:00"
-    },
-    "totalRemainingNominal": 18659828,
-    "countFlows": 1124
+    "_id": "coach",
+    "totalRemainingNominal": 3084910
   },
   {
-    "_id": {
-      "quarter": "2025-03-12 00:00:00"
-    },
-    "totalRemainingNominal": 19006500,
-    "countFlows": 1152
+    "_id": "campaign",
+    "totalRemainingNominal": 2944259
   },
   {
-    "_id": {
-      "quarter": "2025-03-13 00:00:00"
-    },
-    "totalRemainingNominal": 19297628,
-    "countFlows": 1168
+    "_id": "share",
+    "totalRemainingNominal": 3105512
   },
   {
-    "_id": {
-      "quarter": "2025-03-14 00:00:00"
-    },
-    "totalRemainingNominal": 18190965,
-    "countFlows": 1085
+    "_id": "indeed",
+    "totalRemainingNominal": 2994203
   },
   {
-    "_id": {
-      "quarter": "2025-03-15 00:00:00"
-    },
-    "totalRemainingNominal": 17973581,
-    "countFlows": 1077
+    "_id": "somebody",
+    "totalRemainingNominal": 3218576
   },
   {
-    "_id": {
-      "quarter": "2025-03-16 00:00:00"
-    },
-    "totalRemainingNominal": 17897732,
-    "countFlows": 1059
+    "_id": "debate",
+    "totalRemainingNominal": 3022962
   },
   {
-    "_id": {
-      "quarter": "2025-03-17 00:00:00"
-    },
-    "totalRemainingNominal": 17809454,
-    "countFlows": 1071
+    "_id": "anyone",
+    "totalRemainingNominal": 2867624
   },
   {
-    "_id": {
-      "quarter": "2025-03-18 00:00:00"
-    },
-    "totalRemainingNominal": 18313467,
-    "countFlows": 1100
+    "_id": "sport",
+    "totalRemainingNominal": 3128226
   },
   {
-    "_id": {
-      "quarter": "2025-03-19 00:00:00"
-    },
-    "totalRemainingNominal": 19675058,
-    "countFlows": 1185
+    "_id": "fine",
+    "totalRemainingNominal": 3130384
   },
   {
-    "_id": {
-      "quarter": "2025-03-20 00:00:00"
-    },
-    "totalRemainingNominal": 17494160,
-    "countFlows": 1054
+    "_id": "voice",
+    "totalRemainingNominal": 3126060
   },
   {
-    "_id": {
-      "quarter": "2025-03-21 00:00:00"
-    },
-    "totalRemainingNominal": 18457605,
-    "countFlows": 1124
+    "_id": "she",
+    "totalRemainingNominal": 3277340
   },
   {
-    "_id": {
-      "quarter": "2025-03-22 00:00:00"
-    },
-    "totalRemainingNominal": 17605779,
-    "countFlows": 1051
+    "_id": "let",
+    "totalRemainingNominal": 3168470
   },
   {
-    "_id": {
-      "quarter": "2025-03-23 00:00:00"
-    },
-    "totalRemainingNominal": 18041633,
-    "countFlows": 1079
+    "_id": "simply",
+    "totalRemainingNominal": 2608357
   },
   {
-    "_id": {
-      "quarter": "2025-03-24 00:00:00"
-    },
-    "totalRemainingNominal": 18105091,
-    "countFlows": 1093
+    "_id": "although",
+    "totalRemainingNominal": 3023532
   },
   {
-    "_id": {
-      "quarter": "2025-03-25 00:00:00"
-    },
-    "totalRemainingNominal": 18393070,
-    "countFlows": 1100
+    "_id": "serve",
+    "totalRemainingNominal": 3600546
   },
   {
-    "_id": {
-      "quarter": "2025-03-26 00:00:00"
-    },
-    "totalRemainingNominal": 18190724,
-    "countFlows": 1090
+    "_id": "enough",
+    "totalRemainingNominal": 3016420
   },
   {
-    "_id": {
-      "quarter": "2025-03-27 00:00:00"
-    },
-    "totalRemainingNominal": 18928957,
-    "countFlows": 1140
+    "_id": "most",
+    "totalRemainingNominal": 2573476
   },
   {
-    "_id": {
-      "quarter": "2025-03-28 00:00:00"
-    },
-    "totalRemainingNominal": 18650680,
-    "countFlows": 1134
+    "_id": "central",
+    "totalRemainingNominal": 3114656
   },
   {
-    "_id": {
-      "quarter": "2025-03-29 00:00:00"
-    },
-    "totalRemainingNominal": 18271793,
-    "countFlows": 1100
+    "_id": "challenge",
+    "totalRemainingNominal": 3301092
   },
   {
-    "_id": {
-      "quarter": "2025-03-30 00:00:00"
-    },
-    "totalRemainingNominal": 18439327,
-    "countFlows": 1114
+    "_id": "other",
+    "totalRemainingNominal": 2295355
   },
   {
-    "_id": {
-      "quarter": "2025-03-31 00:00:00"
-    },
-    "totalRemainingNominal": 18869484,
-    "countFlows": 1138
+    "_id": "around",
+    "totalRemainingNominal": 3023084
   },
   {
-    "_id": {
-      "quarter": "2025-04-01 00:00:00"
-    },
-    "totalRemainingNominal": 17918365,
-    "countFlows": 1082
+    "_id": "wonder",
+    "totalRemainingNominal": 2919810
   },
   {
-    "_id": {
-      "quarter": "2025-04-02 00:00:00"
-    },
-    "totalRemainingNominal": 18778272,
-    "countFlows": 1125
+    "_id": "certain",
+    "totalRemainingNominal": 3045080
   },
   {
-    "_id": {
-      "quarter": "2025-04-03 00:00:00"
-    },
-    "totalRemainingNominal": 18802136,
-    "countFlows": 1129
+    "_id": "kitchen",
+    "totalRemainingNominal": 2907840
   },
   {
-    "_id": {
-      "quarter": "2025-04-04 00:00:00"
-    },
-    "totalRemainingNominal": 17042187,
-    "countFlows": 1033
+    "_id": "size",
+    "totalRemainingNominal": 3014863
   },
   {
-    "_id": {
-      "quarter": "2025-04-05 00:00:00"
-    },
-    "totalRemainingNominal": 17933951,
-    "countFlows": 1089
+    "_id": "try",
+    "totalRemainingNominal": 3210191
   },
   {
-    "_id": {
-      "quarter": "2025-04-06 00:00:00"
-    },
-    "totalRemainingNominal": 18135446,
-    "countFlows": 1087
+    "_id": "chair",
+    "totalRemainingNominal": 2863244
   },
   {
-    "_id": {
-      "quarter": "2025-04-07 00:00:00"
-    },
-    "totalRemainingNominal": 18556165,
-    "countFlows": 1130
+    "_id": "yeah",
+    "totalRemainingNominal": 3116615
   },
   {
-    "_id": {
-      "quarter": "2025-04-08 00:00:00"
-    },
-    "totalRemainingNominal": 17601932,
-    "countFlows": 1061
+    "_id": "tax",
+    "totalRemainingNominal": 2957025
   },
   {
-    "_id": {
-      "quarter": "2025-04-09 00:00:00"
-    },
-    "totalRemainingNominal": 17860604,
-    "countFlows": 1083
+    "_id": "off",
+    "totalRemainingNominal": 3070412
   },
   {
-    "_id": {
-      "quarter": "2025-04-10 00:00:00"
-    },
-    "totalRemainingNominal": 18136990,
-    "countFlows": 1095
+    "_id": "whether",
+    "totalRemainingNominal": 2979262
   },
   {
-    "_id": {
-      "quarter": "2025-04-11 00:00:00"
-    },
-    "totalRemainingNominal": 18078085,
-    "countFlows": 1098
+    "_id": "east",
+    "totalRemainingNominal": 2979552
   },
   {
-    "_id": {
-      "quarter": "2025-04-12 00:00:00"
-    },
-    "totalRemainingNominal": 17492771,
-    "countFlows": 1031
+    "_id": "else",
+    "totalRemainingNominal": 2733323
   },
   {
-    "_id": {
-      "quarter": "2025-04-13 00:00:00"
-    },
-    "totalRemainingNominal": 18855934,
-    "countFlows": 1133
+    "_id": "right",
+    "totalRemainingNominal": 2717066
   },
   {
-    "_id": {
-      "quarter": "2025-04-14 00:00:00"
-    },
-    "totalRemainingNominal": 17994343,
-    "countFlows": 1082
+    "_id": "true",
+    "totalRemainingNominal": 3055500
   },
   {
-    "_id": {
-      "quarter": "2025-04-15 00:00:00"
-    },
-    "totalRemainingNominal": 18956931,
-    "countFlows": 1137
+    "_id": "born",
+    "totalRemainingNominal": 2969424
   },
   {
-    "_id": {
-      "quarter": "2025-04-16 00:00:00"
-    },
-    "totalRemainingNominal": 18006085,
-    "countFlows": 1078
+    "_id": "couple",
+    "totalRemainingNominal": 3172626
   },
   {
-    "_id": {
-      "quarter": "2025-04-17 00:00:00"
-    },
-    "totalRemainingNominal": 17608090,
-    "countFlows": 1072
+    "_id": "position",
+    "totalRemainingNominal": 2970290
   },
   {
-    "_id": {
-      "quarter": "2025-04-18 00:00:00"
-    },
-    "totalRemainingNominal": 18362771,
-    "countFlows": 1099
+    "_id": "almost",
+    "totalRemainingNominal": 2842793
   },
   {
-    "_id": {
-      "quarter": "2025-04-19 00:00:00"
-    },
-    "totalRemainingNominal": 18247922,
-    "countFlows": 1095
+    "_id": "west",
+    "totalRemainingNominal": 2567760
   },
   {
-    "_id": {
-      "quarter": "2025-04-20 00:00:00"
-    },
-    "totalRemainingNominal": 18701147,
-    "countFlows": 1132
+    "_id": "audience",
+    "totalRemainingNominal": 3119089
   },
   {
-    "_id": {
-      "quarter": "2025-04-21 00:00:00"
-    },
-    "totalRemainingNominal": 17579648,
-    "countFlows": 1064
+    "_id": "instead",
+    "totalRemainingNominal": 3223410
   },
   {
-    "_id": {
-      "quarter": "2025-04-22 00:00:00"
-    },
-    "totalRemainingNominal": 17049776,
-    "countFlows": 1032
+    "_id": "respond",
+    "totalRemainingNominal": 3034109
   },
   {
-    "_id": {
-      "quarter": "2025-04-23 00:00:00"
-    },
-    "totalRemainingNominal": 18474321,
-    "countFlows": 1100
+    "_id": "able",
+    "totalRemainingNominal": 2796976
   },
   {
-    "_id": {
-      "quarter": "2025-04-24 00:00:00"
-    },
-    "totalRemainingNominal": 18437730,
-    "countFlows": 1123
+    "_id": "support",
+    "totalRemainingNominal": 3168828
   },
   {
-    "_id": {
-      "quarter": "2025-04-25 00:00:00"
-    },
-    "totalRemainingNominal": 18598459,
-    "countFlows": 1116
+    "_id": "increase",
+    "totalRemainingNominal": 3162387
   },
   {
-    "_id": {
-      "quarter": "2025-04-26 00:00:00"
-    },
-    "totalRemainingNominal": 17800221,
-    "countFlows": 1090
+    "_id": "group",
+    "totalRemainingNominal": 2824044
   },
   {
-    "_id": {
-      "quarter": "2025-04-27 00:00:00"
-    },
-    "totalRemainingNominal": 18637205,
-    "countFlows": 1120
+    "_id": "personal",
+    "totalRemainingNominal": 3077616
   },
   {
-    "_id": {
-      "quarter": "2025-04-28 00:00:00"
-    },
-    "totalRemainingNominal": 17087410,
-    "countFlows": 1027
+    "_id": "until",
+    "totalRemainingNominal": 2955923
   },
   {
-    "_id": {
-      "quarter": "2025-04-29 00:00:00"
-    },
-    "totalRemainingNominal": 17641556,
-    "countFlows": 1072
+    "_id": "improve",
+    "totalRemainingNominal": 2803182
   },
   {
-    "_id": {
-      "quarter": "2025-04-30 00:00:00"
-    },
-    "totalRemainingNominal": 18331854,
-    "countFlows": 1114
+    "_id": "sell",
+    "totalRemainingNominal": 2957380
   },
   {
-    "_id": {
-      "quarter": "2025-05-01 00:00:00"
-    },
-    "totalRemainingNominal": 18024216,
-    "countFlows": 1086
+    "_id": "animal",
+    "totalRemainingNominal": 3056235
   },
   {
-    "_id": {
-      "quarter": "2025-05-02 00:00:00"
-    },
-    "totalRemainingNominal": 19132007,
-    "countFlows": 1151
+    "_id": "bad",
+    "totalRemainingNominal": 3331542
   },
   {
-    "_id": {
-      "quarter": "2025-05-03 00:00:00"
-    },
-    "totalRemainingNominal": 19337611,
-    "countFlows": 1151
+    "_id": "former",
+    "totalRemainingNominal": 2873726
   },
   {
-    "_id": {
-      "quarter": "2025-05-04 00:00:00"
-    },
-    "totalRemainingNominal": 17569062,
-    "countFlows": 1053
+    "_id": "section",
+    "totalRemainingNominal": 3070262
   },
   {
-    "_id": {
-      "quarter": "2025-05-05 00:00:00"
-    },
-    "totalRemainingNominal": 18255281,
-    "countFlows": 1091
+    "_id": "month",
+    "totalRemainingNominal": 3360507
   },
   {
-    "_id": {
-      "quarter": "2025-05-06 00:00:00"
-    },
-    "totalRemainingNominal": 18073564,
-    "countFlows": 1084
+    "_id": "however",
+    "totalRemainingNominal": 2809919
   },
   {
-    "_id": {
-      "quarter": "2025-05-07 00:00:00"
-    },
-    "totalRemainingNominal": 19326699,
-    "countFlows": 1177
+    "_id": "morning",
+    "totalRemainingNominal": 2741676
   },
   {
-    "_id": {
-      "quarter": "2025-05-08 00:00:00"
-    },
-    "totalRemainingNominal": 17663312,
-    "countFlows": 1063
+    "_id": "Democrat",
+    "totalRemainingNominal": 2397609
   },
   {
-    "_id": {
-      "quarter": "2025-05-09 00:00:00"
-    },
-    "totalRemainingNominal": 17866178,
-    "countFlows": 1079
+    "_id": "writer",
+    "totalRemainingNominal": 2895650
   },
   {
-    "_id": {
-      "quarter": "2025-05-10 00:00:00"
-    },
-    "totalRemainingNominal": 18317969,
-    "countFlows": 1099
+    "_id": "next",
+    "totalRemainingNominal": 3513579
   },
   {
-    "_id": {
-      "quarter": "2025-05-11 00:00:00"
-    },
-    "totalRemainingNominal": 18408629,
-    "countFlows": 1105
+    "_id": "result",
+    "totalRemainingNominal": 2977246
   },
   {
-    "_id": {
-      "quarter": "2025-05-12 00:00:00"
-    },
-    "totalRemainingNominal": 13418416,
-    "countFlows": 793
+    "_id": "sit",
+    "totalRemainingNominal": 3014075
   },
   {
-    "_id": {
-      "quarter": "2025-05-13 00:00:00"
-    },
-    "totalRemainingNominal": 9213937,
-    "countFlows": 518
+    "_id": "art",
+    "totalRemainingNominal": 2872693
   },
   {
-    "_id": {
-      "quarter": "2025-05-14 00:00:00"
-    },
-    "totalRemainingNominal": 10265614,
-    "countFlows": 575
+    "_id": "fear",
+    "totalRemainingNominal": 2866311
   },
   {
-    "_id": {
-      "quarter": "2025-05-15 00:00:00"
-    },
-    "totalRemainingNominal": 10758963,
-    "countFlows": 600
+    "_id": "under",
+    "totalRemainingNominal": 2590264
   },
   {
-    "_id": {
-      "quarter": "2025-05-16 00:00:00"
-    },
-    "totalRemainingNominal": 9641417,
-    "countFlows": 543
+    "_id": "professional",
+    "totalRemainingNominal": 3034191
   },
   {
-    "_id": {
-      "quarter": "2025-05-17 00:00:00"
-    },
-    "totalRemainingNominal": 9639741,
-    "countFlows": 542
+    "_id": "little",
+    "totalRemainingNominal": 3023102
   },
   {
-    "_id": {
-      "quarter": "2025-05-18 00:00:00"
-    },
-    "totalRemainingNominal": 9752743,
-    "countFlows": 552
+    "_id": "left",
+    "totalRemainingNominal": 2784745
   },
   {
-    "_id": {
-      "quarter": "2025-05-19 00:00:00"
-    },
-    "totalRemainingNominal": 9840067,
-    "countFlows": 548
+    "_id": "sound",
+    "totalRemainingNominal": 2743679
   },
   {
-    "_id": {
-      "quarter": "2025-05-20 00:00:00"
-    },
-    "totalRemainingNominal": 9278773,
-    "countFlows": 521
+    "_id": "building",
+    "totalRemainingNominal": 3057699
   },
   {
-    "_id": {
-      "quarter": "2025-05-21 00:00:00"
-    },
-    "totalRemainingNominal": 9221874,
-    "countFlows": 518
+    "_id": "be",
+    "totalRemainingNominal": 3102652
   },
   {
-    "_id": {
-      "quarter": "2025-05-22 00:00:00"
-    },
-    "totalRemainingNominal": 9854349,
-    "countFlows": 555
+    "_id": "page",
+    "totalRemainingNominal": 2923371
   },
   {
-    "_id": {
-      "quarter": "2025-05-23 00:00:00"
-    },
-    "totalRemainingNominal": 10430941,
-    "countFlows": 591
+    "_id": "others",
+    "totalRemainingNominal": 2592789
   },
   {
-    "_id": {
-      "quarter": "2025-05-24 00:00:00"
-    },
-    "totalRemainingNominal": 9624044,
-    "countFlows": 534
+    "_id": "now",
+    "totalRemainingNominal": 2958906
   },
   {
-    "_id": {
-      "quarter": "2025-05-25 00:00:00"
-    },
-    "totalRemainingNominal": 8699454,
-    "countFlows": 487
+    "_id": "where",
+    "totalRemainingNominal": 2885661
   },
   {
-    "_id": {
-      "quarter": "2025-05-26 00:00:00"
-    },
-    "totalRemainingNominal": 9461881,
-    "countFlows": 530
+    "_id": "parent",
+    "totalRemainingNominal": 2863088
   },
   {
-    "_id": {
-      "quarter": "2025-05-27 00:00:00"
-    },
-    "totalRemainingNominal": 9491657,
-    "countFlows": 530
+    "_id": "article",
+    "totalRemainingNominal": 3219019
   },
   {
-    "_id": {
-      "quarter": "2025-05-28 00:00:00"
-    },
-    "totalRemainingNominal": 10229272,
-    "countFlows": 571
+    "_id": "save",
+    "totalRemainingNominal": 2749311
   },
   {
-    "_id": {
-      "quarter": "2025-05-29 00:00:00"
-    },
-    "totalRemainingNominal": 10481339,
-    "countFlows": 589
+    "_id": "allow",
+    "totalRemainingNominal": 3141461
   },
   {
-    "_id": {
-      "quarter": "2025-05-30 00:00:00"
-    },
-    "totalRemainingNominal": 9568477,
-    "countFlows": 532
+    "_id": "shake",
+    "totalRemainingNominal": 3131067
   },
   {
-    "_id": {
-      "quarter": "2025-05-31 00:00:00"
-    },
-    "totalRemainingNominal": 9348299,
-    "countFlows": 518
+    "_id": "mission",
+    "totalRemainingNominal": 3099565
   },
   {
-    "_id": {
-      "quarter": "2025-06-01 00:00:00"
-    },
-    "totalRemainingNominal": 9546560,
-    "countFlows": 533
+    "_id": "threat",
+    "totalRemainingNominal": 2820251
   },
   {
-    "_id": {
-      "quarter": "2025-06-02 00:00:00"
-    },
-    "totalRemainingNominal": 10297176,
-    "countFlows": 583
+    "_id": "table",
+    "totalRemainingNominal": 3006424
   },
   {
-    "_id": {
-      "quarter": "2025-06-03 00:00:00"
-    },
-    "totalRemainingNominal": 9954370,
-    "countFlows": 552
+    "_id": "explain",
+    "totalRemainingNominal": 3306860
   },
   {
-    "_id": {
-      "quarter": "2025-06-04 00:00:00"
-    },
-    "totalRemainingNominal": 9548195,
-    "countFlows": 531
+    "_id": "goal",
+    "totalRemainingNominal": 3104939
   },
   {
-    "_id": {
-      "quarter": "2025-06-05 00:00:00"
-    },
-    "totalRemainingNominal": 9929292,
-    "countFlows": 558
+    "_id": "talk",
+    "totalRemainingNominal": 3030415
   },
   {
-    "_id": {
-      "quarter": "2025-06-06 00:00:00"
-    },
-    "totalRemainingNominal": 9849325,
-    "countFlows": 549
+    "_id": "government",
+    "totalRemainingNominal": 3064869
   },
   {
-    "_id": {
-      "quarter": "2025-06-07 00:00:00"
-    },
-    "totalRemainingNominal": 9816439,
-    "countFlows": 564
+    "_id": "billion",
+    "totalRemainingNominal": 2760582
   },
   {
-    "_id": {
-      "quarter": "2025-06-08 00:00:00"
-    },
-    "totalRemainingNominal": 9562864,
-    "countFlows": 531
+    "_id": "project",
+    "totalRemainingNominal": 3052274
   },
   {
-    "_id": {
-      "quarter": "2025-06-09 00:00:00"
-    },
-    "totalRemainingNominal": 9353738,
-    "countFlows": 531
+    "_id": "leave",
+    "totalRemainingNominal": 2856792
   },
   {
-    "_id": {
-      "quarter": "2025-06-10 00:00:00"
-    },
-    "totalRemainingNominal": 9417584,
-    "countFlows": 529
+    "_id": "prove",
+    "totalRemainingNominal": 3022506
   },
   {
-    "_id": {
-      "quarter": "2025-06-11 00:00:00"
-    },
-    "totalRemainingNominal": 10146541,
-    "countFlows": 566
+    "_id": "beat",
+    "totalRemainingNominal": 3027118
   },
   {
-    "_id": {
-      "quarter": "2025-06-12 00:00:00"
-    },
-    "totalRemainingNominal": 9070192,
-    "countFlows": 510
+    "_id": "nothing",
+    "totalRemainingNominal": 2826693
   },
   {
-    "_id": {
-      "quarter": "2025-06-13 00:00:00"
-    },
-    "totalRemainingNominal": 9221447,
-    "countFlows": 514
+    "_id": "such",
+    "totalRemainingNominal": 2999631
   },
   {
-    "_id": {
-      "quarter": "2025-06-14 00:00:00"
-    },
-    "totalRemainingNominal": 9961766,
-    "countFlows": 551
+    "_id": "energy",
+    "totalRemainingNominal": 2921248
   },
   {
-    "_id": {
-      "quarter": "2025-06-15 00:00:00"
-    },
-    "totalRemainingNominal": 10506745,
-    "countFlows": 583
+    "_id": "white",
+    "totalRemainingNominal": 3018478
   },
   {
-    "_id": {
-      "quarter": "2025-06-16 00:00:00"
-    },
-    "totalRemainingNominal": 9730065,
-    "countFlows": 551
+    "_id": "general",
+    "totalRemainingNominal": 2851087
   },
   {
-    "_id": {
-      "quarter": "2025-06-17 00:00:00"
-    },
-    "totalRemainingNominal": 9936403,
-    "countFlows": 547
+    "_id": "miss",
+    "totalRemainingNominal": 2994766
   },
   {
-    "_id": {
-      "quarter": "2025-06-18 00:00:00"
-    },
-    "totalRemainingNominal": 9144184,
-    "countFlows": 509
+    "_id": "evening",
+    "totalRemainingNominal": 2830494
   },
   {
-    "_id": {
-      "quarter": "2025-06-19 00:00:00"
-    },
-    "totalRemainingNominal": 9927482,
-    "countFlows": 561
+    "_id": "war",
+    "totalRemainingNominal": 2968740
   },
   {
-    "_id": {
-      "quarter": "2025-06-20 00:00:00"
-    },
-    "totalRemainingNominal": 9163795,
-    "countFlows": 511
+    "_id": "teach",
+    "totalRemainingNominal": 2940973
   },
   {
-    "_id": {
-      "quarter": "2025-06-21 00:00:00"
-    },
-    "totalRemainingNominal": 9994294,
-    "countFlows": 561
+    "_id": "many",
+    "totalRemainingNominal": 3152891
   },
   {
-    "_id": {
-      "quarter": "2025-06-22 00:00:00"
-    },
-    "totalRemainingNominal": 9605711,
-    "countFlows": 542
+    "_id": "word",
+    "totalRemainingNominal": 2960231
   },
   {
-    "_id": {
-      "quarter": "2025-06-23 00:00:00"
-    },
-    "totalRemainingNominal": 9613737,
-    "countFlows": 542
+    "_id": "offer",
+    "totalRemainingNominal": 2977421
   },
   {
-    "_id": {
-      "quarter": "2025-06-24 00:00:00"
-    },
-    "totalRemainingNominal": 9756240,
-    "countFlows": 548
+    "_id": "center",
+    "totalRemainingNominal": 3107211
   },
   {
-    "_id": {
-      "quarter": "2025-06-25 00:00:00"
-    },
-    "totalRemainingNominal": 10362415,
-    "countFlows": 586
+    "_id": "contain",
+    "totalRemainingNominal": 3122920
   },
   {
-    "_id": {
-      "quarter": "2025-06-26 00:00:00"
-    },
-    "totalRemainingNominal": 9529658,
-    "countFlows": 526
+    "_id": "pull",
+    "totalRemainingNominal": 2844703
   },
   {
-    "_id": {
-      "quarter": "2025-06-27 00:00:00"
-    },
-    "totalRemainingNominal": 9853214,
-    "countFlows": 552
+    "_id": "even",
+    "totalRemainingNominal": 3388474
   },
   {
-    "_id": {
-      "quarter": "2025-06-28 00:00:00"
-    },
-    "totalRemainingNominal": 9034725,
-    "countFlows": 501
+    "_id": "seven",
+    "totalRemainingNominal": 3009463
   },
   {
-    "_id": {
-      "quarter": "2025-06-29 00:00:00"
-    },
-    "totalRemainingNominal": 9773498,
-    "countFlows": 546
+    "_id": "range",
+    "totalRemainingNominal": 2955761
   },
   {
-    "_id": {
-      "quarter": "2025-06-30 00:00:00"
-    },
-    "totalRemainingNominal": 10028503,
-    "countFlows": 558
+    "_id": "develop",
+    "totalRemainingNominal": 2849125
   },
   {
-    "_id": {
-      "quarter": "2025-07-01 00:00:00"
-    },
-    "totalRemainingNominal": 10588269,
-    "countFlows": 581
+    "_id": "test",
+    "totalRemainingNominal": 2745616
   },
   {
-    "_id": {
-      "quarter": "2025-07-02 00:00:00"
-    },
-    "totalRemainingNominal": 9853344,
-    "countFlows": 550
+    "_id": "degree",
+    "totalRemainingNominal": 2877827
   },
   {
-    "_id": {
-      "quarter": "2025-07-03 00:00:00"
-    },
-    "totalRemainingNominal": 10098826,
-    "countFlows": 565
+    "_id": "action",
+    "totalRemainingNominal": 2903556
   },
   {
-    "_id": {
-      "quarter": "2025-07-04 00:00:00"
-    },
-    "totalRemainingNominal": 9606762,
-    "countFlows": 532
+    "_id": "heart",
+    "totalRemainingNominal": 2886240
   },
   {
-    "_id": {
-      "quarter": "2025-07-05 00:00:00"
-    },
-    "totalRemainingNominal": 9519134,
-    "countFlows": 529
+    "_id": "individual",
+    "totalRemainingNominal": 2819234
   },
   {
-    "_id": {
-      "quarter": "2025-07-06 00:00:00"
-    },
-    "totalRemainingNominal": 10285272,
-    "countFlows": 575
+    "_id": "whole",
+    "totalRemainingNominal": 3188703
   },
   {
-    "_id": {
-      "quarter": "2025-07-07 00:00:00"
-    },
-    "totalRemainingNominal": 9759376,
-    "countFlows": 545
+    "_id": "provide",
+    "totalRemainingNominal": 3063524
   },
   {
-    "_id": {
-      "quarter": "2025-07-08 00:00:00"
-    },
-    "totalRemainingNominal": 9942722,
-    "countFlows": 556
+    "_id": "while",
+    "totalRemainingNominal": 3279847
   },
   {
-    "_id": {
-      "quarter": "2025-07-09 00:00:00"
-    },
-    "totalRemainingNominal": 9880921,
-    "countFlows": 556
+    "_id": "edge",
+    "totalRemainingNominal": 2931818
   },
   {
-    "_id": {
-      "quarter": "2025-07-10 00:00:00"
-    },
-    "totalRemainingNominal": 9996674,
-    "countFlows": 560
+    "_id": "them",
+    "totalRemainingNominal": 2991088
   },
   {
-    "_id": {
-      "quarter": "2025-07-11 00:00:00"
-    },
-    "totalRemainingNominal": 9841486,
-    "countFlows": 548
+    "_id": "civil",
+    "totalRemainingNominal": 2871665
   },
   {
-    "_id": {
-      "quarter": "2025-07-12 00:00:00"
-    },
-    "totalRemainingNominal": 10039698,
-    "countFlows": 557
+    "_id": "carry",
+    "totalRemainingNominal": 2981937
   },
   {
-    "_id": {
-      "quarter": "2025-07-13 00:00:00"
-    },
-    "totalRemainingNominal": 10397450,
-    "countFlows": 580
+    "_id": "rich",
+    "totalRemainingNominal": 2987805
   },
   {
-    "_id": {
-      "quarter": "2025-07-14 00:00:00"
-    },
-    "totalRemainingNominal": 9430884,
-    "countFlows": 533
+    "_id": "issue",
+    "totalRemainingNominal": 2906258
   },
   {
-    "_id": {
-      "quarter": "2025-07-15 00:00:00"
-    },
-    "totalRemainingNominal": 9955609,
-    "countFlows": 555
+    "_id": "item",
+    "totalRemainingNominal": 2873238
   },
   {
-    "_id": {
-      "quarter": "2025-07-16 00:00:00"
-    },
-    "totalRemainingNominal": 10072755,
-    "countFlows": 567
+    "_id": "season",
+    "totalRemainingNominal": 3053490
   },
   {
-    "_id": {
-      "quarter": "2025-07-17 00:00:00"
-    },
-    "totalRemainingNominal": 9000098,
-    "countFlows": 506
+    "_id": "process",
+    "totalRemainingNominal": 3207992
   },
   {
-    "_id": {
-      "quarter": "2025-07-18 00:00:00"
-    },
-    "totalRemainingNominal": 10106275,
-    "countFlows": 562
+    "_id": "cell",
+    "totalRemainingNominal": 2874821
   },
   {
-    "_id": {
-      "quarter": "2025-07-19 00:00:00"
-    },
-    "totalRemainingNominal": 10122745,
-    "countFlows": 566
+    "_id": "charge",
+    "totalRemainingNominal": 2954596
   },
   {
-    "_id": {
-      "quarter": "2025-07-20 00:00:00"
-    },
-    "totalRemainingNominal": 10449106,
-    "countFlows": 589
+    "_id": "house",
+    "totalRemainingNominal": 2901439
   },
   {
-    "_id": {
-      "quarter": "2025-07-21 00:00:00"
-    },
-    "totalRemainingNominal": 9562397,
-    "countFlows": 534
+    "_id": "act",
+    "totalRemainingNominal": 3253998
   },
   {
-    "_id": {
-      "quarter": "2025-07-22 00:00:00"
-    },
-    "totalRemainingNominal": 10239987,
-    "countFlows": 571
+    "_id": "body",
+    "totalRemainingNominal": 2781489
   },
   {
-    "_id": {
-      "quarter": "2025-07-23 00:00:00"
-    },
-    "totalRemainingNominal": 9733930,
-    "countFlows": 545
+    "_id": "consider",
+    "totalRemainingNominal": 3556442
   },
   {
-    "_id": {
-      "quarter": "2025-07-24 00:00:00"
-    },
-    "totalRemainingNominal": 9665418,
-    "countFlows": 549
+    "_id": "suggest",
+    "totalRemainingNominal": 2985976
   },
   {
-    "_id": {
-      "quarter": "2025-07-25 00:00:00"
-    },
-    "totalRemainingNominal": 9139145,
-    "countFlows": 504
+    "_id": "than",
+    "totalRemainingNominal": 2918176
   },
   {
-    "_id": {
-      "quarter": "2025-07-26 00:00:00"
-    },
-    "totalRemainingNominal": 10764114,
-    "countFlows": 598
+    "_id": "can",
+    "totalRemainingNominal": 2888781
   },
   {
-    "_id": {
-      "quarter": "2025-07-27 00:00:00"
-    },
-    "totalRemainingNominal": 9688695,
-    "countFlows": 538
+    "_id": "actually",
+    "totalRemainingNominal": 2933020
   },
   {
-    "_id": {
-      "quarter": "2025-07-28 00:00:00"
-    },
-    "totalRemainingNominal": 10263717,
-    "countFlows": 567
+    "_id": "common",
+    "totalRemainingNominal": 3013666
   },
   {
-    "_id": {
-      "quarter": "2025-07-29 00:00:00"
-    },
-    "totalRemainingNominal": 9396177,
-    "countFlows": 530
+    "_id": "PM",
+    "totalRemainingNominal": 3014522
   },
   {
-    "_id": {
-      "quarter": "2025-07-30 00:00:00"
-    },
-    "totalRemainingNominal": 9486456,
-    "countFlows": 538
+    "_id": "place",
+    "totalRemainingNominal": 3156561
   },
   {
-    "_id": {
-      "quarter": "2025-07-31 00:00:00"
-    },
-    "totalRemainingNominal": 9437118,
-    "countFlows": 527
+    "_id": "without",
+    "totalRemainingNominal": 3155546
   },
   {
-    "_id": {
-      "quarter": "2025-08-01 00:00:00"
-    },
-    "totalRemainingNominal": 10065210,
-    "countFlows": 560
+    "_id": "cost",
+    "totalRemainingNominal": 3027138
   },
   {
-    "_id": {
-      "quarter": "2025-08-02 00:00:00"
-    },
-    "totalRemainingNominal": 9799990,
-    "countFlows": 555
+    "_id": "together",
+    "totalRemainingNominal": 2869533
   },
   {
-    "_id": {
-      "quarter": "2025-08-03 00:00:00"
-    },
-    "totalRemainingNominal": 9141552,
-    "countFlows": 513
+    "_id": "reach",
+    "totalRemainingNominal": 2907018
   },
   {
-    "_id": {
-      "quarter": "2025-08-04 00:00:00"
-    },
-    "totalRemainingNominal": 9265353,
-    "countFlows": 518
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-05 00:00:00"
-    },
-    "totalRemainingNominal": 9150951,
-    "countFlows": 508
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-06 00:00:00"
-    },
-    "totalRemainingNominal": 9642012,
-    "countFlows": 545
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-07 00:00:00"
-    },
-    "totalRemainingNominal": 9583468,
-    "countFlows": 543
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-08 00:00:00"
-    },
-    "totalRemainingNominal": 9743114,
-    "countFlows": 552
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-09 00:00:00"
-    },
-    "totalRemainingNominal": 10201737,
-    "countFlows": 566
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-10 00:00:00"
-    },
-    "totalRemainingNominal": 9208459,
-    "countFlows": 516
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-11 00:00:00"
-    },
-    "totalRemainingNominal": 9424479,
-    "countFlows": 530
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-12 00:00:00"
-    },
-    "totalRemainingNominal": 10291469,
-    "countFlows": 582
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-13 00:00:00"
-    },
-    "totalRemainingNominal": 9501703,
-    "countFlows": 529
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-14 00:00:00"
-    },
-    "totalRemainingNominal": 10244152,
-    "countFlows": 577
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-15 00:00:00"
-    },
-    "totalRemainingNominal": 9430759,
-    "countFlows": 531
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-16 00:00:00"
-    },
-    "totalRemainingNominal": 9418455,
-    "countFlows": 525
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-17 00:00:00"
-    },
-    "totalRemainingNominal": 9837883,
-    "countFlows": 549
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-18 00:00:00"
-    },
-    "totalRemainingNominal": 9837781,
-    "countFlows": 549
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-19 00:00:00"
-    },
-    "totalRemainingNominal": 10301499,
-    "countFlows": 579
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-20 00:00:00"
-    },
-    "totalRemainingNominal": 9031572,
-    "countFlows": 505
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-21 00:00:00"
-    },
-    "totalRemainingNominal": 9611572,
-    "countFlows": 541
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-22 00:00:00"
-    },
-    "totalRemainingNominal": 9850837,
-    "countFlows": 549
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-23 00:00:00"
-    },
-    "totalRemainingNominal": 9787771,
-    "countFlows": 546
-  },
-  {
-    "_id": {
-      "quarter": "2025-08-24 00:00:00"
-    },
-    "totalRemainingNominal": 4963387,
-    "countFlows": 281
+    "_id": "sign",
+    "totalRemainingNominal": 2922361
   }
 ]
